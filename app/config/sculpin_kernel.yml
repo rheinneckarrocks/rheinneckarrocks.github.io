@@ -1,3 +1,9 @@
 sculpin_content_types:
     posts:
         enabled: false
+    events:
+        type: path
+        path: _events
+        singular_name: event
+        layout: event
+        enabled: true
