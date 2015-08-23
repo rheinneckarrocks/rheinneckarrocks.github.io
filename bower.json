@@ -1,0 +1,12 @@
+{
+  "name": "rheinneckarrocks/website",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.0",
+    "jquery-form":  "3.51",
+    "jquery-validation": "~1.13.1",
+    "modernizr": "~2.8.3",
+    "html5shiv": "~3.7.2"
+  }
+}
