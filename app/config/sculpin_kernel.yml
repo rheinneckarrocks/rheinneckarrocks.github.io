@@ -7,3 +7,9 @@ sculpin_content_types:
         singular_name: event
         layout: event
         enabled: true
+    usergroups:
+        type: path
+        path: _usergroups
+        singular_name: usergroup
+        layout: usergroup
+        enabled: true

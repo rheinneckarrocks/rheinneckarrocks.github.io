@@ -1,6 +1,6 @@
 ---
 layout: default
-use: [events]
+use: [events, usergroups]
 ---
 <ol>
     <li>Github Repo <a href="https://github.com/rheinneckarrocks/rheinneckarrocks.github.io">rheinneckarrocks.github.io</a> forken</li>

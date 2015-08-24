@@ -28,7 +28,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #333;
 }
 
 h1,
@@ -59,6 +59,10 @@ hr.star:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+
+ul {
+    list-style-type: none;
 }
 
 @media(min-width:768px) {
@@ -133,19 +137,6 @@ section#events hr.star {
 section#events hr.star:after {
     color: #009c81;
     background-color: #fff;
-}
-
-section#events a,
-section#events a:hover,
-section#events a:focus,
-section#events a:active,
-section#events a.active {
-    outline: 0;
-    color: #2c3e50;
-}
-
-section#events ul {
-    list-style-type: none;
 }
 
 section#ug {
