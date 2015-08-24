@@ -1,4 +1,6 @@
 ---
 title: WebKickern
-date: 2015-10-12 19:00
+date: 2015-10-12
+location: bitExpert AG
+link: http://www.webkickern.de
 ---
