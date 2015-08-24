@@ -2,8 +2,9 @@
 layout: default
 use: [events]
 ---
-<ul>
-{% for event in data.events %}
-    <li>{{ event.meta.date|date("d.m.Y") }}: <a href="{{ event.meta.link }}">{{ event.meta.title }}</a> (Ort: {{ event.meta.location }})</li>
-{% endfor %}
-</ul>
+<ol>
+    <li>Repo forken</li>
+    <li>Auf Branch sculpin wechseln</li>
+    <li>Events in source/_events einpflegen</li>
+    <li>Pull Request stellen</li>
+</ol>
