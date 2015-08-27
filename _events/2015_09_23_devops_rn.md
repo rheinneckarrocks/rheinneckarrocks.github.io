@@ -132,7 +132,7 @@
                 <div class="footer-col col-md-4">
                     <h3>&Uuml;ber</h3>
 
-                    <p>Veranstaltungshinweise für die Metropolregion Rhein-Neckar.</p>
+                    <p>Veranstaltungshinweise aus der Metropolregion Rhein-Neckar.</p>
                 </div>
             </div>
         </div>
