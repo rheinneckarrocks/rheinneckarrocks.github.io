@@ -1,4 +1,4 @@
 ---
-title: Webmontag Metropolregion Rhein-Neckar / Mannheim
+title: Webmontag Metropolregion Rhein-Neckar
 link: http://wmmrn.de/
 ---
