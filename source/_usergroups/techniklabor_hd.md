@@ -1,5 +1,0 @@
----
-title: Techniklabor des ExploHeidelberg
-link: http://www.explo-heidelberg.de/index.php/techniklabor-seite/workshops-techniklabor/
----
-
