@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Was geht ab in der Metropolregion Rhein-Neckar?">
+    <meta name="keywords" content="Veranstaltungen, Metropolregion Rhein-Neckar, Rhein-Neckar, MRN">
     <title>#rheinneckarrocks | Was geht ab in der Metropolregion Rhein-Neckar?</title>
     <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -14,6 +16,14 @@
     <script src="bower_components/html5shiv/dist/html5shiv.js"></script>
     <script src="bower_components/respond/dest/respond.min.js"></script>
     <![endif]-->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="#rheinneckarrocks" />
+    <meta property="og:description" content="Was geht ab in der Metropolregion Rhein-Neckar?" />
+    <meta property="og:url" content="http://rheinneckarrocks.de/" />
+    <meta property="og:site_name" content="rheinneckarrocks" />
+    <meta property="og:image" content="http://rheinneckarrocks.de/images/rnrocks.png" />
+    <meta property="og:locale" content="de_DE" />
+    <meta name="twitter:site" content="@rn_rocks" />
 </head>
 
 <body id="page-top" class="index">
