@@ -11,3 +11,11 @@ sculpin_content_types:
         path: _usergroups
         singular_name: usergroup
         enabled: true
+sculpin_twig:
+  extensions:
+    - ''
+    - html
+    - twig
+    - json
+    - html.twig
+    - twig.html

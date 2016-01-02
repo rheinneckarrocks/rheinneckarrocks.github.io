@@ -1,0 +1,23 @@
+{
+  "name": "rheinneckarrocks/website",
+  "description": "rheinneckarrocks.de website",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Stephan Hochdörfer",
+      "email": "info@rheinneckarrocks.de",
+      "homepage": "http://www.rheinneckarrocks.de"
+    }
+  ],
+  "require": {
+    "sculpin/sculpin": "~2.0@dev",
+    "composer/composer": "@dev",
+    "dflydev/embedded-composer-console": "@dev",
+    "dflydev/embedded-composer-core": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rheinneckarrocks\\": "app/src/"
+    }
+  }
+}
