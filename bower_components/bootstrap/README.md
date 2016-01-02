@@ -1,45 +1,41 @@
-<h1 id="bootstrap"><a href="http://getbootstrap.com">Bootstrap</a></h1>
+# [Bootstrap](http://getbootstrap.com)
+[![Bower version](https://badge.fury.io/bo/bootstrap.svg)](http://badge.fury.io/bo/bootstrap)
+[![NPM version](https://badge.fury.io/js/bootstrap.svg)](http://badge.fury.io/js/bootstrap)
+[![Build Status](https://secure.travis-ci.org/twbs/bootstrap.svg?branch=master)](http://travis-ci.org/twbs/bootstrap)
+[![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.svg)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
+[![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
-<p><a href="http://badge.fury.io/bo/bootstrap"><img src="https://badge.fury.io/bo/bootstrap.svg" alt="Bower version" /></a>
-<a href="http://badge.fury.io/js/bootstrap"><img src="https://badge.fury.io/js/bootstrap.svg" alt="NPM version" /></a>
-<a href="http://travis-ci.org/twbs/bootstrap"><img src="https://secure.travis-ci.org/twbs/bootstrap.svg?branch=master" alt="Build Status" /></a>
-<a href="https://david-dm.org/twbs/bootstrap#info=devDependencies"><img src="https://david-dm.org/twbs/bootstrap/dev-status.svg" alt="devDependency Status" /></a>
-<a href="https://saucelabs.com/u/bootstrap"><img src="https://saucelabs.com/browser-matrix/bootstrap.svg" alt="Selenium Test Status" /></a></p>
+Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat), and maintained by the [core team](https://github.com/twbs?tab=members) with the massive support and involvement of the community.
 
-<p>Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by <a href="http://twitter.com/mdo">Mark Otto</a> and <a href="http://twitter.com/fat">Jacob Thornton</a>, and maintained by the <a href="https://github.com/twbs?tab=members">core team</a> with the massive support and involvement of the community.</p>
+To get started, check out <http://getbootstrap.com>!
 
-<p>To get started, check out <a href="http://getbootstrap.com">http://getbootstrap.com</a>!</p>
+## Table of contents
 
-<h2 id="table-of-contents">Table of contents</h2>
+ - [Quick start](#quick-start)
+ - [Bugs and feature requests](#bugs-and-feature-requests)
+ - [Documentation](#documentation)
+ - [Contributing](#contributing)
+ - [Community](#community)
+ - [Versioning](#versioning)
+ - [Creators](#creators)
+ - [Copyright and license](#copyright-and-license)
 
-<ul>
-<li><a href="#quick-start">Quick start</a></li>
-<li><a href="#bugs-and-feature-requests">Bugs and feature requests</a></li>
-<li><a href="#documentation">Documentation</a></li>
-<li><a href="#contributing">Contributing</a></li>
-<li><a href="#community">Community</a></li>
-<li><a href="#versioning">Versioning</a></li>
-<li><a href="#creators">Creators</a></li>
-<li><a href="#copyright-and-license">Copyright and license</a></li>
-</ul>
+## Quick start
 
-<h2 id="quick-start">Quick start</h2>
+Three quick start options are available:
 
-<p>Three quick start options are available:</p>
+- [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.2.0.zip).
+- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
+- Install with [Bower](http://bower.io): `bower install bootstrap`.
 
-<ul>
-<li><a href="https://github.com/twbs/bootstrap/archive/v3.2.0.zip">Download the latest release</a>.</li>
-<li>Clone the repo: <code>git clone https://github.com/twbs/bootstrap.git</code>.</li>
-<li>Install with <a href="http://bower.io">Bower</a>: <code>bower install bootstrap</code>.</li>
-</ul>
+Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
-<p>Read the <a href="http://getbootstrap.com/getting-started/">Getting started page</a> for information on the framework contents, templates and examples, and more.</p>
+### What's included
 
-<h3 id="what%27s-included">What's included</h3>
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
-<p>Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:</p>
-
-<pre><code>bootstrap/
+```
+bootstrap/
 ├── css/
 │   ├── bootstrap.css
 │   ├── bootstrap.min.css
@@ -53,77 +49,79 @@
     ├── glyphicons-halflings-regular.svg
     ├── glyphicons-halflings-regular.ttf
     └── glyphicons-halflings-regular.woff
-</code></pre>
+```
 
-<p>We provide compiled CSS and JS (<code>bootstrap.*</code>), as well as compiled and minified CSS and JS (<code>bootstrap.min.*</code>). Fonts from Glyphicons are included, as is the optional Bootstrap theme.</p>
+We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). Fonts from Glyphicons are included, as is the optional Bootstrap theme.
 
-<h2 id="bugs-and-feature-requests">Bugs and feature requests</h2>
 
-<p>Have a bug or a feature request? Please first read the <a href="https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker">issue guidelines</a> and search for existing and closed issues. If your problem or idea is not addressed yet, <a href="https://github.com/twbs/bootstrap/issues/new">please open a new issue</a>.</p>
 
-<h2 id="documentation">Documentation</h2>
+## Bugs and feature requests
 
-<p>Bootstrap's documentation, included in this repo in the root directory, is built with <a href="http://jekyllrb.com">Jekyll</a> and publicly hosted on GitHub Pages at <a href="http://getbootstrap.com">http://getbootstrap.com</a>. The docs may also be run locally.</p>
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
-<h3 id="running-documentation-locally">Running documentation locally</h3>
 
-<ol>
-<li>If necessary, <a href="http://jekyllrb.com/docs/installation">install Jekyll</a> (requires v2.0.x).
+## Documentation
 
-<ul>
-<li><strong>Windows users:</strong> Read <a href="https://github.com/juthilo/run-jekyll-on-windows/">this unofficial guide</a> to get Jekyll up and running without problems. We use Pygments for syntax highlighting, so make sure to read the sections on installing Python and Pygments.</li>
-</ul></li>
-<li>From the root <code>/bootstrap</code> directory, run <code>jekyll serve</code> in the command line.</li>
-<li>Open <a href="http://localhost:9001">http://localhost:9001</a> in your browser, and voilà.</li>
-</ol>
+Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](http://jekyllrb.com) and publicly hosted on GitHub Pages at <http://getbootstrap.com>. The docs may also be run locally.
 
-<p>Learn more about using Jekyll by reading its <a href="http://jekyllrb.com/docs/home/">documentation</a>.</p>
+### Running documentation locally
 
-<h3 id="documentation-for-previous-releases">Documentation for previous releases</h3>
+1. If necessary, [install Jekyll](http://jekyllrb.com/docs/installation) (requires v2.0.x).
+  - **Windows users:** Read [this unofficial guide](https://github.com/juthilo/run-jekyll-on-windows/) to get Jekyll up and running without problems. We use Pygments for syntax highlighting, so make sure to read the sections on installing Python and Pygments.
+2. From the root `/bootstrap` directory, run `jekyll serve` in the command line.
+3. Open <http://localhost:9001> in your browser, and voilà.
 
-<p>Documentation for v2.3.2 has been made available for the time being at <a href="http://getbootstrap.com/2.3.2/">http://getbootstrap.com/2.3.2/</a> while folks transition to Bootstrap 3.</p>
+Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com/docs/home/).
 
-<p><a href="https://github.com/twbs/bootstrap/releases">Previous releases</a> and their documentation are also available for download.</p>
+### Documentation for previous releases
 
-<h2 id="contributing">Contributing</h2>
+Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
 
-<p>Please read through our <a href="https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md">contributing guidelines</a>. Included are directions for opening issues, coding standards, and notes on development.</p>
+[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
-<p>Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the <a href="http://github.com/mdo/code-guide">Code Guide</a>, maintained by <a href="http://github.com/mdo">Mark Otto</a>.</p>
 
-<p>Editor preferences are available in the <a href="https://github.com/twbs/bootstrap/blob/master/.editorconfig">editor config</a> for easy use in common text editors. Read more and download plugins at <a href="http://editorconfig.org">http://editorconfig.org</a>.</p>
 
-<h2 id="community">Community</h2>
+## Contributing
 
-<p>Keep track of development and community news.</p>
+Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-<ul>
-<li>Follow <a href="http://twitter.com/twbootstrap">@twbootstrap on Twitter</a>.</li>
-<li>Read and subscribe to <a href="http://blog.getbootstrap.com">The Official Bootstrap Blog</a>.</li>
-<li>Chat with fellow Bootstrappers in IRC. On the <code>irc.freenode.net</code> server, in the <code>##twitter-bootstrap</code> channel.</li>
-<li>Implementation help may be found at Stack Overflow (tagged <a href="http://stackoverflow.com/questions/tagged/twitter-bootstrap-3"><code>twitter-bootstrap-3</code></a>).</li>
-</ul>
+Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](http://github.com/mdo/code-guide), maintained by [Mark Otto](http://github.com/mdo).
 
-<h2 id="versioning">Versioning</h2>
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
-<p>For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under <a href="http://semver.org/">the Semantic Versioning guidelines</a>. Sometimes we screw up, but we'll adhere to those rules whenever possible.</p>
 
-<h2 id="creators">Creators</h2>
 
-<p><strong>Mark Otto</strong></p>
+## Community
 
-<ul>
-<li><a href="http://twitter.com/mdo">http://twitter.com/mdo</a></li>
-<li><a href="http://github.com/mdo">http://github.com/mdo</a></li>
-</ul>
+Keep track of development and community news.
 
-<p><strong>Jacob Thornton</strong></p>
+- Follow [@twbootstrap on Twitter](http://twitter.com/twbootstrap).
+- Read and subscribe to [The Official Bootstrap Blog](http://blog.getbootstrap.com).
+- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##twitter-bootstrap` channel.
+- Implementation help may be found at Stack Overflow (tagged [`twitter-bootstrap-3`](http://stackoverflow.com/questions/tagged/twitter-bootstrap-3)).
 
-<ul>
-<li><a href="http://twitter.com/fat">http://twitter.com/fat</a></li>
-<li><a href="http://github.com/fat">http://github.com/fat</a></li>
-</ul>
 
-<h2 id="copyright-and-license">Copyright and license</h2>
 
-<p>Code and documentation copyright 2011-2014 Twitter, Inc. Code released under <a href="LICENSE">the MIT license</a>. Docs released under <a href="docs/LICENSE">Creative Commons</a>.</p>
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
+
+
+
+## Creators
+
+**Mark Otto**
+
+- <http://twitter.com/mdo>
+- <http://github.com/mdo>
+
+**Jacob Thornton**
+
+- <http://twitter.com/fat>
+- <http://github.com/fat>
+
+
+
+## Copyright and license
+
+Code and documentation copyright 2011-2014 Twitter, Inc. Code released under [the MIT license](LICENSE). Docs released under [Creative Commons](docs/LICENSE).

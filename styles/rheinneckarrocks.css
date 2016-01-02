@@ -139,6 +139,18 @@ section#events hr.star:after {
     background-color: #fff;
 }
 
+section#events #cal-week-box {
+    display: none !important;
+}
+
+section#events #cal-day-tick {
+    display: none !important;
+}
+
+section#events  .row .btn-group {
+    margin-top: 20px;
+}
+
 section#ug {
     border-bottom: 2px solid #e7e7e7;
 }
