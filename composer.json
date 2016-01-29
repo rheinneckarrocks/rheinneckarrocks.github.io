@@ -13,7 +13,8 @@
     "sculpin/sculpin": "~2.0@dev",
     "composer/composer": "@dev",
     "dflydev/embedded-composer-console": "@dev",
-    "dflydev/embedded-composer-core": "@dev"
+    "dflydev/embedded-composer-core": "@dev",
+    "phing/phing": "^2.13"
   },
   "autoload": {
     "psr-4": {
