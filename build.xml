@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="rheinneckarrocks.github.io" basedir="." default="build">
+
+    <target name="build">
+        <!-- continuousphp.com needs a Phing file up to now... -->
+        <exec executable="./build.sh"
+              passthru="true"
+              checkreturn="true">
+            <!-- Variables injected from the build environment -->
+            <arg value="${gitemail}"/>
+            <arg value="${gituser}"/>
+        </exec>
+    </target>
+</project>
