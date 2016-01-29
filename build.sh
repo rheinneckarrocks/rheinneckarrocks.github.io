@@ -20,7 +20,12 @@ git config --global push.default matching
 # Checking in changes to master branch
 git checkout master
 mv output_prod/* .
+
+# Remove not needed directories
 rm -rf output_prod
+rm -rf _events
+rm -rf _usergroups
+
 git add -A
 git commit -m "Regenerated site."
 git push;
