@@ -4,18 +4,20 @@
         <title>#rheinneckarrocks</title>
         <description>Was geht ab in der Metropolregion Rhein-Neckar?</description>
         <link>http://www.rheinneckarrocks.de</link>
-        <atom:link href="http://www.rheinneckarrocks.de/hootsuite.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rheinneckarrocks.de/hootsuite.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>unKonf 2016</title>
             <description>unKonf 2016 am 16.04.2016 in #Mannheim! #bitExpert #Hafenpark</description>
             <pubDate>Sat, 30 Jan 2016 10:00:00 +0100</pubDate>
             <link>https://www.unkonf.de/</link>
+            <guid>https://www.unkonf.de/</guid>
         </item>
         <item>
             <title>phpugmrn 01/2016</title>
             <description>Am 25.02. trifft sich die PHP Usergroup MRN in #Mannheim! #bitExpert #Hafenpark</description>
             <pubDate>Sat, 30 Jan 2016 11:00:00 +0100</pubDate>
             <link>http://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/events/228015471/?eventId=228015471</link>
+            <guid>http://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/events/228015471/?eventId=228015471</guid>
         </item>
     </channel>
 </rss>
