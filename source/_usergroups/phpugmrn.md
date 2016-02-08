@@ -1,4 +1,6 @@
 ---
+layout: usergroup
+use: [events]
 title: PHP Usergroup Metropolregion Rhein-Neckar
 link: http://www.meetup.com/PHPUG-Rhein-Neckar/
 slug: phpugmrn
