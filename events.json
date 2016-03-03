@@ -3,32 +3,32 @@
   "result": [
         {
     "id": 0,
-    "title": "BASTA! 2016",
-    "url": "https://basta.net/",
-    "class": "event-info",
-    "start": "1456959600000",
-    "end": "1456959600000"
-    },        {
-    "id": 1,
     "title": "DukeCon Hackathon",
     "url": "http://www.jug-da.de/2016/03/DukeCon-Hackathon/",
     "class": "event-info",
     "start": "1457132400000",
     "end": "1457132400000"
     },        {
-    "id": 2,
+    "id": 1,
     "title": "Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/228958557/",
     "class": "event-info",
     "start": "1457218800000",
     "end": "1457218800000"
     },        {
-    "id": 3,
+    "id": 2,
     "title": "Interactive notebooks with IPython Workshop",
     "url": "http://www.meetup.com/HeidelbergPython/events/229184741/",
     "class": "event-info",
     "start": "1457305200000",
     "end": "1457305200000"
+    },        {
+    "id": 3,
+    "title": "Effective listening is part of public speaking",
+    "url": "http://www.meetup.com/Mannheim-Toastmasters/events/229227774/",
+    "class": "event-info",
+    "start": "1457391600000",
+    "end": "1457391600000"
     },        {
     "id": 4,
     "title": "Women’s Day Presentation",
@@ -38,11 +38,11 @@
     "end": "1457391600000"
     },        {
     "id": 5,
-    "title": "Effective listening is part of public speaking",
-    "url": "http://www.meetup.com/Mannheim-Toastmasters/events/229227774/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/229319538/",
     "class": "event-info",
-    "start": "1457391600000",
-    "end": "1457391600000"
+    "start": "1457478000000",
+    "end": "1457478000000"
     },        {
     "id": 6,
     "title": "Visualizing Biological Data (VIZBI 2016)",
@@ -52,11 +52,11 @@
     "end": "1457478000000"
     },        {
     "id": 7,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/229319538/",
+    "title": "Entwicklertag Frankfurt 2016",
+    "url": "https://entwicklertag.de/frankfurt/2016/",
     "class": "event-info",
-    "start": "1457478000000",
-    "end": "1457478000000"
+    "start": "1457564400000",
+    "end": "1457564400000"
     },        {
     "id": 8,
     "title": "Java EE, Extendable to Functional (inklusive Nighthacking on Tour) (David Blevins (Stephen Chin und Sebastian Daschner))",
@@ -69,29 +69,29 @@
     "title": "Entwicklertag Frankfurt 2016",
     "url": "https://entwicklertag.de/frankfurt/2016/",
     "class": "event-info",
-    "start": "1457564400000",
-    "end": "1457564400000"
-    },        {
-    "id": 10,
-    "title": "Entwicklertag Frankfurt 2016",
-    "url": "https://entwicklertag.de/frankfurt/2016/",
-    "class": "event-info",
     "start": "1457650800000",
     "end": "1457650800000"
     },        {
-    "id": 11,
+    "id": 10,
     "title": "Rust Stammtisch Darmstadt",
     "url": "http://www.meetup.com/Rust-Rhein-Main/events/228665878/",
     "class": "event-info",
     "start": "1457650800000",
     "end": "1457650800000"
     },        {
-    "id": 12,
+    "id": 11,
     "title": "Meet on a regular basis",
     "url": "http://www.meetup.com/back-to-the-future/events/229315591/",
     "class": "event-info",
     "start": "1457650800000",
     "end": "1457650800000"
+    },        {
+    "id": 12,
+    "title": "Easter Cookie Cutters Workshop",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/229323685/",
+    "class": "event-info",
+    "start": "1457823600000",
+    "end": "1457823600000"
     },        {
     "id": 13,
     "title": "Interactive notebooks with IPython Workshop",
@@ -150,29 +150,29 @@
     "end": "1458514800000"
     },        {
     "id": 21,
-    "title": "1st Elixir socialize",
-    "url": "http://www.meetup.com/Elixir-Karlsruhe/events/229147832/",
-    "class": "event-info",
-    "start": "1458687600000",
-    "end": "1458687600000"
-    },        {
-    "id": 22,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvfbfc/",
     "class": "event-info",
     "start": "1458687600000",
     "end": "1458687600000"
     },        {
+    "id": 22,
+    "title": "1st Elixir socialize",
+    "url": "http://www.meetup.com/Elixir-Karlsruhe/events/229147832/",
+    "class": "event-info",
+    "start": "1458687600000",
+    "end": "1458687600000"
+    },        {
     "id": 23,
-    "title": "CQRS und EventSourcing",
-    "url": "http://majug.de/2016/03/24/CQRS-und-EventSourcing/",
+    "title": "Data Science Meetup",
+    "url": "http://www.meetup.com/Heidelberg-Data-Scientist-Meetup/events/229259318/",
     "class": "event-info",
     "start": "1458774000000",
     "end": "1458774000000"
     },        {
     "id": 24,
-    "title": "Data Science Meetup",
-    "url": "http://www.meetup.com/Heidelberg-Data-Scientist-Meetup/events/229259318/",
+    "title": "CQRS und EventSourcing",
+    "url": "http://majug.de/2016/03/24/CQRS-und-EventSourcing/",
     "class": "event-info",
     "start": "1458774000000",
     "end": "1458774000000"
@@ -220,15 +220,15 @@
     "end": "1459720800000"
     },        {
     "id": 31,
-    "title": "parallel 2016",
-    "url": "http://www.parallelcon.de/",
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvgbjb/",
     "class": "event-info",
     "start": "1459893600000",
     "end": "1459893600000"
     },        {
     "id": 32,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvgbjb/",
+    "title": "parallel 2016",
+    "url": "http://www.parallelcon.de/",
     "class": "event-info",
     "start": "1459893600000",
     "end": "1459893600000"
@@ -269,15 +269,15 @@
     "end": "1460066400000"
     },        {
     "id": 38,
-    "title": "Drupal Business and Community Days",
-    "url": "http://drupal-business-and-community-days.de/",
+    "title": "Data aggregation &amp; analysis in mongoDB work-shop",
+    "url": "http://www.meetup.com/Mannheim-MongoDB-User-Group/events/228698940/",
     "class": "event-info",
     "start": "1460152800000",
     "end": "1460152800000"
     },        {
     "id": 39,
-    "title": "Data aggregation &amp; analysis in mongoDB work-shop",
-    "url": "http://www.meetup.com/Mannheim-MongoDB-User-Group/events/228698940/",
+    "title": "Drupal Business and Community Days",
+    "url": "http://drupal-business-and-community-days.de/",
     "class": "event-info",
     "start": "1460152800000",
     "end": "1460152800000"
@@ -360,15 +360,15 @@
     "end": "1461276000000"
     },        {
     "id": 51,
-    "title": "Startup Weekend Rhein-Neckar",
-    "url": "http://www.startup-weekend-rhein-neckar.de",
+    "title": "Barcamp Heilbronn 2016",
+    "url": "http://connect-it.hn/barcamp-heilbronn/",
     "class": "event-info",
     "start": "1461362400000",
     "end": "1461362400000"
     },        {
     "id": 52,
-    "title": "Barcamp Heilbronn 2016",
-    "url": "http://connect-it.hn/barcamp-heilbronn/",
+    "title": "Startup Weekend Rhein-Neckar",
+    "url": "http://www.startup-weekend-rhein-neckar.de",
     "class": "event-info",
     "start": "1461362400000",
     "end": "1461362400000"
@@ -381,15 +381,15 @@
     "end": "1461362400000"
     },        {
     "id": 54,
-    "title": "Startup Weekend Rhein-Neckar",
-    "url": "http://www.startup-weekend-rhein-neckar.de",
+    "title": "Barcamp Heilbronn 2016",
+    "url": "http://connect-it.hn/barcamp-heilbronn/",
     "class": "event-info",
     "start": "1461448800000",
     "end": "1461448800000"
     },        {
     "id": 55,
-    "title": "Barcamp Heilbronn 2016",
-    "url": "http://connect-it.hn/barcamp-heilbronn/",
+    "title": "Startup Weekend Rhein-Neckar",
+    "url": "http://www.startup-weekend-rhein-neckar.de",
     "class": "event-info",
     "start": "1461448800000",
     "end": "1461448800000"
@@ -612,8 +612,8 @@
     "end": "1465855200000"
     },        {
     "id": 87,
-    "title": "enterJS 2016",
-    "url": "https://www.enterjs.de/",
+    "title": "Entwicklertag Karlsruhe 2016",
+    "url": "https://entwicklertag.de/karlsruhe/2016/",
     "class": "event-info",
     "start": "1465941600000",
     "end": "1465941600000"
@@ -626,36 +626,36 @@
     "end": "1465941600000"
     },        {
     "id": 89,
-    "title": "Entwicklertag Karlsruhe 2016",
-    "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "title": "enterJS 2016",
+    "url": "https://www.enterjs.de/",
     "class": "event-info",
     "start": "1465941600000",
     "end": "1465941600000"
     },        {
     "id": 90,
-    "title": "Entwicklertag Karlsruhe 2016",
-    "url": "https://entwicklertag.de/karlsruhe/2016/",
-    "class": "event-info",
-    "start": "1466028000000",
-    "end": "1466028000000"
-    },        {
-    "id": 91,
     "title": "enterJS 2016",
     "url": "https://www.enterjs.de/",
     "class": "event-info",
     "start": "1466028000000",
     "end": "1466028000000"
     },        {
-    "id": 92,
+    "id": 91,
     "title": "Entwicklertag Karlsruhe 2016",
     "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "class": "event-info",
+    "start": "1466028000000",
+    "end": "1466028000000"
+    },        {
+    "id": 92,
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvjbwb/",
     "class": "event-info",
     "start": "1466114400000",
     "end": "1466114400000"
     },        {
     "id": 93,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvjbwb/",
+    "title": "Entwicklertag Karlsruhe 2016",
+    "url": "https://entwicklertag.de/karlsruhe/2016/",
     "class": "event-info",
     "start": "1466114400000",
     "end": "1466114400000"
@@ -1165,15 +1165,15 @@
     "end": "1476223200000"
     },        {
     "id": 166,
-    "title": "UX-DAY Mannheim",
-    "url": "http://www.ux-day.de/",
+    "title": "Vom Wiegen allein wird die Sau nicht fett (Dr. Elmar Jürgens)",
+    "url": "http://www.jug-da.de/2016/10/Qualitaetsanalyse/",
     "class": "event-info",
     "start": "1476309600000",
     "end": "1476309600000"
     },        {
     "id": 167,
-    "title": "Vom Wiegen allein wird die Sau nicht fett (Dr. Elmar Jürgens)",
-    "url": "http://www.jug-da.de/2016/10/Qualitaetsanalyse/",
+    "title": "UX-DAY Mannheim",
+    "url": "http://www.ux-day.de/",
     "class": "event-info",
     "start": "1476309600000",
     "end": "1476309600000"
@@ -1389,15 +1389,15 @@
     "end": "1480892400000"
     },        {
     "id": 198,
-    "title": "HIP Christmas Party",
-    "url": "http://hipwf.com/event/hip-christmas-party-2016/",
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvqbkb/",
     "class": "event-info",
     "start": "1481065200000",
     "end": "1481065200000"
     },        {
     "id": 199,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvqbkb/",
+    "title": "HIP Christmas Party",
+    "url": "http://hipwf.com/event/hip-christmas-party-2016/",
     "class": "event-info",
     "start": "1481065200000",
     "end": "1481065200000"
