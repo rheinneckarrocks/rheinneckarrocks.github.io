@@ -43,7 +43,7 @@ use: [events, usergroups]
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <ul>
                     {% for group in data.usergroups %}
-                    <li><a href="{{ group.url }}">{{ group.meta.title }}</a></li>
+                    <li><a href="{{ group.url }}">{{ group.meta.name }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
