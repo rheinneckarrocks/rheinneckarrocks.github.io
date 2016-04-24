@@ -7,6 +7,7 @@
     <meta name="description" content="Was geht ab in der Metropolregion Rhein-Neckar?">
     <meta name="keywords" content="Veranstaltungen, Metropolregion Rhein-Neckar, Rhein-Neckar, MRN">
     <title>#rheinneckarrocks | Was geht ab in der Metropolregion Rhein-Neckar?</title>
+    <base href="{{ site.url }}" />
     <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="bower_components/bootstrap-calendar/css/calendar.css" rel="stylesheet" type="text/css">
@@ -51,13 +52,13 @@
                     <a href="#page-top"></a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#events">Veranstaltungen</a>
+                    <a href="/#events">Veranstaltungen</a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#ug">Usergroups</a>
+                    <a href="/#ug">Usergroups</a>
                 </li>
                 <li class="page-scroll">
-                    <a href="#help">Mitmachen</a>
+                    <a href="/#help">Mitmachen</a>
                 </li>
             </ul>
         </div>
@@ -67,68 +68,13 @@
 </nav>
 
 <!-- Events Section -->
-<section id="events">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Veranstaltungen</h2>
-                <hr class="star">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h3>Aktueller Monat</h3>
-
-                <div id="calendar"></div>
-
-                <div class="btn-group">
-                    <button class="btn btn-primary" data-calendar-nav="prev"><< Zur&uuml;ck</button>
-                    <button class="btn" data-calendar-nav="today">Heute</button>
-                    <button class="btn btn-primary" data-calendar-nav="next">Vor >></button>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
+{% block events %}{% endblock %}
 
 <!-- Usergroup Section -->
-<section id="ug">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Usergroups</h2>
-                <hr class="star">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <ul>
-                    {% for group in data.usergroups %}
-                    <li><a href="{{ group.meta.link }}">{{ group.meta.title }}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
+{% block ug %}{% endblock %}
 
 <!-- Help Section -->
-<section id="help">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Mitmachen</h2>
-                <hr class="star">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-lg-offset-4 text-center">
-                {{ page.blocks.content | raw }}
-            </div>
-        </div>
-    </div>
-</section>
+{% block help %}{% endblock %}
 
 <!-- Footer -->
 <footer class="text-center">
@@ -179,33 +125,14 @@
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/underscore/underscore-min.js"></script>
 <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="bower_components/bootstrap-calendar/js/language/de-DE.js"></script>
-<script src="bower_components/bootstrap-calendar/js/calendar.js"></script>
+{% block jsbody %}{% endblock %}
 <script type="text/javascript">
-    var calendar = $("#calendar").calendar({
-        display_week_numbers: false,
-        weekbox: false,
-        language: 'de-DE',
-        tmpl_path: "scripts/bootstrap-calendar/tmpls/",
-        events_source: 'events.json',
-        onAfterViewLoad: function() {
-            $('#events .row h3').text(this.getTitle());
-        }
-    });
-
-    $('.btn-group button[data-calendar-nav]').each(function() {
-        var $this = $(this);
-        $this.click(function() {
-            calendar.navigate($this.data('calendar-nav'));
-        });
-    });
-
     {% if site.google_analytics_tracking_id %}
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{site.google_analytics_tracking_id}}', 'auto');
+    ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
     ga('send', 'pageview');
     {% endif %}
 </script>

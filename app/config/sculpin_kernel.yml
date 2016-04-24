@@ -2,21 +2,20 @@ sculpin_content_types:
     posts:
         enabled: false
     events:
-        type: path
-        path: _events
-        singular_name: event
         enabled: true
+        layout: event
     usergroups:
+        singular_name: usergroup
         type: path
         path: _usergroups
-        singular_name: usergroup
+        layout: usergroup
         enabled: true
+        permalink: usergroups/:title.html
 sculpin_twig:
   extensions:
     - ''
+    - md
     - html
     - twig
     - json
     - xml
-    - html.twig
-    - twig.html
