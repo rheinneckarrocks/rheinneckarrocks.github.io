@@ -1,3 +1,7 @@
+---
+use: ["events"]
+permalink: hootsuite.xml
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
@@ -5,19 +9,16 @@
         <description>Was geht ab in der Metropolregion Rhein-Neckar?</description>
         <link>http://www.rheinneckarrocks.de</link>
         <atom:link href="http://rheinneckarrocks.de/hootsuite.xml" rel="self" type="application/rss+xml" />
+        {% for event in data.events %}
+        {% if date(event.date) < date('+1 week') and date(event.date) > date()  %}
         <item>
-            <title>unKonf 2016</title>
-            <description>unKonf 2016 am 16.04.2016 in #Mannheim! #bitExpert #Hafenpark</description>
-            <pubDate>Mon, 1 Feb 2016 06:00:00 +0100</pubDate>
-            <link>https://www.unkonf.de/</link>
-            <guid>https://www.unkonf.de/</guid>
+            <title>{{ event.title }}</title>
+            <description>{{ event.date | date('d.m.') }} Veranstaltung "{{ event.title }}" #rheinneckarrocks</description>
+            <pubDate>{{ event.date | date_modify("-1 week") | date('c') }}</pubDate>
+            <link>{{ event.link }}</link>
+            <guid>{{ event.link }}</guid>
         </item>
-        <item>
-            <title>phpugmrn 01/2016</title>
-            <description>Am 25.02. trifft sich die PHP Usergroup MRN in #Mannheim! #bitExpert #Hafenpark</description>
-            <pubDate>Mon, 1 Feb 2016 06:00:00 +0100</pubDate>
-            <link>http://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/events/228015471/?eventId=228015471</link>
-            <guid>http://www.meetup.com/de-DE/PHPUG-Rhein-Neckar/events/228015471/?eventId=228015471</guid>
-        </item>
+        {% endif %}
+        {% endfor %}
     </channel>
 </rss>
