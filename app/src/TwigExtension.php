@@ -29,6 +29,7 @@ class TwigExtension extends \Twig_Extension
         return array(
             new \Twig_SimpleFilter('unixtime', array($this, 'unixtime')),
             new \Twig_SimpleFilter('type_css_class', array($this, 'type_css_class')),
+            new \Twig_SimpleFilter('extract_meetup_id', array($this, 'extract_meetup_id')),
         );
     }
 
@@ -64,5 +65,22 @@ class TwigExtension extends \Twig_Extension
             default:
                 return 'event-info';
         }
+    }
+
+    /**
+     * Extracts meetup event id from given meetup event link
+     *
+     * @param string $meetupLink
+     * @return string
+     */
+    public function extract_meetup_id($meetupLink)
+    {
+        if (false === strpos($meetupLink, 'meetup.com')) {
+            return '';
+        }
+
+        $meetupLink = rtrim($meetupLink, '/');
+        $meetupLink = explode('/', $meetupLink);
+        return array_pop($meetupLink);
     }
 }

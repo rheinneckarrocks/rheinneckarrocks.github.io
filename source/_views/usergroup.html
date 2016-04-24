@@ -17,7 +17,13 @@
                 {% set eventsFound = true %}
                 <p>
                     <h4>{{ event.meta.date | date('d.m.Y') }}</h4>
-                    <a href="{{ event.meta.link }}">{{ event.meta.title }}</a><br><br>
+                    <ul class="list-inline">
+                        <li><a href="{{ event.meta.link }}">{{ event.meta.title }}</a></li>
+                        {% if page.eventFeed.type == 'meetup' %}
+                        <li><a href="{{ event.meta.link }}"data-event="{{ event.meta.link|extract_meetup_id }}" class="mu-rsvp-btn">RSVP</a></li>
+                        {% endif %}
+                    </ul>
+                    <br><br>
                 </p>
                 {% endif %}
             {% endfor %}
@@ -171,4 +177,10 @@
         </div>
     </div>
 </section>
+{% endblock %}
+
+{% block jsbody %}
+{% if page.eventFeed.type == 'meetup' %}
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=g24jbookjh50l6g0kp5eip46ed";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+{% endif %}
 {% endblock %}
