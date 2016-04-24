@@ -12,8 +12,8 @@ permalink: hootsuite.xml
         {% for event in data.events %}
         {% if date(event.date) < date('+1 week') and date(event.date) > date()  %}
         <item>
-            <title>{{ event.title }}</title>
-            <description>{{ event.date | date('d.m.') }} Veranstaltung "{{ event.title }}" #rheinneckarrocks</description>
+            <title>{{ event.date | date('d.m.') }} "{{ event.title }}"</title>
+            <description>#rheinneckarrocks</description>
             <pubDate>{{ event.date | date_modify("-1 week") | date('c') }}</pubDate>
             <link>{{ event.link }}</link>
             <guid>{{ event.link }}</guid>
