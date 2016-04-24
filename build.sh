@@ -23,7 +23,6 @@ cp -r output_prod/* . && rm -rf output_prod
 
 # Remove not needed directories
 rm -rf _events
-rm -rf _usergroups
 
 git add -A
 git commit -m "Regenerated site."
