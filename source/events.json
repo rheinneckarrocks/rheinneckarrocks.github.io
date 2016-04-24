@@ -10,7 +10,7 @@ permalink: events.json
     "id": {{ loop.index0 }},
     "title": "{{ event.meta.title }}",
     "url": "{{ event.meta.link }}",
-    "class": "event-info",
+    "class": "{{ event.meta.type|type_css_class }}",
     "start": "{{ event.meta.date|unixtime }}",
     "end": "{{ event.meta.date|unixtime }}"
     }{% if not loop.last %},{% endif %}

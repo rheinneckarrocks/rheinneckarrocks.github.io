@@ -28,6 +28,7 @@ class TwigExtension extends \Twig_Extension
     {
         return array(
             new \Twig_SimpleFilter('unixtime', array($this, 'unixtime')),
+            new \Twig_SimpleFilter('type_css_class', array($this, 'type_css_class')),
         );
     }
 
@@ -40,5 +41,28 @@ class TwigExtension extends \Twig_Extension
     public function unixtime($datetime)
     {
         return $datetime.'000';
+    }
+
+    /**
+     * Returns css class for the event used by the event calendar.
+     *
+     * @param string $type
+     * @return string
+     */
+    public function type_css_class($type)
+    {
+        switch($type) {
+            case 'conference':
+                return 'event-important';
+
+            case 'unconference':
+                return 'event-success';
+
+            case 'hackathon':
+                return 'event-warning';
+
+            default:
+                return 'event-info';
+        }
     }
 }
