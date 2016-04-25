@@ -3,130 +3,130 @@
   "result": [
         {
     "id": 0,
-    "title": "Barcamp Heilbronn 2016",
-    "url": "http://connect-it.hn/barcamp-heilbronn/",
-    "class": "event-success",
-    "start": "1461448800000",
-    "end": "1461448800000"
-    },        {
-    "id": 1,
-    "title": "Startup Weekend Rhein-Neckar",
-    "url": "http://www.startup-weekend-rhein-neckar.de",
-    "class": "event-warning",
-    "start": "1461448800000",
-    "end": "1461448800000"
-    },        {
-    "id": 2,
-    "title": "BELL lectures: Andreas Pfuhl and Christoph Antz from LUXENDO",
-    "url": "http://biorn.org/event/bell-lectures-andreas-pfuhl-and-christoph-antz-from-luxendo/",
-    "class": "event-info",
-    "start": "1461535200000",
-    "end": "1461535200000"
-    },        {
-    "id": 3,
     "title": "„Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
     "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell/",
     "class": "event-info",
     "start": "1461535200000",
     "end": "1461535200000"
     },        {
-    "id": 4,
+    "id": 1,
+    "title": "BELL lectures: Andreas Pfuhl and Christoph Antz from LUXENDO",
+    "url": "http://biorn.org/event/bell-lectures-andreas-pfuhl-and-christoph-antz-from-luxendo/",
+    "class": "event-info",
+    "start": "1461535200000",
+    "end": "1461535200000"
+    },        {
+    "id": 2,
+    "title": "A short Introduction to Gaussian Processes",
+    "url": "http://www.meetup.com/Machine-Learning-Rhein-Neckar/events/230422681/",
+    "class": "event-info",
+    "start": "1461621600000",
+    "end": "1461621600000"
+    },        {
+    "id": 3,
     "title": "Stage time, stage time, stage time",
     "url": "http://www.meetup.com/Mannheim-Toastmasters/events/230609119/",
     "class": "event-info",
     "start": "1461621600000",
     "end": "1461621600000"
     },        {
-    "id": 5,
+    "id": 4,
     "title": "JUnit 5 - die Zukunft des Testens auf der JVM?",
     "url": "https://www.andrena.de/event/objektforum-ffm-april2016",
     "class": "event-info",
     "start": "1461621600000",
     "end": "1461621600000"
     },        {
-    "id": 6,
+    "id": 5,
     "title": "EMBL Conference: European Conference of Life Science Funders and Foundations",
     "url": "http://biorn.org/event/embl-conference-european-conference-of-life-science-funders-and-foundations/",
     "class": "event-info",
     "start": "1461621600000",
     "end": "1461621600000"
     },        {
-    "id": 7,
-    "title": "WordPress Meetup Karlsruhe 9",
-    "url": "http://www.meetup.com/WordPress-Meetup-Karlsruhe/events/230298577/",
-    "class": "event-info",
-    "start": "1461708000000",
-    "end": "1461708000000"
-    },        {
-    "id": 8,
-    "title": "Initialization: 1 JavaScript MeetUp",
-    "url": "http://www.meetup.com/RheinNeckarJS/events/229339247/",
-    "class": "event-info",
-    "start": "1461708000000",
-    "end": "1461708000000"
-    },        {
-    "id": 9,
+    "id": 6,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/230201412/",
     "class": "event-info",
     "start": "1461708000000",
     "end": "1461708000000"
     },        {
-    "id": 10,
+    "id": 7,
     "title": "CocoaHeads Heidelberg",
     "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230015724/",
     "class": "event-info",
     "start": "1461708000000",
     "end": "1461708000000"
     },        {
-    "id": 11,
-    "title": "KarlsruheJS",
-    "url": "http://www.meetup.com/KarlsruheJS/events/229563720/",
-    "class": "event-info",
-    "start": "1461708000000",
-    "end": "1461708000000"
-    },        {
-    "id": 12,
+    "id": 8,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/230343152/",
     "class": "event-info",
     "start": "1461708000000",
     "end": "1461708000000"
     },        {
-    "id": 13,
+    "id": 9,
+    "title": "Initialization: 1 JavaScript MeetUp",
+    "url": "http://www.meetup.com/RheinNeckarJS/events/229339247/",
+    "class": "event-info",
+    "start": "1461708000000",
+    "end": "1461708000000"
+    },        {
+    "id": 10,
+    "title": "WordPress Meetup Karlsruhe 9",
+    "url": "http://www.meetup.com/WordPress-Meetup-Karlsruhe/events/230298577/",
+    "class": "event-info",
+    "start": "1461708000000",
+    "end": "1461708000000"
+    },        {
+    "id": 11,
     "title": "Lean Meetup 1 - 2016 -",
     "url": "http://www.meetup.com/Lean-Startup-Karlsruhe/events/230347471/",
     "class": "event-info",
     "start": "1461708000000",
     "end": "1461708000000"
     },        {
-    "id": 14,
+    "id": 12,
     "title": "KarlsruheJS",
     "url": "http://www.meetup.com/KarlsruheJS/events/229563720/",
     "class": "event-info",
     "start": "1461708000000",
     "end": "1461708000000"
     },        {
-    "id": 15,
-    "title": "Chaos-Treff: practical statistics und bayes law",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "id": 13,
+    "title": "KarlsruheJS",
+    "url": "http://www.meetup.com/KarlsruheJS/events/229563720/",
+    "class": "event-info",
+    "start": "1461708000000",
+    "end": "1461708000000"
+    },        {
+    "id": 14,
+    "title": "1.Entrepreneuer- &amp; Unternehmertreffen Mannheim",
+    "url": "http://www.meetup.com/Entrepreneur-Unternehmernetzwerk-Mannheim/events/230539732/",
     "class": "event-info",
     "start": "1461794400000",
     "end": "1461794400000"
     },        {
-    "id": 16,
+    "id": 15,
     "title": "3. WebTechNight Karlsruhe",
     "url": "http://www.meetup.com/WebTechNight-Karlsruhe/events/230370376/",
     "class": "event-info",
     "start": "1461794400000",
     "end": "1461794400000"
     },        {
-    "id": 17,
-    "title": "1.Entrepreneuer- &amp; Unternehmertreffen Mannheim",
-    "url": "http://www.meetup.com/Entrepreneur-Unternehmernetzwerk-Mannheim/events/230539732/",
+    "id": 16,
+    "title": "Chaos-Treff: practical statistics und bayes law",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1461794400000",
     "end": "1461794400000"
+    },        {
+    "id": 17,
+    "title": "FuckUp Nights Mannheim Vol.III",
+    "url": "http://www.fuckupnights-mannheim.de",
+    "class": "event-info",
+    "start": "1461880800000",
+    "end": "1461880800000"
     },        {
     "id": 18,
     "title": "Meet on a regular basis",
@@ -136,11 +136,11 @@
     "end": "1461880800000"
     },        {
     "id": 19,
-    "title": "FuckUp Nights Mannheim Vol.III",
-    "url": "http://www.fuckupnights-mannheim.de",
+    "title": "Warm-up meetup",
+    "url": "http://www.meetup.com/Rhein-Neckar-Odenwald-BSD-Meetup/events/230091076/",
     "class": "event-info",
-    "start": "1461880800000",
-    "end": "1461880800000"
+    "start": "1461967200000",
+    "end": "1461967200000"
     },        {
     "id": 20,
     "title": "Devoxx4Kids Karlsruhe",
@@ -150,36 +150,36 @@
     "end": "1461967200000"
     },        {
     "id": 21,
-    "title": "Warm-up meetup",
-    "url": "http://www.meetup.com/Rhein-Neckar-Odenwald-BSD-Meetup/events/230091076/",
-    "class": "event-info",
-    "start": "1461967200000",
-    "end": "1461967200000"
-    },        {
-    "id": 22,
     "title": "Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/229722072/",
     "class": "event-info",
     "start": "1462053600000",
     "end": "1462053600000"
     },        {
-    "id": 23,
+    "id": 22,
     "title": "mongoDB: Schema Design &amp; Indexing",
     "url": "http://www.meetup.com/Mannheim-MongoDB-User-Group/events/228698842/",
     "class": "event-info",
     "start": "1462226400000",
     "end": "1462226400000"
     },        {
-    "id": 24,
+    "id": 23,
     "title": "DKFZ Distinguished Lecturer Seminar Series: Michail Sitkovsky - Northeastern University",
     "url": "http://biorn.org/event/dkfz-distinguished-lecturer-seminar-series-michail-sitkovsky-northeastern-university/",
     "class": "event-info",
     "start": "1462226400000",
     "end": "1462226400000"
     },        {
-    "id": 25,
+    "id": 24,
     "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/230544107/",
+    "class": "event-info",
+    "start": "1462312800000",
+    "end": "1462312800000"
+    },        {
+    "id": 25,
+    "title": "EMBL Forum seminars on Science and Society: James Wilsdon, Sheffield University",
+    "url": "http://biorn.org/event/embl-forum-seminars-on-science-and-society-james-wilsdon-sheffield-university/",
     "class": "event-info",
     "start": "1462312800000",
     "end": "1462312800000"
@@ -192,99 +192,99 @@
     "end": "1462312800000"
     },        {
     "id": 27,
-    "title": "EMBL Forum seminars on Science and Society: James Wilsdon, Sheffield University",
-    "url": "http://biorn.org/event/embl-forum-seminars-on-science-and-society-james-wilsdon-sheffield-university/",
-    "class": "event-info",
-    "start": "1462312800000",
-    "end": "1462312800000"
-    },        {
-    "id": 28,
     "title": "Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1462399200000",
     "end": "1462399200000"
     },        {
-    "id": 29,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbjb/",
-    "class": "event-info",
-    "start": "1462485600000",
-    "end": "1462485600000"
-    },        {
-    "id": 30,
+    "id": 28,
     "title": "Comm4Science: International Conference on Communicating Science Beyond the Lab",
     "url": "http://biorn.org/event/comm4science-international-conference-on-communicating-science-beyond-the-lab/",
     "class": "event-info",
     "start": "1462485600000",
     "end": "1462485600000"
     },        {
-    "id": 31,
+    "id": 29,
     "title": "Elevator Pitch BW",
     "url": "http://heidelberg-startup-partners.de/event/elevator-pitch-bw/",
     "class": "event-info",
     "start": "1462485600000",
     "end": "1462485600000"
     },        {
-    "id": 32,
+    "id": 30,
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbjb/",
+    "class": "event-info",
+    "start": "1462485600000",
+    "end": "1462485600000"
+    },        {
+    "id": 31,
     "title": "„Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
     "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-2/",
     "class": "event-info",
     "start": "1462744800000",
     "end": "1462744800000"
     },        {
-    "id": 33,
-    "title": "Kaminabend zum Thema Vertrieb mit Hans-Peter Szeip",
-    "url": "http://heidelberg-startup-partners.de/event/kaminabend-zum-thema-vertrieb-mit-hans-peter-szeip/",
-    "class": "event-info",
-    "start": "1462917600000",
-    "end": "1462917600000"
-    },        {
-    "id": 34,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbpb/",
-    "class": "event-info",
-    "start": "1462917600000",
-    "end": "1462917600000"
-    },        {
-    "id": 35,
-    "title": "HIP Night Out - May 2016 - Das Bootshaus",
-    "url": "http://hipwf.com/event/hip-night-may-2016-das-bootshaus/",
-    "class": "event-info",
-    "start": "1462917600000",
-    "end": "1462917600000"
-    },        {
-    "id": 36,
+    "id": 32,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvhbpb/",
     "class": "event-info",
     "start": "1462917600000",
     "end": "1462917600000"
     },        {
-    "id": 37,
+    "id": 33,
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbpb/",
+    "class": "event-info",
+    "start": "1462917600000",
+    "end": "1462917600000"
+    },        {
+    "id": 34,
+    "title": "HIP Night Out - May 2016 - Das Bootshaus",
+    "url": "http://hipwf.com/event/hip-night-may-2016-das-bootshaus/",
+    "class": "event-info",
+    "start": "1462917600000",
+    "end": "1462917600000"
+    },        {
+    "id": 35,
+    "title": "Kaminabend zum Thema Vertrieb mit Hans-Peter Szeip",
+    "url": "http://heidelberg-startup-partners.de/event/kaminabend-zum-thema-vertrieb-mit-hans-peter-szeip/",
+    "class": "event-info",
+    "start": "1462917600000",
+    "end": "1462917600000"
+    },        {
+    "id": 36,
     "title": "25. E-Commerce Forum Karlsruhe: Psychologie im E-Commerce",
     "url": "http://www.meetup.com/E-Commerce-Forum-Karlsruhe/events/228698985/",
     "class": "event-info",
     "start": "1463004000000",
     "end": "1463004000000"
     },        {
+    "id": 37,
+    "title": "SRH Campus Business &amp; Law - „Startups – genialer Gründergeist oder Größenwahn?“",
+    "url": "http://heidelberg-startup-partners.de/event/srh-campus-business-law-startups-genialer-gruendergeist-oder-groessenwahn/",
+    "class": "event-info",
+    "start": "1463004000000",
+    "end": "1463004000000"
+    },        {
     "id": 38,
+    "title": "Robuste Cloud Architekturen (Agim Emruli)",
+    "url": "http://www.jug-da.de/2016/05/Robuste-Cloud-Architekturen/",
+    "class": "event-info",
+    "start": "1463004000000",
+    "end": "1463004000000"
+    },        {
+    "id": 39,
     "title": "Jigsaw Walkthrough: Modularisierung einer Java-Anwendung",
     "url": "http://majug.de/2016/05/12/Jigsaw-Walkthrough/",
     "class": "event-info",
     "start": "1463004000000",
     "end": "1463004000000"
     },        {
-    "id": 39,
+    "id": 40,
     "title": "Chaos-Treff: Wie konnten Sterne und Galaxien entstehen?",
     "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1463004000000",
-    "end": "1463004000000"
-    },        {
-    "id": 40,
-    "title": "Robuste Cloud Architekturen (Agim Emruli)",
-    "url": "http://www.jug-da.de/2016/05/Robuste-Cloud-Architekturen/",
     "class": "event-info",
     "start": "1463004000000",
     "end": "1463004000000"
@@ -297,11 +297,11 @@
     "end": "1463004000000"
     },        {
     "id": 42,
-    "title": "SRH Campus Business &amp; Law - „Startups – genialer Gründergeist oder Größenwahn?“",
-    "url": "http://heidelberg-startup-partners.de/event/srh-campus-business-law-startups-genialer-gruendergeist-oder-groessenwahn/",
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbrb/",
     "class": "event-info",
-    "start": "1463004000000",
-    "end": "1463004000000"
+    "start": "1463090400000",
+    "end": "1463090400000"
     },        {
     "id": 43,
     "title": "BioMed X: Lunch Talk with Dimitrios Tzalis, founder and CEO of Taros",
@@ -325,60 +325,60 @@
     "end": "1463090400000"
     },        {
     "id": 46,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbrb/",
-    "class": "event-info",
-    "start": "1463090400000",
-    "end": "1463090400000"
-    },        {
-    "id": 47,
     "title": "Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/229722074/",
     "class": "event-info",
     "start": "1463263200000",
     "end": "1463263200000"
     },        {
-    "id": 48,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbxb/",
-    "class": "event-info",
-    "start": "1463522400000",
-    "end": "1463522400000"
-    },        {
-    "id": 49,
+    "id": 47,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvhbxb/",
     "class": "event-info",
     "start": "1463522400000",
     "end": "1463522400000"
     },        {
-    "id": 50,
-    "title": "CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181882/",
-    "class": "event-info",
-    "start": "1463522400000",
-    "end": "1463522400000"
-    },        {
-    "id": 51,
+    "id": 48,
     "title": "I/O Extended 2016 Karlsruhe",
     "url": "http://www.meetup.com/GDG-Karlsruhe/events/229511307/",
     "class": "event-info",
     "start": "1463522400000",
     "end": "1463522400000"
     },        {
-    "id": 52,
+    "id": 49,
+    "title": "CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181882/",
+    "class": "event-info",
+    "start": "1463522400000",
+    "end": "1463522400000"
+    },        {
+    "id": 50,
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbxb/",
+    "class": "event-info",
+    "start": "1463522400000",
+    "end": "1463522400000"
+    },        {
+    "id": 51,
     "title": "Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1463608800000",
     "end": "1463608800000"
     },        {
-    "id": 53,
+    "id": 52,
     "title": "DKFZ: Cancer Systems Genetics Conference",
     "url": "http://biorn.org/event/dkfz-cancer-systems-genetics-conference/",
     "class": "event-info",
     "start": "1463608800000",
     "end": "1463608800000"
+    },        {
+    "id": 53,
+    "title": "",
+    "url": "",
+    "class": "event-info",
+    "start": "1463695200000",
+    "end": "1463695200000"
     },        {
     "id": 54,
     "title": "Meet on a regular basis",
@@ -405,29 +405,29 @@
     "title": "",
     "url": "",
     "class": "event-info",
-    "start": "1463695200000",
-    "end": "1463695200000"
-    },        {
-    "id": 58,
-    "title": "",
-    "url": "",
-    "class": "event-info",
     "start": "1463781600000",
     "end": "1463781600000"
     },        {
-    "id": 59,
+    "id": 58,
     "title": "",
     "url": "",
     "class": "event-info",
     "start": "1463868000000",
     "end": "1463868000000"
     },        {
-    "id": 60,
+    "id": 59,
     "title": "„Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
     "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-3/",
     "class": "event-info",
     "start": "1463954400000",
     "end": "1463954400000"
+    },        {
+    "id": 60,
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbhc/",
+    "class": "event-info",
+    "start": "1464127200000",
+    "end": "1464127200000"
     },        {
     "id": 61,
     "title": "Weekly Making Hours",
@@ -437,11 +437,11 @@
     "end": "1464127200000"
     },        {
     "id": 62,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbhc/",
+    "title": "C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/229850483/",
     "class": "event-info",
-    "start": "1464127200000",
-    "end": "1464127200000"
+    "start": "1464213600000",
+    "end": "1464213600000"
     },        {
     "id": 63,
     "title": "Chaos-Treff",
@@ -451,81 +451,81 @@
     "end": "1464213600000"
     },        {
     "id": 64,
-    "title": "C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/229850483/",
-    "class": "event-info",
-    "start": "1464213600000",
-    "end": "1464213600000"
-    },        {
-    "id": 65,
     "title": "Meet on a regular basis",
     "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbkc/",
     "class": "event-info",
     "start": "1464300000000",
     "end": "1464300000000"
     },        {
-    "id": 66,
+    "id": 65,
     "title": "Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/lbdmplyvhbmc/",
     "class": "event-info",
     "start": "1464472800000",
     "end": "1464472800000"
     },        {
-    "id": 67,
+    "id": 66,
     "title": "ChatOps: Because chatting is more fun than writing a ticket!",
     "url": "http://www.meetup.com/DevOps-Karlsruhe-Meetup/events/229579437/",
     "class": "event-info",
     "start": "1464645600000",
     "end": "1464645600000"
     },        {
-    "id": 68,
+    "id": 67,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbcb/",
     "class": "event-info",
     "start": "1464732000000",
     "end": "1464732000000"
     },        {
-    "id": 69,
+    "id": 68,
     "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvjbcb/",
     "class": "event-info",
     "start": "1464732000000",
     "end": "1464732000000"
     },        {
-    "id": 70,
+    "id": 69,
     "title": "EMBL Distinguished Visitor Lectures: Timothy J. Mitchison | Harvard University, New York (USA)",
     "url": "http://biorn.org/event/embl-distinguished-visitor-lectures-timothy-j-mitchison-harvard-university-new-york-usa/",
     "class": "event-info",
     "start": "1464818400000",
     "end": "1464818400000"
     },        {
-    "id": 71,
+    "id": 70,
     "title": "Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1464818400000",
     "end": "1464818400000"
     },        {
-    "id": 72,
+    "id": 71,
     "title": "Meet on a regular basis",
     "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvjbfb/",
     "class": "event-info",
     "start": "1464904800000",
     "end": "1464904800000"
     },        {
-    "id": 73,
+    "id": 72,
     "title": "„Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
     "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-4/",
     "class": "event-info",
     "start": "1465164000000",
     "end": "1465164000000"
     },        {
-    "id": 74,
+    "id": 73,
     "title": "Kick-off Meeting and first come together",
     "url": "http://www.meetup.com/Darmstadt-Cache-DevOps-Meetup/events/230517318/",
     "class": "event-info",
     "start": "1465250400000",
     "end": "1465250400000"
+    },        {
+    "id": 74,
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjblb/",
+    "class": "event-info",
+    "start": "1465336800000",
+    "end": "1465336800000"
     },        {
     "id": 75,
     "title": "Python Peer Mentoring",
@@ -535,11 +535,11 @@
     "end": "1465336800000"
     },        {
     "id": 76,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjblb/",
+    "title": "Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
-    "start": "1465336800000",
-    "end": "1465336800000"
+    "start": "1465423200000",
+    "end": "1465423200000"
     },        {
     "id": 77,
     "title": "Zünder für Gründer 20",
@@ -549,8 +549,8 @@
     "end": "1465423200000"
     },        {
     "id": 78,
-    "title": "Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "Netflix durch die Architektenbrille (Stefan Toth)",
+    "url": "http://www.jug-da.de/2016/06/Netflix-durch-die-Architektenbrille/",
     "class": "event-info",
     "start": "1465423200000",
     "end": "1465423200000"
@@ -563,58 +563,58 @@
     "end": "1465423200000"
     },        {
     "id": 80,
-    "title": "Netflix durch die Architektenbrille (Stefan Toth)",
-    "url": "http://www.jug-da.de/2016/06/Netflix-durch-die-Architektenbrille/",
-    "class": "event-info",
-    "start": "1465423200000",
-    "end": "1465423200000"
-    },        {
-    "id": 81,
     "title": "Meet on a regular basis",
     "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvjbnb/",
     "class": "event-info",
     "start": "1465509600000",
     "end": "1465509600000"
     },        {
-    "id": 82,
+    "id": 81,
     "title": "Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/230252915/",
     "class": "event-info",
     "start": "1465682400000",
     "end": "1465682400000"
     },        {
-    "id": 83,
+    "id": 82,
     "title": "enterJS 2016",
     "url": "https://www.enterjs.de/",
     "class": "event-important",
     "start": "1465855200000",
     "end": "1465855200000"
     },        {
-    "id": 84,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbtb/",
+    "id": 83,
+    "title": "CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181890/",
     "class": "event-info",
     "start": "1465941600000",
     "end": "1465941600000"
     },        {
-    "id": 85,
+    "id": 84,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbtb/",
     "class": "event-info",
     "start": "1465941600000",
     "end": "1465941600000"
     },        {
-    "id": 86,
-    "title": "Entwicklertag Karlsruhe 2016",
-    "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "id": 85,
+    "title": "enterJS 2016",
+    "url": "https://www.enterjs.de/",
     "class": "event-important",
     "start": "1465941600000",
     "end": "1465941600000"
     },        {
-    "id": 87,
-    "title": "CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181890/",
+    "id": 86,
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbtb/",
     "class": "event-info",
+    "start": "1465941600000",
+    "end": "1465941600000"
+    },        {
+    "id": 87,
+    "title": "Entwicklertag Karlsruhe 2016",
+    "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "class": "event-important",
     "start": "1465941600000",
     "end": "1465941600000"
     },        {
@@ -622,61 +622,61 @@
     "title": "enterJS 2016",
     "url": "https://www.enterjs.de/",
     "class": "event-important",
-    "start": "1465941600000",
-    "end": "1465941600000"
+    "start": "1466028000000",
+    "end": "1466028000000"
     },        {
     "id": 89,
-    "title": "Entwicklertag Karlsruhe 2016",
-    "url": "https://entwicklertag.de/karlsruhe/2016/",
-    "class": "event-important",
-    "start": "1466028000000",
-    "end": "1466028000000"
-    },        {
-    "id": 90,
-    "title": "enterJS 2016",
-    "url": "https://www.enterjs.de/",
-    "class": "event-important",
-    "start": "1466028000000",
-    "end": "1466028000000"
-    },        {
-    "id": 91,
     "title": "Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1466028000000",
     "end": "1466028000000"
     },        {
-    "id": 92,
+    "id": 90,
+    "title": "Entwicklertag Karlsruhe 2016",
+    "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "class": "event-important",
+    "start": "1466028000000",
+    "end": "1466028000000"
+    },        {
+    "id": 91,
     "title": "Entwicklertag Karlsruhe 2016",
     "url": "https://entwicklertag.de/karlsruhe/2016/",
     "class": "event-important",
     "start": "1466114400000",
     "end": "1466114400000"
     },        {
-    "id": 93,
+    "id": 92,
     "title": "Meet on a regular basis",
     "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvjbwb/",
     "class": "event-info",
     "start": "1466114400000",
     "end": "1466114400000"
     },        {
-    "id": 94,
+    "id": 93,
     "title": "HIP Member Round Table Presentation",
     "url": "http://hipwf.com/event/hip-member-round-table/",
     "class": "event-info",
     "start": "1466200800000",
     "end": "1466200800000"
     },        {
+    "id": 94,
+    "title": "„Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
+    "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-5/",
+    "class": "event-info",
+    "start": "1466373600000",
+    "end": "1466373600000"
+    },        {
     "id": 95,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbdc/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbdc/",
     "class": "event-info",
     "start": "1466546400000",
     "end": "1466546400000"
     },        {
     "id": 96,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbdc/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbdc/",
     "class": "event-info",
     "start": "1466546400000",
     "end": "1466546400000"
@@ -703,15 +703,15 @@
     "end": "1466892000000"
     },        {
     "id": 100,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbmc/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbmc/",
     "class": "event-info",
     "start": "1467151200000",
     "end": "1467151200000"
     },        {
     "id": 101,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbmc/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbmc/",
     "class": "event-info",
     "start": "1467151200000",
     "end": "1467151200000"
@@ -773,15 +773,15 @@
     "end": "1467842400000"
     },        {
     "id": 110,
-    "title": "NCT Charity Run",
-    "url": "http://hipwf.com/event/nct-charity-run/",
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvkblb/",
     "class": "event-info",
     "start": "1467928800000",
     "end": "1467928800000"
     },        {
     "id": 111,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvkblb/",
+    "title": "NCT Charity Run",
+    "url": "http://hipwf.com/event/nct-charity-run/",
     "class": "event-info",
     "start": "1467928800000",
     "end": "1467928800000"
@@ -794,15 +794,15 @@
     "end": "1468101600000"
     },        {
     "id": 113,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvkbrb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbrb/",
     "class": "event-info",
     "start": "1468360800000",
     "end": "1468360800000"
     },        {
     "id": 114,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbrb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvkbrb/",
     "class": "event-info",
     "start": "1468360800000",
     "end": "1468360800000"
@@ -829,15 +829,15 @@
     "end": "1468533600000"
     },        {
     "id": 118,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/230252948/",
+    "title": "CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181897/",
     "class": "event-info",
     "start": "1468965600000",
     "end": "1468965600000"
     },        {
     "id": 119,
-    "title": "CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181897/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/230252948/",
     "class": "event-info",
     "start": "1468965600000",
     "end": "1468965600000"
@@ -913,15 +913,15 @@
     "end": "1469743200000"
     },        {
     "id": 130,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbfb/",
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvlbfb/",
     "class": "event-info",
     "start": "1470175200000",
     "end": "1470175200000"
     },        {
     "id": 131,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvlbfb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbfb/",
     "class": "event-info",
     "start": "1470175200000",
     "end": "1470175200000"
@@ -955,15 +955,15 @@
     "end": "1470520800000"
     },        {
     "id": 136,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbnb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbnb/",
     "class": "event-info",
     "start": "1470780000000",
     "end": "1470780000000"
     },        {
     "id": 137,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbnb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbnb/",
     "class": "event-info",
     "start": "1470780000000",
     "end": "1470780000000"
@@ -983,22 +983,22 @@
     "end": "1470952800000"
     },        {
     "id": 140,
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbwb/",
+    "class": "event-info",
+    "start": "1471384800000",
+    "end": "1471384800000"
+    },        {
+    "id": 141,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbwb/",
     "class": "event-info",
     "start": "1471384800000",
     "end": "1471384800000"
     },        {
-    "id": 141,
+    "id": 142,
     "title": "CocoaHeads Heidelberg",
     "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvlbwb/",
-    "class": "event-info",
-    "start": "1471384800000",
-    "end": "1471384800000"
-    },        {
-    "id": 142,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbwb/",
     "class": "event-info",
     "start": "1471384800000",
     "end": "1471384800000"
@@ -1053,44 +1053,44 @@
     "end": "1472162400000"
     },        {
     "id": 150,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbpc/",
-    "class": "event-info",
-    "start": "1472594400000",
-    "end": "1472594400000"
-    },        {
-    "id": 151,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbpc/",
     "class": "event-info",
     "start": "1472594400000",
     "end": "1472594400000"
     },        {
-    "id": 152,
-    "title": "Marketing Yourself on Social Media",
-    "url": "http://hipwf.com/event/marketing-yourself-on-social-media/",
+    "id": 151,
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbpc/",
     "class": "event-info",
-    "start": "1472680800000",
-    "end": "1472680800000"
+    "start": "1472594400000",
+    "end": "1472594400000"
     },        {
-    "id": 153,
+    "id": 152,
     "title": "Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1472680800000",
     "end": "1472680800000"
     },        {
+    "id": 153,
+    "title": "Marketing Yourself on Social Media",
+    "url": "http://hipwf.com/event/marketing-yourself-on-social-media/",
+    "class": "event-info",
+    "start": "1472680800000",
+    "end": "1472680800000"
+    },        {
     "id": 154,
-    "title": "MetaRheinMainChaosDays 2016",
-    "url": "https://mrmcd.net/",
-    "class": "event-important",
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvmbdb/",
+    "class": "event-info",
     "start": "1472767200000",
     "end": "1472767200000"
     },        {
     "id": 155,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvmbdb/",
-    "class": "event-info",
+    "title": "MetaRheinMainChaosDays 2016",
+    "url": "https://mrmcd.net/",
+    "class": "event-important",
     "start": "1472767200000",
     "end": "1472767200000"
     },        {
@@ -1116,15 +1116,15 @@
     "end": "1472940000000"
     },        {
     "id": 159,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvmbkb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmbkb/",
     "class": "event-info",
     "start": "1473199200000",
     "end": "1473199200000"
     },        {
     "id": 160,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmbkb/",
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvmbkb/",
     "class": "event-info",
     "start": "1473199200000",
     "end": "1473199200000"
@@ -1263,44 +1263,44 @@
     "end": "1475618400000"
     },        {
     "id": 180,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvnbhb/",
-    "class": "event-info",
-    "start": "1475618400000",
-    "end": "1475618400000"
-    },        {
-    "id": 181,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvnbhb/",
     "class": "event-info",
     "start": "1475618400000",
     "end": "1475618400000"
     },        {
-    "id": 182,
-    "title": "data2day 2016",
-    "url": "http://www.data2day.de/",
-    "class": "event-important",
-    "start": "1475704800000",
-    "end": "1475704800000"
+    "id": 181,
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvnbhb/",
+    "class": "event-info",
+    "start": "1475618400000",
+    "end": "1475618400000"
     },        {
-    "id": 183,
+    "id": 182,
     "title": "Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1475704800000",
     "end": "1475704800000"
     },        {
-    "id": 184,
+    "id": 183,
     "title": "data2day 2016",
     "url": "http://www.data2day.de/",
     "class": "event-important",
+    "start": "1475704800000",
+    "end": "1475704800000"
+    },        {
+    "id": 184,
+    "title": "Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvnbkb/",
+    "class": "event-info",
     "start": "1475791200000",
     "end": "1475791200000"
     },        {
     "id": 185,
-    "title": "Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvnbkb/",
-    "class": "event-info",
+    "title": "data2day 2016",
+    "url": "http://www.data2day.de/",
+    "class": "event-important",
     "start": "1475791200000",
     "end": "1475791200000"
     },        {
@@ -1319,9 +1319,9 @@
     "end": "1476223200000"
     },        {
     "id": 188,
-    "title": "Vom Wiegen allein wird die Sau nicht fett (Dr. Elmar Jürgens)",
-    "url": "http://www.jug-da.de/2016/10/Qualitaetsanalyse/",
-    "class": "event-info",
+    "title": "UX-DAY Mannheim",
+    "url": "http://www.ux-day.de/",
+    "class": "event-important",
     "start": "1476309600000",
     "end": "1476309600000"
     },        {
@@ -1333,9 +1333,9 @@
     "end": "1476309600000"
     },        {
     "id": 190,
-    "title": "UX-DAY Mannheim",
-    "url": "http://www.ux-day.de/",
-    "class": "event-important",
+    "title": "Vom Wiegen allein wird die Sau nicht fett (Dr. Elmar Jürgens)",
+    "url": "http://www.jug-da.de/2016/10/Qualitaetsanalyse/",
+    "class": "event-info",
     "start": "1476309600000",
     "end": "1476309600000"
     },        {
@@ -1361,22 +1361,22 @@
     "end": "1476568800000"
     },        {
     "id": 194,
+    "title": "CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvnbzb/",
+    "class": "event-info",
+    "start": "1476828000000",
+    "end": "1476828000000"
+    },        {
+    "id": 195,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvnbzb/",
     "class": "event-info",
     "start": "1476828000000",
     "end": "1476828000000"
     },        {
-    "id": 195,
+    "id": 196,
     "title": "Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvnbzb/",
-    "class": "event-info",
-    "start": "1476828000000",
-    "end": "1476828000000"
-    },        {
-    "id": 196,
-    "title": "CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvnbzb/",
     "class": "event-info",
     "start": "1476828000000",
     "end": "1476828000000"
@@ -1459,15 +1459,15 @@
     "end": "1478214000000"
     },        {
     "id": 208,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbmb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbmb/",
     "class": "event-info",
     "start": "1478646000000",
     "end": "1478646000000"
     },        {
     "id": 209,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbmb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbmb/",
     "class": "event-info",
     "start": "1478646000000",
     "end": "1478646000000"
@@ -1494,15 +1494,15 @@
     "end": "1478991600000"
     },        {
     "id": 213,
-    "title": "CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvpbvb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbvb/",
     "class": "event-info",
     "start": "1479250800000",
     "end": "1479250800000"
     },        {
     "id": 214,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbvb/",
+    "title": "CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvpbvb/",
     "class": "event-info",
     "start": "1479250800000",
     "end": "1479250800000"
@@ -1536,15 +1536,15 @@
     "end": "1479423600000"
     },        {
     "id": 219,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbfc/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbfc/",
     "class": "event-info",
     "start": "1479855600000",
     "end": "1479855600000"
     },        {
     "id": 220,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbfc/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbfc/",
     "class": "event-info",
     "start": "1479855600000",
     "end": "1479855600000"
@@ -1606,15 +1606,15 @@
     "end": "1480633200000"
     },        {
     "id": 229,
-    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvqbkb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbkb/",
     "class": "event-info",
     "start": "1481065200000",
     "end": "1481065200000"
     },        {
     "id": 230,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbkb/",
+    "title": "Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvqbkb/",
     "class": "event-info",
     "start": "1481065200000",
     "end": "1481065200000"
@@ -1676,8 +1676,8 @@
     "end": "1481842800000"
     },        {
     "id": 239,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbcc/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbcc/",
     "class": "event-info",
     "start": "1482274800000",
     "end": "1482274800000"
@@ -1690,8 +1690,8 @@
     "end": "1482274800000"
     },        {
     "id": 241,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbcc/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbcc/",
     "class": "event-info",
     "start": "1482274800000",
     "end": "1482274800000"
@@ -1781,15 +1781,15 @@
     "end": "1483830000000"
     },        {
     "id": 254,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywcbpb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywcbpb/",
     "class": "event-info",
     "start": "1484089200000",
     "end": "1484089200000"
     },        {
     "id": 255,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywcbpb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywcbpb/",
     "class": "event-info",
     "start": "1484089200000",
     "end": "1484089200000"
@@ -1865,15 +1865,15 @@
     "end": "1485298800000"
     },        {
     "id": 266,
-    "title": "C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywcbjc/",
+    "title": "Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1485385200000",
     "end": "1485385200000"
     },        {
     "id": 267,
-    "title": "Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywcbjc/",
     "class": "event-info",
     "start": "1485385200000",
     "end": "1485385200000"
@@ -1921,15 +1921,15 @@
     "end": "1486249200000"
     },        {
     "id": 274,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdblb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdblb/",
     "class": "event-info",
     "start": "1486508400000",
     "end": "1486508400000"
     },        {
     "id": 275,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdblb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdblb/",
     "class": "event-info",
     "start": "1486508400000",
     "end": "1486508400000"
@@ -1949,8 +1949,8 @@
     "end": "1486681200000"
     },        {
     "id": 278,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdbtb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbtb/",
     "class": "event-info",
     "start": "1487113200000",
     "end": "1487113200000"
@@ -1963,8 +1963,8 @@
     "end": "1487113200000"
     },        {
     "id": 280,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbtb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdbtb/",
     "class": "event-info",
     "start": "1487113200000",
     "end": "1487113200000"
@@ -2082,8 +2082,8 @@
     "end": "1489100400000"
     },        {
     "id": 297,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbtb/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbtb/",
     "class": "event-info",
     "start": "1489532400000",
     "end": "1489532400000"
@@ -2096,8 +2096,8 @@
     "end": "1489532400000"
     },        {
     "id": 299,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbtb/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbtb/",
     "class": "event-info",
     "start": "1489532400000",
     "end": "1489532400000"
@@ -2124,29 +2124,29 @@
     "end": "1489878000000"
     },        {
     "id": 303,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbdc/",
-    "class": "event-info",
-    "start": "1490137200000",
-    "end": "1490137200000"
-    },        {
-    "id": 304,
     "title": "Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbdc/",
     "class": "event-info",
     "start": "1490137200000",
     "end": "1490137200000"
     },        {
+    "id": 304,
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbdc/",
+    "class": "event-info",
+    "start": "1490137200000",
+    "end": "1490137200000"
+    },        {
     "id": 305,
-    "title": "Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywfbfc/",
     "class": "event-info",
     "start": "1490223600000",
     "end": "1490223600000"
     },        {
     "id": 306,
-    "title": "C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywfbfc/",
+    "title": "Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1490223600000",
     "end": "1490223600000"
@@ -2159,15 +2159,15 @@
     "end": "1490310000000"
     },        {
     "id": 308,
-    "title": "Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbmc/",
+    "title": "Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbmc/",
     "class": "event-info",
     "start": "1490738400000",
     "end": "1490738400000"
     },        {
     "id": 309,
-    "title": "Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbmc/",
+    "title": "Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbmc/",
     "class": "event-info",
     "start": "1490738400000",
     "end": "1490738400000"
