@@ -1,5 +1,5 @@
 ---
-use: ["events"]
+use: ["events", "usergroups"]
 permalink: hootsuite.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -12,8 +12,18 @@ permalink: hootsuite.xml
         {% for event in data.events %}
         {% if date(event.date) < date('+1 week') and date(event.date) > date()  %}
         <item>
-            <title>{{ event.date | date('d.m.') }} "{{ event.title }}"</title>
-            <description>#rheinneckarrocks</description>
+            {% set ugname = '' %}
+            {% for usergroup in data.usergroups %}
+                {% if event.usergroup == usergroup.title %}
+                    {% set ugname = usergroup.name %}
+                {% endif %}
+            {% endfor %}
+            {% if not ugname %}
+                {% set ugname = event.title %}
+            {% endif %}
+
+            <title>Treffen {{ ugname }} am {{ event.date | date('d.m.') }} Sei dabei!</title>
+            <description>{{ event.title }} #rheinneckarrocks</description>
             <pubDate>{{ event.date | date_modify("-1 week") | date('c') }}</pubDate>
             <link>{{ event.link }}</link>
             <guid>{{ event.link }}</guid>
