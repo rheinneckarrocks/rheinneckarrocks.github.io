@@ -1,14 +1,20 @@
 ---
-use: ["events"]
+use: ["events", "usergroups"]
 permalink: events.json
 ---
 {
   "success": 1,
   "result": [
     {% for event in data.events %}
+    {% set ugname = '' %}
+    {% for usergroup in data.usergroups %}
+      {% if event.usergroup == usergroup.title %}
+        {% set ugname = [ usergroup.name, ': ']|join %}
+      {% endif %}
+    {% endfor %}
     {
     "id": {{ loop.index0 }},
-    "title": "{{ event.meta.title }}",
+    "title": "{{ ugname }}{{ event.meta.title }}",
     "url": "{{ event.meta.link }}",
     "class": "{{ event.meta.type|type_css_class }}",
     "start": "{{ event.meta.date|unixtime }}",
