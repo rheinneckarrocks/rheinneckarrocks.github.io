@@ -1,35 +1,32 @@
-Submitting Issues
-=================
+<h1 id="submitting-issues">Submitting Issues</h1>
 
-If you are submitting a bug with moment, please create a [jsfiddle](http://jsfiddle.net/) demonstrating the issue.
+<p>If you are submitting a bug with moment, please create a <a href="http://jsfiddle.net/">jsfiddle</a> demonstrating the issue.</p>
 
-Contributing
-============
+<h1 id="contributing">Contributing</h1>
 
-To contribute, fork the library and install grunt.
+<p>To contribute, fork the library and install grunt.</p>
 
-    npm install grunt -g
+<pre><code>npm install grunt -g
+</code></pre>
 
-You can add tests to the files in `/test/moment` or add a new test file if you are adding a new feature.
+<p>You can add tests to the files in <code>/test/moment</code> or add a new test file if you are adding a new feature.</p>
 
-To run the tests, do `grunt test` to run all tests.
+<p>To run the tests, do <code>grunt test</code> to run all tests.</p>
 
-To check the filesize, you can use `grunt size`.
+<p>To check the filesize, you can use <code>grunt size</code>.</p>
 
-To minify all the files, use `grunt release`.
+<p>To minify all the files, use <code>grunt release</code>.</p>
 
-If your code passes the unit tests (including the ones you wrote), submit a pull request.
+<p>If your code passes the unit tests (including the ones you wrote), submit a pull request.</p>
 
-Submitting pull requests
-========================
+<h1 id="submitting-pull-requests">Submitting pull requests</h1>
 
-Moment.js now uses [git-flow](https://github.com/nvie/gitflow). If you're not familiar with git-flow, please read up on it, you'll be glad you did.
+<p>Moment.js now uses <a href="https://github.com/nvie/gitflow">git-flow</a>. If you're not familiar with git-flow, please read up on it, you'll be glad you did.</p>
 
-When submitting new features, please create a new feature branch using `git flow feature start <name>` and submit the pull request to the `develop` branch.
+<p>When submitting new features, please create a new feature branch using <code>git flow feature start &lt;name&gt;</code> and submit the pull request to the <code>develop</code> branch.</p>
 
-Pull requests for enhancements for features should be submitted to the `develop` branch as well.
+<p>Pull requests for enhancements for features should be submitted to the <code>develop</code> branch as well.</p>
 
-When submitting a bugfix, please check if there is an existing bugfix branch. If the latest stable version is `1.5.0`, the bugfix branch would be `hotfix/1.5.1`. All pull requests for bug fixes should be on a `hotfix` branch, unless the bug fix depends on a new feature.
+<p>When submitting a bugfix, please check if there is an existing bugfix branch. If the latest stable version is <code>1.5.0</code>, the bugfix branch would be <code>hotfix/1.5.1</code>. All pull requests for bug fixes should be on a <code>hotfix</code> branch, unless the bug fix depends on a new feature.</p>
 
-The `master` branch should always have the latest stable version. When bugfix or minor releases are needed, the develop/hotfix branch will be merged into master and released.
-
+<p>The <code>master</code> branch should always have the latest stable version. When bugfix or minor releases are needed, the develop/hotfix branch will be merged into master and released.</p>

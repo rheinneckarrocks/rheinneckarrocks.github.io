@@ -1,258 +1,251 @@
-A lightweight javascript date library for parsing, validating, manipulating, and formatting dates.
+<p>A lightweight javascript date library for parsing, validating, manipulating, and formatting dates.</p>
 
-# [Documentation](http://momentjs.com/docs/)
+<h1 id="documentation"><a href="http://momentjs.com/docs/">Documentation</a></h1>
 
-Upgrading to 2.0.0
-==================
+<h1 id="upgrading-to-2.0.0">Upgrading to 2.0.0</h1>
 
-There are a number of small backwards incompatible changes with version 2.0.0.
+<p>There are a number of small backwards incompatible changes with version 2.0.0.</p>
 
-[See them and their descriptions here](https://gist.github.com/timrwood/e72f2eef320ed9e37c51#backwards-incompatible-changes)
+<p><a href="https://gist.github.com/timrwood/e72f2eef320ed9e37c51#backwards-incompatible-changes">See them and their descriptions here</a></p>
 
-Changed language ordinal method to return the number + ordinal instead of just the ordinal.
+<p>Changed language ordinal method to return the number + ordinal instead of just the ordinal.</p>
 
-Changed two digit year parsing cutoff to match strptime.
+<p>Changed two digit year parsing cutoff to match strptime.</p>
 
-Removed `moment#sod` and `moment#eod` in favor of `moment#startOf` and `moment#endOf`.
+<p>Removed <code>moment#sod</code> and <code>moment#eod</code> in favor of <code>moment#startOf</code> and <code>moment#endOf</code>.</p>
 
-Removed `moment.humanizeDuration()` in favor of `moment.duration().humanize()`.
+<p>Removed <code>moment.humanizeDuration()</code> in favor of <code>moment.duration().humanize()</code>.</p>
 
-Removed the lang data objects from the top level namespace.
+<p>Removed the lang data objects from the top level namespace.</p>
 
-Duplicate `Date` passed to `moment()` instead of referencing it.
+<p>Duplicate <code>Date</code> passed to <code>moment()</code> instead of referencing it.</p>
 
+<h1 id="upgrading-to-1.6.0">Upgrading to 1.6.0</h1>
 
-Upgrading to 1.6.0
-==================
+<p>There are a few things being deprecated in the 1.6.0 release.</p>
 
-There are a few things being deprecated in the 1.6.0 release.
+<ol>
+<li><p>The format tokens <code>z</code> and <code>zz</code> (timezone abbreviations like EST CST MST etc) will no longer be supported. Due to inconsistent browser support, we are unable to consistently produce this value. See <a href="https://github.com/timrwood/moment/issues/162">this issue</a> for more background.</p></li>
+<li><p>The method <code>moment.fn.native</code> is deprecated in favor of <code>moment.fn.toDate</code>. There continue to be issues with Google Closure Compiler throwing errors when using <code>native</code>, even in valid instances.</p></li>
+<li><p>The way to customize am/pm strings is being changed. This would only affect you if you created a custom language file. For more information, see <a href="https://github.com/timrwood/moment/pull/222">this issue</a>.</p></li>
+</ol>
 
-1. The format tokens `z` and `zz` (timezone abbreviations like EST CST MST etc) will no longer be supported. Due to inconsistent browser support, we are unable to consistently produce this value. See [this issue](https://github.com/timrwood/moment/issues/162) for more background.
+<h1 id="changelog">Changelog</h1>
 
-2. The method `moment.fn.native` is deprecated in favor of `moment.fn.toDate`. There continue to be issues with Google Closure Compiler throwing errors when using `native`, even in valid instances.
+<h3 id="2.0.0-see-changelog">2.0.0 <a href="https://gist.github.com/timrwood/e72f2eef320ed9e37c51">See changelog</a></h3>
 
-3. The way to customize am/pm strings is being changed. This would only affect you if you created a custom language file. For more information, see [this issue](https://github.com/timrwood/moment/pull/222).
+<p>Added short form localized tokens.</p>
 
+<p>Added ability to define language a string should be parsed in.</p>
 
-Changelog
-=========
+<p>Added support for reversed add/subtract arguments.</p>
 
+<p>Added support for <code>endOf('week')</code> and <code>startOf('week')</code>.</p>
 
-### 2.0.0 [See changelog](https://gist.github.com/timrwood/e72f2eef320ed9e37c51)
+<p>Fixed the logic for <code>moment#diff(Moment, 'months')</code> and <code>moment#diff(Moment, 'years')</code></p>
 
-Added short form localized tokens.
+<p><code>moment#diff</code> now floors instead of rounds.</p>
 
-Added ability to define language a string should be parsed in.
+<p>Normalized <code>moment#toString</code>.</p>
 
-Added support for reversed add/subtract arguments.
+<p>Added <code>isSame</code>, <code>isAfter</code>, and <code>isBefore</code> methods.</p>
 
-Added support for `endOf('week')` and `startOf('week')`.
+<p>Added better week support.</p>
 
-Fixed the logic for `moment#diff(Moment, 'months')` and `moment#diff(Moment, 'years')`
+<p>Added <code>moment#toJSON</code></p>
 
-`moment#diff` now floors instead of rounds.
+<p>Bugfix: Fixed parsing of first century dates</p>
 
-Normalized `moment#toString`.
+<p>Bugfix: Parsing 10Sep2001 should work as expected</p>
 
-Added `isSame`, `isAfter`, and `isBefore` methods.
+<p>Bugfix: Fixed wierdness with <code>moment.utc()</code> parsing.</p>
 
-Added better week support.
+<p>Changed language ordinal method to return the number + ordinal instead of just the ordinal.</p>
 
-Added `moment#toJSON`
+<p>Changed two digit year parsing cutoff to match strptime.</p>
 
-Bugfix: Fixed parsing of first century dates
+<p>Removed <code>moment#sod</code> and <code>moment#eod</code> in favor of <code>moment#startOf</code> and <code>moment#endOf</code>.</p>
 
-Bugfix: Parsing 10Sep2001 should work as expected
+<p>Removed <code>moment.humanizeDuration()</code> in favor of <code>moment.duration().humanize()</code>.</p>
 
-Bugfix: Fixed wierdness with `moment.utc()` parsing.
+<p>Removed the lang data objects from the top level namespace.</p>
 
-Changed language ordinal method to return the number + ordinal instead of just the ordinal.
+<p>Duplicate <code>Date</code> passed to <code>moment()</code> instead of referencing it.</p>
 
-Changed two digit year parsing cutoff to match strptime.
+<h3 id="1.7.2-see-discussion">1.7.2 <a href="https://github.com/timrwood/moment/issues/456">See discussion</a></h3>
 
-Removed `moment#sod` and `moment#eod` in favor of `moment#startOf` and `moment#endOf`.
+<p>Bugfixes</p>
 
-Removed `moment.humanizeDuration()` in favor of `moment.duration().humanize()`.
+<h3 id="1.7.1-see-discussion">1.7.1 <a href="https://github.com/timrwood/moment/issues/384">See discussion</a></h3>
 
-Removed the lang data objects from the top level namespace.
+<p>Bugfixes</p>
 
-Duplicate `Date` passed to `moment()` instead of referencing it.
+<h3 id="1.7.0-see-discussion">1.7.0 <a href="https://github.com/timrwood/moment/issues/288">See discussion</a></h3>
 
-### 1.7.2 [See discussion](https://github.com/timrwood/moment/issues/456)
+<p>Added <code>moment.fn.endOf()</code> and <code>moment.fn.startOf()</code>.</p>
 
-Bugfixes
+<p>Added validation via <code>moment.fn.isValid()</code>.</p>
 
-### 1.7.1 [See discussion](https://github.com/timrwood/moment/issues/384)
+<p>Made formatting method 3x faster. http://jsperf.com/momentjs-cached-format-functions</p>
 
-Bugfixes
+<p>Add support for month/weekday callbacks in <code>moment.fn.format()</code></p>
 
-### 1.7.0 [See discussion](https://github.com/timrwood/moment/issues/288)
+<p>Added instance specific languages.</p>
 
-Added `moment.fn.endOf()` and `moment.fn.startOf()`.
+<p>Added two letter weekday abbreviations with the formatting token <code>dd</code>.</p>
 
-Added validation via `moment.fn.isValid()`.
+<p>Various language updates.</p>
 
-Made formatting method 3x faster. http://jsperf.com/momentjs-cached-format-functions
+<p>Various bugfixes.</p>
 
-Add support for month/weekday callbacks in `moment.fn.format()`
+<h3 id="1.6.0-see-discussion">1.6.0 <a href="https://github.com/timrwood/moment/pull/268">See discussion</a></h3>
 
-Added instance specific languages.
+<p>Added Durations.</p>
 
-Added two letter weekday abbreviations with the formatting token `dd`.
+<p>Revamped parser to support parsing non-separated strings (YYYYMMDD vs YYYY-MM-DD).</p>
 
-Various language updates.
+<p>Added support for millisecond parsing and formatting tokens (S SS SSS)</p>
 
-Various bugfixes.
+<p>Added a getter for <code>moment.lang()</code></p>
 
-### 1.6.0 [See discussion](https://github.com/timrwood/moment/pull/268)
+<p>Various bugfixes.</p>
 
-Added Durations.
+<h3 id="1.5.0-see-milestone">1.5.0 <a href="https://github.com/timrwood/moment/issues?milestone=10&amp;page=1&amp;state=closed">See milestone</a></h3>
 
-Revamped parser to support parsing non-separated strings (YYYYMMDD vs YYYY-MM-DD).
+<p>Added UTC mode.</p>
 
-Added support for millisecond parsing and formatting tokens (S SS SSS)
+<p>Added automatic ISO8601 parsing.</p>
 
-Added a getter for `moment.lang()`
+<p>Various bugfixes.</p>
 
-Various bugfixes.
+<h3 id="1.4.0-see-milestone">1.4.0 <a href="https://github.com/timrwood/moment/issues?milestone=8&amp;state=closed">See milestone</a></h3>
 
-### 1.5.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=10&page=1&state=closed)
+<p>Added <code>moment.fn.toDate</code> as a replacement for <code>moment.fn.native</code>.</p>
 
-Added UTC mode.
+<p>Added <code>moment.fn.sod</code> and <code>moment.fn.eod</code> to get the start and end of day.</p>
 
-Added automatic ISO8601 parsing.
+<p>Various bugfixes.</p>
 
-Various bugfixes.
+<h3 id="1.3.0-see-milestone">1.3.0 <a href="https://github.com/timrwood/moment/issues?milestone=7&amp;state=closed">See milestone</a></h3>
 
-### 1.4.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=8&state=closed)
+<p>Added support for parsing month names in the current language.</p>
 
-Added `moment.fn.toDate` as a replacement for `moment.fn.native`.
+<p>Added escape blocks for parsing tokens.</p>
 
-Added `moment.fn.sod` and `moment.fn.eod` to get the start and end of day.
+<p>Added <code>moment.fn.calendar</code> to format strings like 'Today 2:30 PM', 'Tomorrow 1:25 AM', and 'Last Sunday 4:30 AM'.</p>
 
-Various bugfixes.
+<p>Added <code>moment.fn.day</code> as a setter.</p>
 
-### 1.3.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=7&state=closed)
+<p>Various bugfixes</p>
 
-Added support for parsing month names in the current language.
+<h3 id="1.2.0-see-milestone">1.2.0 <a href="https://github.com/timrwood/moment/issues?milestone=4&amp;state=closed">See milestone</a></h3>
 
-Added escape blocks for parsing tokens.
+<p>Added timezones to parser and formatter.</p>
 
-Added `moment.fn.calendar` to format strings like 'Today 2:30 PM', 'Tomorrow 1:25 AM', and 'Last Sunday 4:30 AM'.
+<p>Added <code>moment.fn.isDST</code>.</p>
 
-Added `moment.fn.day` as a setter.
+<p>Added <code>moment.fn.zone</code> to get the timezone offset in minutes.</p>
 
-Various bugfixes
+<h3 id="1.1.2-see-milestone">1.1.2 <a href="https://github.com/timrwood/moment/issues?milestone=6&amp;state=closed">See milestone</a></h3>
 
-### 1.2.0 [See milestone](https://github.com/timrwood/moment/issues?milestone=4&state=closed)
+<p>Various bugfixes</p>
 
-Added timezones to parser and formatter.
+<h3 id="1.1.1-see-milestone">1.1.1 <a href="https://github.com/timrwood/moment/issues?milestone=5&amp;state=closed">See milestone</a></h3>
 
-Added `moment.fn.isDST`.
+<p>Added time specific diffs (months, days, hours, etc)</p>
 
-Added `moment.fn.zone` to get the timezone offset in minutes.
+<h3 id="1.1.0">1.1.0</h3>
 
-### 1.1.2 [See milestone](https://github.com/timrwood/moment/issues?milestone=6&state=closed)
+<p>Added <code>moment.fn.format</code> localized masks. 'L LL LLL LLLL' <a href="https://github.com/timrwood/moment/pull/29">issue 29</a></p>
 
-Various bugfixes
+<p>Fixed <a href="https://github.com/timrwood/moment/pull/31">issue 31</a>.</p>
 
-### 1.1.1 [See milestone](https://github.com/timrwood/moment/issues?milestone=5&state=closed)
+<h3 id="1.0.1">1.0.1</h3>
 
-Added time specific diffs (months, days, hours, etc)
+<p>Added <code>moment.version</code> to get the current version.</p>
 
-### 1.1.0
+<p>Removed <code>window !== undefined</code> when checking if module exists to support browserify. <a href="https://github.com/timrwood/moment/pull/25">issue 25</a></p>
 
-Added `moment.fn.format` localized masks. 'L LL LLL LLLL' [issue 29](https://github.com/timrwood/moment/pull/29)
+<h3 id="1.0.0">1.0.0</h3>
 
-Fixed [issue 31](https://github.com/timrwood/moment/pull/31).
+<p>Added convenience methods for getting and setting date parts.</p>
 
-### 1.0.1
+<p>Added better support for <code>moment.add()</code>.</p>
 
-Added `moment.version` to get the current version.
+<p>Added better lang support in NodeJS.</p>
 
-Removed `window !== undefined` when checking if module exists to support browserify. [issue 25](https://github.com/timrwood/moment/pull/25)
+<p>Renamed library from underscore.date to Moment.js</p>
 
-### 1.0.0
+<h3 id="0.6.1">0.6.1</h3>
 
-Added convenience methods for getting and setting date parts.
+<p>Added Portuguese, Italian, and French language support</p>
 
-Added better support for `moment.add()`.
+<h3 id="0.6.0">0.6.0</h3>
 
-Added better lang support in NodeJS.
-
-Renamed library from underscore.date to Moment.js
-
-### 0.6.1
-
-Added Portuguese, Italian, and French language support
-
-### 0.6.0
-
-Added _date.lang() support.
+<p>Added _date.lang() support.
 Added support for passing multiple formats to try to parse a date. _date("07-10-1986", ["MM-DD-YYYY", "YYYY-MM-DD"]);
-Made parse from string and single format 25% faster.
+Made parse from string and single format 25% faster.</p>
 
-### 0.5.2
+<h3 id="0.5.2">0.5.2</h3>
 
-Bugfix for [issue 8](https://github.com/timrwood/underscore.date/pull/8) and [issue 9](https://github.com/timrwood/underscore.date/pull/9).
+<p>Bugfix for <a href="https://github.com/timrwood/underscore.date/pull/8">issue 8</a> and <a href="https://github.com/timrwood/underscore.date/pull/9">issue 9</a>.</p>
 
-### 0.5.1
+<h3 id="0.5.1">0.5.1</h3>
 
-Bugfix for [issue 5](https://github.com/timrwood/underscore.date/pull/5).
+<p>Bugfix for <a href="https://github.com/timrwood/underscore.date/pull/5">issue 5</a>.</p>
 
-### 0.5.0
+<h3 id="0.5.0">0.5.0</h3>
 
-Dropped the redundant `_date.date()` in favor of `_date()`.
-Removed `_date.now()`, as it is a duplicate of `_date()` with no parameters.
-Removed `_date.isLeapYear(yearNumber)`. Use `_date([yearNumber]).isLeapYear()` instead.
-Exposed customization options through the `_date.relativeTime`, `_date.weekdays`, `_date.weekdaysShort`, `_date.months`, `_date.monthsShort`, and `_date.ordinal` variables instead of the `_date.customize()` function.
+<p>Dropped the redundant <code>_date.date()</code> in favor of <code>_date()</code>.
+Removed <code>_date.now()</code>, as it is a duplicate of <code>_date()</code> with no parameters.
+Removed <code>_date.isLeapYear(yearNumber)</code>. Use <code>_date([yearNumber]).isLeapYear()</code> instead.
+Exposed customization options through the <code>_date.relativeTime</code>, <code>_date.weekdays</code>, <code>_date.weekdaysShort</code>, <code>_date.months</code>, <code>_date.monthsShort</code>, and <code>_date.ordinal</code> variables instead of the <code>_date.customize()</code> function.</p>
 
-### 0.4.1
+<h3 id="0.4.1">0.4.1</h3>
 
-Added date input formats for input strings.
+<p>Added date input formats for input strings.</p>
 
-### 0.4.0
+<h3 id="0.4.0">0.4.0</h3>
 
-Added underscore.date to npm. Removed dependencies on underscore.
+<p>Added underscore.date to npm. Removed dependencies on underscore.</p>
 
-### 0.3.2
+<h3 id="0.3.2">0.3.2</h3>
 
-Added `'z'` and `'zz'` to `_.date().format()`. Cleaned up some redundant code to trim off some bytes.
+<p>Added <code>'z'</code> and <code>'zz'</code> to <code>_.date().format()</code>. Cleaned up some redundant code to trim off some bytes.</p>
 
-### 0.3.1
+<h3 id="0.3.1">0.3.1</h3>
 
-Cleaned up the namespace. Moved all date manipulation and display functions to the _.date() object.
+<p>Cleaned up the namespace. Moved all date manipulation and display functions to the _.date() object.</p>
 
-### 0.3.0
+<h3 id="0.3.0">0.3.0</h3>
 
-Switched to the Underscore methodology of not mucking with the native objects' prototypes.
-Made chaining possible.
+<p>Switched to the Underscore methodology of not mucking with the native objects' prototypes.
+Made chaining possible.</p>
 
-### 0.2.1
+<h3 id="0.2.1">0.2.1</h3>
 
-Changed date names to be a more pseudo standardized 'dddd, MMMM Do YYYY, h:mm:ss a'.
-Added `Date.prototype` functions `add`, `subtract`, `isdst`, and `isleapyear`.
+<p>Changed date names to be a more pseudo standardized 'dddd, MMMM Do YYYY, h:mm:ss a'.
+Added <code>Date.prototype</code> functions <code>add</code>, <code>subtract</code>, <code>isdst</code>, and <code>isleapyear</code>.</p>
 
-### 0.2.0
+<h3 id="0.2.0">0.2.0</h3>
 
-Changed function names to be more concise.
-Changed date format from php date format to custom format.
+<p>Changed function names to be more concise.
+Changed date format from php date format to custom format.</p>
 
-### 0.1.0
+<h3 id="0.1.0">0.1.0</h3>
 
-Initial release
+<p>Initial release</p>
 
-License
-=======
+<h1 id="license">License</h1>
 
-Moment.js is freely distributable under the terms of the MIT license.
+<p>Moment.js is freely distributable under the terms of the MIT license.</p>
 
-Copyright (c) 2011-2012 Tim Wood
+<p>Copyright (c) 2011-2012 Tim Wood</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>

@@ -3,7 +3,6 @@
  *
  * https://github.com/Serhioromano/bootstrap-calendar
  *
- * User: Sergey Romanov <serg4172@mail.ru>
  */
 "use strict";
 
@@ -412,7 +411,6 @@ if(!String.prototype.formatNum) {
 		// Get all events between start and end
 		var start = parseInt(this.options.position.start.getTime());
 		var end = parseInt(this.options.position.end.getTime());
-
 		data.events = this.getEventsBetween(start, end);
 
 		switch(this.options.view) {
