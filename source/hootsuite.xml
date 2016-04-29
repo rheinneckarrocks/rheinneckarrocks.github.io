@@ -13,16 +13,20 @@ permalink: hootsuite.xml
         {% if date(event.date) < date('+1 week') and date(event.date) > date()  %}
         <item>
             {% set ugname = '' %}
+            {% set twitter = '' %}
             {% for usergroup in data.usergroups %}
                 {% if event.usergroup == usergroup.title %}
-                    {% set ugname = usergroup.name %}
+                    {% set ugname = [ 'Treffen "', usergroup.name, '" ']|join %}
+                    {% if usergroup.twitter %}
+                        {% set twitter = [ ' /cc @', usergroup.twitter ]|join %}
+                    {% endif %}
                 {% endif %}
             {% endfor %}
             {% if not ugname %}
                 {% set ugname = event.title %}
             {% endif %}
 
-            <title>Treffen {{ ugname }} am {{ event.date | date('d.m.') }} Sei dabei!</title>
+            <title>{{ ugname }} am {{ event.date | date('d.m.') }} Sei dabei!{{ twitter }}</title>
             <description>{{ event.title }} #rheinneckarrocks</description>
             <pubDate>{{ event.date | date_modify("-1 week") | date('c') }}</pubDate>
             <link>{{ event.link }}</link>
