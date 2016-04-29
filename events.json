@@ -1,34 +1,34 @@
 {
   "success": 1,
   "result": [
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 0,
-    "title": "FuckUp Nights Mannheim Vol.III",
-    "url": "http://www.fuckupnights-mannheim.de",
-    "class": "event-info",
-    "start": "1461888000000",
-    "end": "1461888000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 1,
     "title": "Rhein-Neckar - Odenwald BSD Meetup: Warm-up meetup",
     "url": "http://www.meetup.com/Rhein-Neckar-Odenwald-BSD-Meetup/events/230091076/",
     "class": "event-info",
     "start": "1461974400000",
     "end": "1461974400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 2,
+    "id": 1,
     "title": "Devoxx4Kids Karlsruhe",
     "url": "https://www.eventbrite.de/e/devoxx4kids-karlsruhe-tickets-21551771930",
     "class": "event-info",
     "start": "1461974400000",
     "end": "1461974400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 3,
+    "id": 2,
     "title": "Mannheim Boardgames Meetup: Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/229722072/",
     "class": "event-info",
     "start": "1462060800000",
     "end": "1462060800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 3,
+    "title": "Mannheim MongoDB User Group: mongoDB: Schema Design &amp; Indexing",
+    "url": "http://www.meetup.com/Mannheim-MongoDB-User-Group/events/228698842/",
+    "class": "event-info",
+    "start": "1462233600000",
+    "end": "1462233600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 4,
     "title": "BioRN Network: DKFZ Distinguished Lecturer Seminar Series: Michail Sitkovsky - Northeastern University",
@@ -38,11 +38,11 @@
     "end": "1462233600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 5,
-    "title": "Mannheim MongoDB User Group: mongoDB: Schema Design &amp; Indexing",
-    "url": "http://www.meetup.com/Mannheim-MongoDB-User-Group/events/228698842/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/230694333/",
     "class": "event-info",
-    "start": "1462233600000",
-    "end": "1462233600000"
+    "start": "1462320000000",
+    "end": "1462320000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 6,
     "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
@@ -52,25 +52,25 @@
     "end": "1462320000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 7,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/230694333/",
-    "class": "event-info",
-    "start": "1462320000000",
-    "end": "1462320000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 8,
     "title": "BioRN Network: EMBL Forum seminars on Science and Society: James Wilsdon, Sheffield University",
     "url": "http://biorn.org/event/embl-forum-seminars-on-science-and-society-james-wilsdon-sheffield-university/",
     "class": "event-info",
     "start": "1462320000000",
     "end": "1462320000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 9,
+    "id": 8,
     "title": "NoName e.V.: Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1462406400000",
     "end": "1462406400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 9,
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbjb/",
+    "class": "event-info",
+    "start": "1462492800000",
+    "end": "1462492800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 10,
     "title": "BioRN Network: Comm4Science: International Conference on Communicating Science Beyond the Lab",
@@ -87,11 +87,11 @@
     "end": "1462492800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 12,
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbjb/",
+    "title": "Hackschool: Hackschool @MAFINEX, Mannheim",
+    "url": "http://www.meetup.com/Hackschool-Mannheim/events/230724684/",
     "class": "event-info",
-    "start": "1462492800000",
-    "end": "1462492800000"
+    "start": "1462579200000",
+    "end": "1462579200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 13,
     "title": "Nodeschool Heidelberg / Mannheim: Hackschool @MAFINEX, Mannheim",
@@ -101,18 +101,18 @@
     "end": "1462579200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 14,
-    "title": "Hackschool: Hackschool @MAFINEX, Mannheim",
-    "url": "http://www.meetup.com/Hackschool-Mannheim/events/230724684/",
-    "class": "event-info",
-    "start": "1462579200000",
-    "end": "1462579200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 15,
     "title": "Heidelberg Startup Partners: „Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
     "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-2/",
     "class": "event-info",
     "start": "1462752000000",
     "end": "1462752000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 15,
+    "title": "Mannheim International Toastmasters Club: Do you feel confident during presentations?",
+    "url": "http://www.meetup.com/Mannheim-Toastmasters/events/230751078/",
+    "class": "event-info",
+    "start": "1462838400000",
+    "end": "1462838400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 16,
     "title": "Heidelberg Makers Meetup: Weekly Making Hours",
@@ -122,57 +122,57 @@
     "end": "1462924800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 17,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbpb/",
-    "class": "event-info",
-    "start": "1462924800000",
-    "end": "1462924800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 18,
     "title": "Heidelberg International Professional Womens Forum: HIP Night Out - May 2016 - Das Bootshaus",
     "url": "http://hipwf.com/event/hip-night-may-2016-das-bootshaus/",
     "class": "event-info",
     "start": "1462924800000",
     "end": "1462924800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 19,
+    "id": 18,
     "title": "Heidelberg Startup Partners: Kaminabend zum Thema Vertrieb mit Hans-Peter Szeip",
     "url": "http://heidelberg-startup-partners.de/event/kaminabend-zum-thema-vertrieb-mit-hans-peter-szeip/",
     "class": "event-info",
     "start": "1462924800000",
     "end": "1462924800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 19,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbpb/",
+    "class": "event-info",
+    "start": "1462924800000",
+    "end": "1462924800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 20,
-    "title": "E-Commerce Forum Karlsruhe: 25. E-Commerce Forum Karlsruhe: Psychologie im E-Commerce",
-    "url": "http://www.meetup.com/E-Commerce-Forum-Karlsruhe/events/228698985/",
+    "title": "Heidelberg Startup Partners: SRH Campus Business &amp; Law - „Startups – genialer Gründergeist oder Größenwahn?“",
+    "url": "http://heidelberg-startup-partners.de/event/srh-campus-business-law-startups-genialer-gruendergeist-oder-groessenwahn/",
     "class": "event-info",
     "start": "1463011200000",
     "end": "1463011200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 21,
-    "title": "NoName e.V.: Chaos-Treff: Wie konnten Sterne und Galaxien entstehen?",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1463011200000",
-    "end": "1463011200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 22,
     "title": "Java User Group Darmstadt: Robuste Cloud Architekturen (Agim Emruli)",
     "url": "http://www.jug-da.de/2016/05/Robuste-Cloud-Architekturen/",
     "class": "event-info",
     "start": "1463011200000",
     "end": "1463011200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 23,
+    "id": 22,
     "title": "HD - blockchain Meetup: 4th Heidelberg blockchain Meetup",
     "url": "http://www.meetup.com/blockchain-HD/events/230193274/",
     "class": "event-info",
     "start": "1463011200000",
     "end": "1463011200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 23,
+    "title": "E-Commerce Forum Karlsruhe: 25. E-Commerce Forum Karlsruhe: Psychologie im E-Commerce",
+    "url": "http://www.meetup.com/E-Commerce-Forum-Karlsruhe/events/228698985/",
+    "class": "event-info",
+    "start": "1463011200000",
+    "end": "1463011200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 24,
-    "title": "Heidelberg Startup Partners: SRH Campus Business &amp; Law - „Startups – genialer Gründergeist oder Größenwahn?“",
-    "url": "http://heidelberg-startup-partners.de/event/srh-campus-business-law-startups-genialer-gruendergeist-oder-groessenwahn/",
+    "title": "NoName e.V.: Chaos-Treff: Wie konnten Sterne und Galaxien entstehen?",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1463011200000",
     "end": "1463011200000"
@@ -190,17 +190,17 @@
     "class": "event-info",
     "start": "1463097600000",
     "end": "1463097600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 27,
-    "title": "Gründerbar 04",
-    "url": "https://www.eventbrite.de/e/grunderbar04-tickets-24771732920",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbrb/",
     "class": "event-info",
     "start": "1463097600000",
     "end": "1463097600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
     "id": 28,
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvhbrb/",
+    "title": "Gründerbar 04",
+    "url": "https://www.eventbrite.de/e/grunderbar04-tickets-24771732920",
     "class": "event-info",
     "start": "1463097600000",
     "end": "1463097600000"
@@ -220,43 +220,43 @@
     "end": "1463270400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 31,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvhbxb/",
-    "class": "event-info",
-    "start": "1463529600000",
-    "end": "1463529600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 32,
-    "title": "Google Developer Group Karlsruhe: I/O Extended 2016 Karlsruhe",
-    "url": "http://www.meetup.com/GDG-Karlsruhe/events/229511307/",
-    "class": "event-info",
-    "start": "1463529600000",
-    "end": "1463529600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 33,
-    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181882/",
-    "class": "event-info",
-    "start": "1463529600000",
-    "end": "1463529600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 34,
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvhbxb/",
     "class": "event-info",
     "start": "1463529600000",
     "end": "1463529600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 32,
+    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181882/",
+    "class": "event-info",
+    "start": "1463529600000",
+    "end": "1463529600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 33,
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvhbxb/",
+    "class": "event-info",
+    "start": "1463529600000",
+    "end": "1463529600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 34,
+    "title": "Google Developer Group Karlsruhe: I/O Extended 2016 Karlsruhe",
+    "url": "http://www.meetup.com/GDG-Karlsruhe/events/229511307/",
+    "class": "event-info",
+    "start": "1463529600000",
+    "end": "1463529600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 35,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "BioRN Network: DKFZ: Cancer Systems Genetics Conference",
+    "url": "http://biorn.org/event/dkfz-cancer-systems-genetics-conference/",
     "class": "event-info",
     "start": "1463616000000",
     "end": "1463616000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 36,
-    "title": "BioRN Network: DKFZ: Cancer Systems Genetics Conference",
-    "url": "http://biorn.org/event/dkfz-cancer-systems-genetics-conference/",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1463616000000",
     "end": "1463616000000"
@@ -325,15 +325,15 @@
     "end": "1464134400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 46,
-    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/229850483/",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1464220800000",
     "end": "1464220800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 47,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/229850483/",
     "class": "event-info",
     "start": "1464220800000",
     "end": "1464220800000"
@@ -360,29 +360,29 @@
     "end": "1464652800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 51,
-    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvjbcb/",
-    "class": "event-info",
-    "start": "1464739200000",
-    "end": "1464739200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 52,
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbcb/",
     "class": "event-info",
     "start": "1464739200000",
     "end": "1464739200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 52,
+    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvjbcb/",
+    "class": "event-info",
+    "start": "1464739200000",
+    "end": "1464739200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 53,
-    "title": "BioRN Network: EMBL Distinguished Visitor Lectures: Timothy J. Mitchison | Harvard University, New York (USA)",
-    "url": "http://biorn.org/event/embl-distinguished-visitor-lectures-timothy-j-mitchison-harvard-university-new-york-usa/",
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1464825600000",
     "end": "1464825600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 54,
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "title": "BioRN Network: EMBL Distinguished Visitor Lectures: Timothy J. Mitchison | Harvard University, New York (USA)",
+    "url": "http://biorn.org/event/embl-distinguished-visitor-lectures-timothy-j-mitchison-harvard-university-new-york-usa/",
     "class": "event-info",
     "start": "1464825600000",
     "end": "1464825600000"
@@ -416,15 +416,15 @@
     "end": "1464998400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 59,
-    "title": "Heidelberg Startup Partners: „Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
-    "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-4/",
+    "title": "BioRN Network: DKFZ Distinguished Lecturer Seminar Series: Ulrik Ringborg - Karolinska Institute",
+    "url": "http://biorn.org/event/dkfz-distinguished-lecturer-seminar-series-ulrik-ringborg-karolinska-institute/",
     "class": "event-info",
     "start": "1465171200000",
     "end": "1465171200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 60,
-    "title": "BioRN Network: DKFZ Distinguished Lecturer Seminar Series: Ulrik Ringborg - Karolinska Institute",
-    "url": "http://biorn.org/event/dkfz-distinguished-lecturer-seminar-series-ulrik-ringborg-karolinska-institute/",
+    "title": "Heidelberg Startup Partners: „Biotech Entrepreneurship and Leadership Lectures“ (BELL)",
+    "url": "http://heidelberg-startup-partners.de/event/biotech-entrepreneurship-and-leadership-lectures-bell-4/",
     "class": "event-info",
     "start": "1465171200000",
     "end": "1465171200000"
@@ -437,15 +437,15 @@
     "end": "1465257600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 62,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjblb/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjblb/",
     "class": "event-info",
     "start": "1465344000000",
     "end": "1465344000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 63,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjblb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjblb/",
     "class": "event-info",
     "start": "1465344000000",
     "end": "1465344000000"
@@ -498,38 +498,38 @@
     "class": "event-important",
     "start": "1465862400000",
     "end": "1465862400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 71,
-    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181890/",
-    "class": "event-info",
-    "start": "1465948800000",
-    "end": "1465948800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 72,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbtb/",
-    "class": "event-info",
-    "start": "1465948800000",
-    "end": "1465948800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 73,
-    "title": "enterJS 2016",
-    "url": "https://www.enterjs.de/",
+    "id": 71,
+    "title": "Entwicklertag Karlsruhe 2016",
+    "url": "https://entwicklertag.de/karlsruhe/2016/",
     "class": "event-important",
     "start": "1465948800000",
     "end": "1465948800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 74,
+    "id": 72,
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbtb/",
     "class": "event-info",
     "start": "1465948800000",
     "end": "1465948800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 73,
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbtb/",
+    "class": "event-info",
+    "start": "1465948800000",
+    "end": "1465948800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 74,
+    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181890/",
+    "class": "event-info",
+    "start": "1465948800000",
+    "end": "1465948800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
     "id": 75,
-    "title": "Entwicklertag Karlsruhe 2016",
-    "url": "https://entwicklertag.de/karlsruhe/2016/",
+    "title": "enterJS 2016",
+    "url": "https://www.enterjs.de/",
     "class": "event-important",
     "start": "1465948800000",
     "end": "1465948800000"
@@ -540,18 +540,18 @@
     "class": "event-important",
     "start": "1466035200000",
     "end": "1466035200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 77,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1466035200000",
-    "end": "1466035200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 78,
+    "id": 77,
     "title": "enterJS 2016",
     "url": "https://www.enterjs.de/",
     "class": "event-important",
+    "start": "1466035200000",
+    "end": "1466035200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 78,
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
+    "class": "event-info",
     "start": "1466035200000",
     "end": "1466035200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
@@ -626,15 +626,15 @@
     "end": "1466899200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 89,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbmc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbmc/",
     "class": "event-info",
     "start": "1467158400000",
     "end": "1467158400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 90,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvjbmc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvjbmc/",
     "class": "event-info",
     "start": "1467158400000",
     "end": "1467158400000"
@@ -682,15 +682,15 @@
     "end": "1467590400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 97,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbjb/",
+    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvkbjb/",
     "class": "event-info",
     "start": "1467763200000",
     "end": "1467763200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 98,
-    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvkbjb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbjb/",
     "class": "event-info",
     "start": "1467763200000",
     "end": "1467763200000"
@@ -759,8 +759,8 @@
     "end": "1468540800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 108,
-    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181897/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvkbbc/",
     "class": "event-info",
     "start": "1468972800000",
     "end": "1468972800000"
@@ -773,22 +773,22 @@
     "end": "1468972800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 110,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvkbbc/",
+    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/230181897/",
     "class": "event-info",
     "start": "1468972800000",
     "end": "1468972800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 111,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "Heidelberg International Professional Womens Forum: Marketing Yourself on Social Media",
+    "url": "http://hipwf.com/event/marketing-yourself-on-social-media/",
     "class": "event-info",
     "start": "1469059200000",
     "end": "1469059200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 112,
-    "title": "Heidelberg International Professional Womens Forum: Marketing Yourself on Social Media",
-    "url": "http://hipwf.com/event/marketing-yourself-on-social-media/",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1469059200000",
     "end": "1469059200000"
@@ -808,29 +808,29 @@
     "end": "1469318400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 115,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbkc/",
-    "class": "event-info",
-    "start": "1469577600000",
-    "end": "1469577600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 116,
     "title": "Heidelberg Makers Meetup: Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvkbkc/",
     "class": "event-info",
     "start": "1469577600000",
     "end": "1469577600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 116,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvkbkc/",
+    "class": "event-info",
+    "start": "1469577600000",
+    "end": "1469577600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 117,
-    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkyvkblc/",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1469664000000",
     "end": "1469664000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 118,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkyvkblc/",
     "class": "event-info",
     "start": "1469664000000",
     "end": "1469664000000"
@@ -843,29 +843,29 @@
     "end": "1469750400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 120,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbfb/",
-    "class": "event-info",
-    "start": "1470182400000",
-    "end": "1470182400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 121,
     "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvlbfb/",
     "class": "event-info",
     "start": "1470182400000",
     "end": "1470182400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 121,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbfb/",
+    "class": "event-info",
+    "start": "1470182400000",
+    "end": "1470182400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 122,
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "title": "Java User Group Darmstadt: Glue for the Internet of Things (Jens Deters)",
+    "url": "http://www.jug-da.de/2016/08/Glue-for-IoT/",
     "class": "event-info",
     "start": "1470268800000",
     "end": "1470268800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 123,
-    "title": "Java User Group Darmstadt: Glue for the Internet of Things (Jens Deters)",
-    "url": "http://www.jug-da.de/2016/08/Glue-for-IoT/",
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1470268800000",
     "end": "1470268800000"
@@ -983,15 +983,15 @@
     "end": "1472169600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 140,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbpc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbpc/",
     "class": "event-info",
     "start": "1472601600000",
     "end": "1472601600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 141,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvlbpc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvlbpc/",
     "class": "event-info",
     "start": "1472601600000",
     "end": "1472601600000"
@@ -1023,18 +1023,18 @@
     "class": "event-important",
     "start": "1472860800000",
     "end": "1472860800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 146,
-    "title": "MetaRheinMainChaosDays 2016",
-    "url": "https://mrmcd.net/",
-    "class": "event-important",
-    "start": "1472947200000",
-    "end": "1472947200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 147,
+    "id": 146,
     "title": "Mannheim Boardgames Meetup: Play some games",
     "url": "http://www.meetup.com/Mannheim-Boardgames-Meetup/events/lbdmplyvmbgb/",
     "class": "event-info",
+    "start": "1472947200000",
+    "end": "1472947200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+    "id": 147,
+    "title": "MetaRheinMainChaosDays 2016",
+    "url": "https://mrmcd.net/",
+    "class": "event-important",
     "start": "1472947200000",
     "end": "1472947200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
@@ -1102,15 +1102,15 @@
     "end": "1474156800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 157,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvmbcc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmbcc/",
     "class": "event-info",
     "start": "1474416000000",
     "end": "1474416000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 158,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmbcc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvmbcc/",
     "class": "event-info",
     "start": "1474416000000",
     "end": "1474416000000"
@@ -1144,15 +1144,15 @@
     "end": "1474588800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 163,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvmblc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmblc/",
     "class": "event-info",
     "start": "1475020800000",
     "end": "1475020800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 164,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvmblc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvmblc/",
     "class": "event-info",
     "start": "1475020800000",
     "end": "1475020800000"
@@ -1177,53 +1177,53 @@
     "class": "event-info",
     "start": "1475366400000",
     "end": "1475366400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 168,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvnbhb/",
-    "class": "event-info",
-    "start": "1475625600000",
-    "end": "1475625600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 169,
+    "id": 168,
     "title": "data2day 2016",
     "url": "http://www.data2day.de/",
     "class": "event-important",
     "start": "1475625600000",
     "end": "1475625600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 170,
+    "id": 169,
     "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflyvnbhb/",
     "class": "event-info",
     "start": "1475625600000",
     "end": "1475625600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 171,
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "id": 170,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvnbhb/",
     "class": "event-info",
-    "start": "1475712000000",
-    "end": "1475712000000"
+    "start": "1475625600000",
+    "end": "1475625600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 172,
+    "id": 171,
     "title": "data2day 2016",
     "url": "http://www.data2day.de/",
     "class": "event-important",
     "start": "1475712000000",
     "end": "1475712000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 173,
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvnbkb/",
+    "id": 172,
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
-    "start": "1475798400000",
-    "end": "1475798400000"
+    "start": "1475712000000",
+    "end": "1475712000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 174,
+    "id": 173,
     "title": "data2day 2016",
     "url": "http://www.data2day.de/",
     "class": "event-important",
+    "start": "1475798400000",
+    "end": "1475798400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 174,
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "http://www.meetup.com/back-to-the-future/events/xvgdrlyvnbkb/",
+    "class": "event-info",
     "start": "1475798400000",
     "end": "1475798400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
@@ -1417,22 +1417,22 @@
     "end": "1478995200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 202,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbvb/",
-    "class": "event-info",
-    "start": "1479254400000",
-    "end": "1479254400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 203,
     "title": "Heidelberg Makers Meetup: Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbvb/",
     "class": "event-info",
     "start": "1479254400000",
     "end": "1479254400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 204,
+    "id": 203,
     "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
     "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvpbvb/",
+    "class": "event-info",
+    "start": "1479254400000",
+    "end": "1479254400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 204,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbvb/",
     "class": "event-info",
     "start": "1479254400000",
     "end": "1479254400000"
@@ -1459,15 +1459,15 @@
     "end": "1479427200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 208,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbfc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbfc/",
     "class": "event-info",
     "start": "1479859200000",
     "end": "1479859200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 209,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvpbfc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvpbfc/",
     "class": "event-info",
     "start": "1479859200000",
     "end": "1479859200000"
@@ -1529,8 +1529,8 @@
     "end": "1480636800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 218,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbkb/",
+    "title": "Heidelberg International Professional Womens Forum: HIP Christmas Party",
+    "url": "http://hipwf.com/event/hip-christmas-party-2016/",
     "class": "event-info",
     "start": "1481068800000",
     "end": "1481068800000"
@@ -1543,8 +1543,8 @@
     "end": "1481068800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 220,
-    "title": "Heidelberg International Professional Womens Forum: HIP Christmas Party",
-    "url": "http://hipwf.com/event/hip-christmas-party-2016/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbkb/",
     "class": "event-info",
     "start": "1481068800000",
     "end": "1481068800000"
@@ -1571,15 +1571,15 @@
     "end": "1481414400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 224,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbsb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbsb/",
     "class": "event-info",
     "start": "1481673600000",
     "end": "1481673600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 225,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbsb/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbsb/",
     "class": "event-info",
     "start": "1481673600000",
     "end": "1481673600000"
@@ -1599,22 +1599,22 @@
     "end": "1481846400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 228,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbcc/",
-    "class": "event-info",
-    "start": "1482278400000",
-    "end": "1482278400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 229,
     "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
     "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlyvqbcc/",
     "class": "event-info",
     "start": "1482278400000",
     "end": "1482278400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 230,
+    "id": 229,
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslyvqbcc/",
+    "class": "event-info",
+    "start": "1482278400000",
+    "end": "1482278400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 230,
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlyvqbcc/",
     "class": "event-info",
     "start": "1482278400000",
     "end": "1482278400000"
@@ -1704,15 +1704,15 @@
     "end": "1483833600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 243,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywcbpb/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywcbpb/",
     "class": "event-info",
     "start": "1484092800000",
     "end": "1484092800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 244,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywcbpb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywcbpb/",
     "class": "event-info",
     "start": "1484092800000",
     "end": "1484092800000"
@@ -1788,15 +1788,15 @@
     "end": "1485302400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 255,
-    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
-    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywcbjc/",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1485388800000",
     "end": "1485388800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 256,
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "title": "C++ User Group Rhein-Neckar: C++ Usergroup Meeting",
+    "url": "http://www.meetup.com/C-User-Group-Rhein-Neckar/events/dplcpkywcbjc/",
     "class": "event-info",
     "start": "1485388800000",
     "end": "1485388800000"
@@ -1809,15 +1809,15 @@
     "end": "1485475200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 258,
-    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywdbcb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbcb/",
     "class": "event-info",
     "start": "1485907200000",
     "end": "1485907200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 259,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbcb/",
+    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywdbcb/",
     "class": "event-info",
     "start": "1485907200000",
     "end": "1485907200000"
@@ -1844,15 +1844,15 @@
     "end": "1486252800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 263,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdblb/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdblb/",
     "class": "event-info",
     "start": "1486512000000",
     "end": "1486512000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 264,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywdblb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdblb/",
     "class": "event-info",
     "start": "1486512000000",
     "end": "1486512000000"
@@ -1872,8 +1872,8 @@
     "end": "1486684800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 267,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbtb/",
+    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
+    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlywdbtb/",
     "class": "event-info",
     "start": "1487116800000",
     "end": "1487116800000"
@@ -1886,8 +1886,8 @@
     "end": "1487116800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 269,
-    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
-    "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlywdbtb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywdbtb/",
     "class": "event-info",
     "start": "1487116800000",
     "end": "1487116800000"
@@ -1942,15 +1942,15 @@
     "end": "1487894400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 277,
-    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywfbcb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbcb/",
     "class": "event-info",
     "start": "1488326400000",
     "end": "1488326400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 278,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbcb/",
+    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywfbcb/",
     "class": "event-info",
     "start": "1488326400000",
     "end": "1488326400000"
@@ -2005,22 +2005,22 @@
     "end": "1489104000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 286,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbtb/",
-    "class": "event-info",
-    "start": "1489536000000",
-    "end": "1489536000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 287,
     "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
     "url": "http://www.meetup.com/CocoaHeads-Heidelberg/events/kxjtrlywfbtb/",
     "class": "event-info",
     "start": "1489536000000",
     "end": "1489536000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 288,
+    "id": 287,
     "title": "Heidelberg Makers Meetup: Weekly Making Hours",
     "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbtb/",
+    "class": "event-info",
+    "start": "1489536000000",
+    "end": "1489536000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 288,
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbtb/",
     "class": "event-info",
     "start": "1489536000000",
     "end": "1489536000000"
@@ -2047,15 +2047,15 @@
     "end": "1489881600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 292,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbdc/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbdc/",
     "class": "event-info",
     "start": "1490140800000",
     "end": "1490140800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 293,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywfbdc/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywfbdc/",
     "class": "event-info",
     "start": "1490140800000",
     "end": "1490140800000"
@@ -2117,15 +2117,15 @@
     "end": "1491091200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 302,
-    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywgbhb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywgbhb/",
     "class": "event-info",
     "start": "1491350400000",
     "end": "1491350400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 303,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywgbhb/",
+    "title": "Heidelberg Makers Meetup: Monthly Makerspace Meetup - Tinker, Make and Meet",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/nlhlflywgbhb/",
     "class": "event-info",
     "start": "1491350400000",
     "end": "1491350400000"
@@ -2145,15 +2145,15 @@
     "end": "1491523200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 306,
-    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
-    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywgbqb/",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywgbqb/",
     "class": "event-info",
     "start": "1491955200000",
     "end": "1491955200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 307,
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "http://www.meetup.com/HeidelbergPython/events/cpbfslywgbqb/",
+    "title": "Heidelberg Makers Meetup: Weekly Making Hours",
+    "url": "http://www.meetup.com/Heidelberg-Makers-Meetup/events/xtqvnlywgbqb/",
     "class": "event-info",
     "start": "1491955200000",
     "end": "1491955200000"
