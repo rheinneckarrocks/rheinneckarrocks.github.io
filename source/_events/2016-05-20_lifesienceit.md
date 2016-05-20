@@ -1,6 +1,0 @@
----
-title: {LIFE SCIENCE} MEETS IT Hackathon
-date: 2016-05-20
-location: Marsilius Arkaden Tower, Heidelberg
-link: http://www.lifesciencemeetsit.eu/
----
