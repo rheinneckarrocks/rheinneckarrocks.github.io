@@ -1,0 +1,8 @@
+---
+title: Hackschool - Coding for privacy @MAFINEX
+date: 2016-07-09
+location: MAFINEX Technologiezentrum, Mannheim
+link: http://www.meetup.com/Hackschool-Mannheim/events/231880959/
+usergroup: hackschool
+type: usergroup
+---
