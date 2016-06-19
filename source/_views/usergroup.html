@@ -18,7 +18,7 @@
                 <p>
                     <h4>{{ event.meta.date | date('d.m.Y') }}</h4>
                     <ul class="list-inline">
-                        <li><a href="{{ event.meta.link }}">{{ event.meta.title }}</a></li>
+                        <li><a href="{% if event.meta.link %}{{ event.meta.link }}{% else %}{{ page.link }}{% endif %}">{{ event.meta.title }}</a></li>
                         {% if page.eventFeed.type == 'meetup' %}
                         <li><a href="{{ event.meta.link }}"data-event="{{ event.meta.link|extract_meetup_id }}" class="mu-rsvp-btn">RSVP</a></li>
                         {% endif %}
