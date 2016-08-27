@@ -2,7 +2,7 @@
 title: Meet on a regular basis
 date: 2016-09-16
 location: Action House, Heidelberg, Heidelberg
-link: http://www.meetup.com/back-to-the-future/events/xvgdrlyvmbvb/
+link: http://www.meetup.com/back-to-the-future/events/233661897/
 usergroup: smalltalkrn
 type: usergroup
 ---
