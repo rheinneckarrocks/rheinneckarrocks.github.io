@@ -1,0 +1,186 @@
+{% extends "default" %}
+
+{% block events %}
+<section id="events">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Nächste Veranstaltungen</h2>
+                <hr class="star">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+            {% set eventsFound = false %}
+            {% for event in data.events %}
+                {% if event.usergroup == page.title %}
+                {% set eventsFound = true %}
+                <p>
+                    <h4>{{ event.meta.date | date('d.m.Y') }}</h4>
+                    <ul class="list-inline">
+                        <li><a href="{{ event.meta.link }}">{{ event.meta.title }}</a></li>
+                        {% if page.eventFeed.type == 'meetup' %}
+                        <li><a href="{{ event.meta.link }}"data-event="{{ event.meta.link|extract_meetup_id }}" class="mu-rsvp-btn">RSVP</a></li>
+                        {% endif %}
+                    </ul>
+                    <br><br>
+                </p>
+                {% endif %}
+            {% endfor %}
+            {% if not eventsFound %}
+                <p>
+                    Aktuell keine Veranstaltungen geplant!
+                </p>
+            {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block ug %}
+<section id="ug">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Usergroup Informationen</h2>
+                <hr class="star">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                {% if page.name %}
+                <p>
+                    <h4>Name:</h4>
+                    {% if page.link %}
+                    <a href="{{ page.link }}">{{ page.name }}</a>
+                    {% else %}
+                    {{ page.name }}
+                    {% endif %}
+                    <br><br>
+                </p>
+                {% endif %}
+                {% if page.tags %}
+                <p>
+                    <h4>Themenschwerpunkte:</h4>
+                    {{ page.tags|join(', ') }}<br><br>
+                </p>
+                {% endif %}
+                {% if page.organizers %}
+                <p>
+                    <h4>Organisatoren:</h4>
+                    {% for organizer in page.organizers %}
+                    {% if organizer.name %}
+                    <ul class="list-inline">
+                        <li>
+                            {{ organizer.name }}:
+                        </li>
+                        {% if organizer.email %}
+                        <li>
+                            <a href="mailto::{{ organizer.email}}">
+                                    <span class="fa-stack fa-sm">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                    </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if organizer.twitter %}
+                        <li>
+                            <a href="https://twitter.com/{{ organizer.twitter}}">
+                                    <span class="fa-stack fa-sm">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if organizer.facebook %}
+                        <li>
+                            <a href="https://facebook.com/{{ organizer.facebook }}">
+                                    <span class="fa-stack fa-sm">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                    </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if organizer.github %}
+                        <li>
+                            <a href="https://github.com/{{ organizer.github }}">
+                                    <span class="fa-stack fa-sm">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                    {% endif %}
+                    {% endfor %}
+                </p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block help %}
+<section id="help">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Kontakt</h2>
+                <hr class="star">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+            {% if page.email or page.twitter or page.facebook or page.github or page.url %}
+                <p>
+                    Um mit der Usergroup in Kontakt zu treten hast du folgende Möglichkeiten:<br><br>
+                </p>
+                {% if page.email %}
+                <p>
+                    <a href="mailto:{{ page.email }}">{{ page.email }}</a><br><br>
+                </p>
+                {% endif %}
+                <ul class="list-inline">
+                    {% if page.twitter %}
+                    <li>
+                        <a href="https://twitter.com/{{ page.twitter }}" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                    </li>
+                    {% endif %}
+                    {% if page.facebook %}
+                    <li>
+                        <a href="https://facebook.com/{{ page.facebook }}" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                    </li>
+                    {% endif %}
+                    {% if page.github %}
+                    <li>
+                        <a href="https://github.com/{{ page.github }}" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                    {% endif %}
+                    {% if page.link %}
+                    <li>
+                        <a href="{{ page.link }}" class="btn btn-default btn-lg"><i class="fa fa-home fa-fw"></i> <span class="network-name">Web</span></a>
+                    </li>
+                    {% endif %}
+                </ul>
+            {% else %}
+                <p>
+                    Leider haben wir keine Kontaktinformationen vorliegen. Weißt du etwas? Dann melde dich.
+                </p>
+            {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block jsbody %}
+{% if page.eventFeed.type == 'meetup' %}
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=g24jbookjh50l6g0kp5eip46ed";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+{% endif %}
+{% endblock %}
