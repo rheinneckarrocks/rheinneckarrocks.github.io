@@ -1,0 +1,21 @@
+sculpin_content_types:
+    posts:
+        enabled: false
+    events:
+        type: path
+        path: _events
+        singular_name: event
+        enabled: true
+    usergroups:
+        type: path
+        path: _usergroups
+        singular_name: usergroup
+        enabled: true
+sculpin_twig:
+  extensions:
+    - ''
+    - html
+    - twig
+    - json
+    - html.twig
+    - twig.html

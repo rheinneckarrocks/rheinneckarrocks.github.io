@@ -1,0 +1,9 @@
+services:
+    sculpin_content_types.types.events.collection.sorter:
+        class: Sculpin\Contrib\ProxySourceCollection\Sorter\MetaSorter
+        arguments:
+            - date
+    rheinneckarrocks.twig_extension:
+            class: Rheinneckarrocks\TwigExtension
+            tags:
+                - { name: twig.extension }
