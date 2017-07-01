@@ -14,6 +14,7 @@ permalink: events.json
     {% endfor %}
     {
     "id": {{ loop.index0 }},
+    "usergroup": "{{ event.usergroup }}",
     "title": "{{ ugname }}{{ event.meta.title }}",
     "url": "{{ event.meta.link }}",
     "class": "{{ event.meta.type|type_css_class }}",
