@@ -73,7 +73,7 @@
                     {% if organizer.name %}
                     <ul class="list-inline">
                         <li>
-                            {{ organizer.name }}:
+                            {{ organizer.name }}{% if organizer.email or organizer.twitter or organizer.facebook or organizer.github %}:{% endif %}
                         </li>
                         {% if organizer.email %}
                         <li>
