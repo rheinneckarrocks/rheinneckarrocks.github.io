@@ -1,7 +1,7 @@
 ---
 title: Workshop: Docker Engine, Compose, and Swarm
 date: 2017-10-14
-location: 
+location: LivePerson, Mannheim
 link: https://www.meetup.com/Hackschool-Mannheim/events/239901378/
 usergroup: hackschool
 type: usergroup
