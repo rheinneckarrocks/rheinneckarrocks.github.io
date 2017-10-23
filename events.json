@@ -3,14 +3,6 @@
   "result": [
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           {
     "id": 0,
-    "usergroup": "hipwf",
-    "title": "Heidelberg International Professional Womens Forum: HIP night out – November",
-    "url": "http://www.hipwf.com/event/hip-night-november/",
-    "class": "event-info",
-    "start": "1508716800000",
-    "end": "1508716800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 1,
     "usergroup": "biorn",
     "title": "BioRN Network: „Transfer für die Personalisierte Medizin“",
     "url": "http://biorn.org/event/transfer-fuer-die-personalisierte-medizin/",
@@ -18,10 +10,18 @@
     "start": "1508716800000",
     "end": "1508716800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 2,
+    "id": 1,
     "usergroup": "biorn",
     "title": "BioRN Network: BioRN Annual Conference 2017",
     "url": "http://biorn.org/event/biorn-annual-conference/",
+    "class": "event-info",
+    "start": "1508803200000",
+    "end": "1508803200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 2,
+    "usergroup": "tomama",
+    "title": "Mannheim International Toastmasters Club: Practice English-language public speaking with Toastmasters",
+    "url": "https://www.meetup.com/Mannheim-Toastmasters/events/244426949/",
     "class": "event-info",
     "start": "1508803200000",
     "end": "1508803200000"
@@ -33,14 +33,14 @@
     "class": "event-info",
     "start": "1508803200000",
     "end": "1508803200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
     "id": 4,
-    "usergroup": "tomama",
-    "title": "Mannheim International Toastmasters Club: Practice English-language public speaking with Toastmasters",
-    "url": "https://www.meetup.com/Mannheim-Toastmasters/events/244426949/",
-    "class": "event-info",
-    "start": "1508803200000",
-    "end": "1508803200000"
+    "usergroup": "",
+    "title": "PyCon.DE 2017 Karlsruhe",
+    "url": "http://de.pycon.org/",
+    "class": "event-important",
+    "start": "1508889600000",
+    "end": "1508889600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 5,
     "usergroup": "invxka",
@@ -49,35 +49,35 @@
     "class": "event-info",
     "start": "1508889600000",
     "end": "1508889600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 6,
-    "usergroup": "",
-    "title": "PyCon.DE 2017 Karlsruhe",
-    "url": "http://de.pycon.org/",
-    "class": "event-important",
-    "start": "1508889600000",
-    "end": "1508889600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
-    "id": 7,
-    "usergroup": "",
-    "title": "PyCon.DE 2017 Karlsruhe",
-    "url": "http://de.pycon.org/",
-    "class": "event-important",
+    "usergroup": "startuphd",
+    "title": "Heidelberg Startup Partners: 3. Flop Shop / Zünder für Gründer 29",
+    "url": "http://heidelberg-startup-partners.de/event/3-flop-shop-zuender-fuer-gruender-28/",
+    "class": "event-info",
     "start": "1508976000000",
     "end": "1508976000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 8,
+    "id": 7,
     "usergroup": "coda",
     "title": "cosee TechTalks: cosee TechTalk | Full Skill Developer - Was sollte er können?",
     "url": "https://www.meetup.com/cosee-TechTalks/events/244111705/",
     "class": "event-info",
     "start": "1508976000000",
     "end": "1508976000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+    "id": 8,
+    "usergroup": "",
+    "title": "PyCon.DE 2017 Karlsruhe",
+    "url": "http://de.pycon.org/",
+    "class": "event-important",
+    "start": "1508976000000",
+    "end": "1508976000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 9,
-    "usergroup": "startuphd",
-    "title": "Heidelberg Startup Partners: 3. Flop Shop / Zünder für Gründer 29",
-    "url": "http://heidelberg-startup-partners.de/event/3-flop-shop-zuender-fuer-gruender-28/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1508976000000",
     "end": "1508976000000"
@@ -99,46 +99,6 @@
     "end": "1508976000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 12,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1508976000000",
-    "end": "1508976000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 13,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/238004369/",
-    "class": "event-info",
-    "start": "1509062400000",
-    "end": "1509062400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 14,
-    "usergroup": "biorn",
-    "title": "BioRN Network: DKFZ Nobel Laureate Lecture Series: Sir Paul Nurse - Nobel Laureate in Medicine or Physiology 2001",
-    "url": "http://biorn.org/event/dkfz-nobel-laureate-lecture-series-sir-paul-nurse-nobel-laureate-in-medicine-or-physiology-2001/",
-    "class": "event-info",
-    "start": "1509062400000",
-    "end": "1509062400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
-    "id": 15,
-    "usergroup": "",
-    "title": "PyCon.DE 2017 Karlsruhe",
-    "url": "http://de.pycon.org/",
-    "class": "event-important",
-    "start": "1509062400000",
-    "end": "1509062400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 16,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/244003322/",
-    "class": "event-info",
-    "start": "1509062400000",
-    "end": "1509062400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 17,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Carcassonne &amp; Co.",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586608/",
@@ -146,7 +106,15 @@
     "start": "1509062400000",
     "end": "1509062400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 18,
+    "id": 13,
+    "usergroup": "biorn",
+    "title": "BioRN Network: DKFZ Nobel Laureate Lecture Series: Sir Paul Nurse - Nobel Laureate in Medicine or Physiology 2001",
+    "url": "http://biorn.org/event/dkfz-nobel-laureate-lecture-series-sir-paul-nurse-nobel-laureate-in-medicine-or-physiology-2001/",
+    "class": "event-info",
+    "start": "1509062400000",
+    "end": "1509062400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 14,
     "usergroup": "techhubda",
     "title": "tech_hub Darmstadt: Campus Hackathon",
     "url": "https://www.meetup.com/Tech_Hub-Darmstadt/events/242158517/",
@@ -154,7 +122,31 @@
     "start": "1509062400000",
     "end": "1509062400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 19,
+    "id": 15,
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/244003322/",
+    "class": "event-info",
+    "start": "1509062400000",
+    "end": "1509062400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+    "id": 16,
+    "usergroup": "",
+    "title": "PyCon.DE 2017 Karlsruhe",
+    "url": "http://de.pycon.org/",
+    "class": "event-important",
+    "start": "1509062400000",
+    "end": "1509062400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 17,
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/238004369/",
+    "class": "event-info",
+    "start": "1509062400000",
+    "end": "1509062400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 18,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Spielenachmittag in Weinheim",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/244337507/",
@@ -162,7 +154,7 @@
     "start": "1509148800000",
     "end": "1509148800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
-    "id": 20,
+    "id": 19,
     "usergroup": "",
     "title": "unKonf 2017",
     "url": "https://www.unKonf.de",
@@ -170,13 +162,21 @@
     "start": "1509148800000",
     "end": "1509148800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 21,
+    "id": 20,
     "usergroup": "makershd",
     "title": "Heidelberg Makers Meetup: International Sewing Workshop",
     "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywnbpc/",
     "class": "event-info",
     "start": "1509408000000",
     "end": "1509408000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 21,
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "class": "event-info",
+    "start": "1509580800000",
+    "end": "1509580800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 22,
     "usergroup": "pythonhd",
@@ -187,12 +187,12 @@
     "end": "1509580800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 23,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywpbfb/",
     "class": "event-info",
-    "start": "1509580800000",
-    "end": "1509580800000"
+    "start": "1509667200000",
+    "end": "1509667200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 24,
     "usergroup": "bogama",
@@ -203,14 +203,6 @@
     "end": "1509667200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 25,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywpbfb/",
-    "class": "event-info",
-    "start": "1509667200000",
-    "end": "1509667200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 26,
     "usergroup": "blckhd",
     "title": "HD - blockchain Meetup: 10th Heidelberg blockchain Meetup",
     "url": "https://www.meetup.com/blockchain-HD/events/244218593/",
@@ -218,7 +210,7 @@
     "start": "1509840000000",
     "end": "1509840000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 27,
+    "id": 26,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Play some games",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243386292/",
@@ -226,7 +218,7 @@
     "start": "1509840000000",
     "end": "1509840000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 28,
+    "id": 27,
     "usergroup": "biorn",
     "title": "BioRN Network: Bts: Let Life Sciences meet you in Heidelberg",
     "url": "http://biorn.org/event/bts-let-life-sciences-meet-you-in-heidelberg/",
@@ -234,7 +226,7 @@
     "start": "1510012800000",
     "end": "1510012800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 29,
+    "id": 28,
     "usergroup": "makershd",
     "title": "Heidelberg Makers Meetup: International Sewing Workshop",
     "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywpbkb/",
@@ -242,15 +234,7 @@
     "start": "1510012800000",
     "end": "1510012800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 30,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Rune Age bei der Spielinsel Ludwigshafen",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/244289330/",
-    "class": "event-info",
-    "start": "1510099200000",
-    "end": "1510099200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 31,
+    "id": 29,
     "usergroup": "goda",
     "title": "Gophers Darmstadt: Prometheus mit Go und Go News",
     "url": "https://www.meetup.com/Gophers-Darmstadt/events/244320345/",
@@ -258,47 +242,31 @@
     "start": "1510099200000",
     "end": "1510099200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 30,
+    "usergroup": "hipwf",
+    "title": "Heidelberg International Professional Womens Forum: HIP night out – November",
+    "url": "http://www.hipwf.com/event/hip-night-november/",
+    "class": "event-info",
+    "start": "1510099200000",
+    "end": "1510099200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 31,
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Rune Age bei der Spielinsel Ludwigshafen",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/244289330/",
+    "class": "event-info",
+    "start": "1510099200000",
+    "end": "1510099200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 32,
-    "usergroup": "dockerma",
-    "title": "Docker Mannheim: IV: Cluster Management Fun with Kubernetes",
-    "url": "https://www.meetup.com/Docker-Mannheim/events/242736667/",
+    "usergroup": "12min",
+    "title": "Twelve Minutes Me: 12min.me - Ignite Talks &amp; Networking Vol. 12 (Anniversary!) / RN",
+    "url": "https://www.meetup.com/12minRN/events/243457562/",
     "class": "event-info",
     "start": "1510185600000",
     "end": "1510185600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 33,
-    "usergroup": "ecommerceka",
-    "title": "E-Commerce Forum Karlsruhe: E-Commerce Forum Karlsruhe XXL",
-    "url": "https://www.meetup.com/E-Commerce-Forum-Karlsruhe/events/242531046/",
-    "class": "event-info",
-    "start": "1510185600000",
-    "end": "1510185600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 34,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbmb/",
-    "class": "event-info",
-    "start": "1510185600000",
-    "end": "1510185600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 35,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1510185600000",
-    "end": "1510185600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 36,
-    "usergroup": "biorn",
-    "title": "BioRN Network: Future X Healthcare",
-    "url": "http://biorn.org/event/future-x-healthcare/",
-    "class": "event-info",
-    "start": "1510185600000",
-    "end": "1510185600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 37,
     "usergroup": "jugda",
     "title": "Java User Group Darmstadt: Openshift Container Platform - Enterprise Kubernetes ++ (Jürgen Hoffmann)",
     "url": "https://www.jug-da.de/2017/11/Openshift-Container-Platform/",
@@ -306,10 +274,42 @@
     "start": "1510185600000",
     "end": "1510185600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 34,
+    "usergroup": "ecommerceka",
+    "title": "E-Commerce Forum Karlsruhe: E-Commerce Forum Karlsruhe XXL",
+    "url": "https://www.meetup.com/E-Commerce-Forum-Karlsruhe/events/242531046/",
+    "class": "event-info",
+    "start": "1510185600000",
+    "end": "1510185600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 35,
+    "usergroup": "biorn",
+    "title": "BioRN Network: Future X Healthcare",
+    "url": "http://biorn.org/event/future-x-healthcare/",
+    "class": "event-info",
+    "start": "1510185600000",
+    "end": "1510185600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 36,
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbmb/",
+    "class": "event-info",
+    "start": "1510185600000",
+    "end": "1510185600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 37,
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
+    "class": "event-info",
+    "start": "1510185600000",
+    "end": "1510185600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 38,
-    "usergroup": "12min",
-    "title": "Twelve Minutes Me: 12min.me - Ignite Talks &amp; Networking Vol. 12 (Anniversary!) / RN",
-    "url": "https://www.meetup.com/12minRN/events/243457562/",
+    "usergroup": "dockerma",
+    "title": "Docker Mannheim: IV: Cluster Management Fun with Kubernetes",
+    "url": "https://www.meetup.com/Docker-Mannheim/events/242736667/",
     "class": "event-info",
     "start": "1510185600000",
     "end": "1510185600000"
@@ -347,9 +347,9 @@
     "end": "1510531200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 43,
-    "usergroup": "biorn",
-    "title": "BioRN Network: IP Seminar mit anschließendem Get-together",
-    "url": "http://biorn.org/event/biornisenbruck-patentrechtsvortraege-mit-anschliessendem-get-together/",
+    "usergroup": "clojurern",
+    "title": "Clojure User Group Rhein Neckar: Clojure User Group Rhein Neckar",
+    "url": "https://www.meetup.com/Clojure-User-Group-Rhein-Neckar/events/jlsljmywpbsb/",
     "class": "event-info",
     "start": "1510617600000",
     "end": "1510617600000"
@@ -363,9 +363,9 @@
     "end": "1510617600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 45,
-    "usergroup": "clojurern",
-    "title": "Clojure User Group Rhein Neckar: Clojure User Group Rhein Neckar",
-    "url": "https://www.meetup.com/Clojure-User-Group-Rhein-Neckar/events/jlsljmywpbsb/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: IP Seminar mit anschließendem Get-together",
+    "url": "http://biorn.org/event/biornisenbruck-patentrechtsvortraege-mit-anschliessendem-get-together/",
     "class": "event-info",
     "start": "1510617600000",
     "end": "1510617600000"
@@ -395,22 +395,6 @@
     "end": "1510790400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 49,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbvb/",
-    "class": "event-info",
-    "start": "1510790400000",
-    "end": "1510790400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 50,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1510790400000",
-    "end": "1510790400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 51,
     "usergroup": "dtda",
     "title": "Digitale Transformation: 2 Digitale Transformation / sponsored by JSperts",
     "url": "https://www.meetup.com/DigitaleTransformationDarmstadt/events/241588848/",
@@ -418,15 +402,23 @@
     "start": "1510790400000",
     "end": "1510790400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 52,
-    "usergroup": "grbrrn",
-    "title": "Gründerbar - Rhein-Neckar: Gründerbar 11",
-    "url": "https://www.meetup.com/Grunderbar-Rhein-Neckar/events/244143576/",
+    "id": 50,
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbvb/",
     "class": "event-info",
-    "start": "1510876800000",
-    "end": "1510876800000"
+    "start": "1510790400000",
+    "end": "1510790400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 53,
+    "id": 51,
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
+    "class": "event-info",
+    "start": "1510790400000",
+    "end": "1510790400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 52,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Cards and Dice",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586774/",
@@ -434,10 +426,18 @@
     "start": "1510876800000",
     "end": "1510876800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 54,
+    "id": 53,
     "usergroup": "smalltalkrn",
     "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
     "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywpbwb/",
+    "class": "event-info",
+    "start": "1510876800000",
+    "end": "1510876800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 54,
+    "usergroup": "grbrrn",
+    "title": "Gründerbar - Rhein-Neckar: Gründerbar 11",
+    "url": "https://www.meetup.com/Grunderbar-Rhein-Neckar/events/244143576/",
     "class": "event-info",
     "start": "1510876800000",
     "end": "1510876800000"
@@ -459,17 +459,17 @@
     "end": "1511222400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 57,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywpbcc/",
+    "usergroup": "startuphd",
+    "title": "Heidelberg Startup Partners: Kaminabend Crowdfunding für LifeScience Startups - Ein Praxisbericht",
+    "url": "http://heidelberg-startup-partners.de/event/kaminabend-crowdfunding-fuer-lifescience-startups-ein-praxisbericht/",
     "class": "event-info",
     "start": "1511222400000",
     "end": "1511222400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 58,
-    "usergroup": "startuphd",
-    "title": "Heidelberg Startup Partners: Kaminabend Crowdfunding für LifeScience Startups - Ein Praxisbericht",
-    "url": "http://heidelberg-startup-partners.de/event/kaminabend-crowdfunding-fuer-lifescience-startups-ein-praxisbericht/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywpbcc/",
     "class": "event-info",
     "start": "1511222400000",
     "end": "1511222400000"
@@ -523,9 +523,9 @@
     "end": "1511740800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 65,
-    "usergroup": "biorn",
-    "title": "BioRN Network: BioRN Lounge: Georg Gdynia, University of Heidelberg",
-    "url": "http://biorn.org/event/biorn-lounge-georg-gdynia-university-of-heidelberg/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywpblc/",
     "class": "event-info",
     "start": "1511827200000",
     "end": "1511827200000"
@@ -539,9 +539,9 @@
     "end": "1511827200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 67,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlywpblc/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: BioRN Lounge: Georg Gdynia, University of Heidelberg",
+    "url": "http://biorn.org/event/biorn-lounge-georg-gdynia-university-of-heidelberg/",
     "class": "event-info",
     "start": "1511827200000",
     "end": "1511827200000"
@@ -555,9 +555,9 @@
     "end": "1511913600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 69,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbnc/",
     "class": "event-info",
     "start": "1512000000000",
     "end": "1512000000000"
@@ -571,9 +571,9 @@
     "end": "1512000000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 71,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywpbnc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1512000000000",
     "end": "1512000000000"
@@ -619,9 +619,9 @@
     "end": "1512518400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 77,
-    "usergroup": "jugda",
-    "title": "Java User Group Darmstadt: 2. Kunterbunter Abend mit 3 Vorträgen (Niko Köbler, Ralf D. Müller, Alexander Schwartz, Falk Sippach)",
-    "url": "https://www.jug-da.de/2017/12/Zweiter-Kunterbunter-Abend/",
+    "usergroup": "startuphd",
+    "title": "Heidelberg Startup Partners: Zünder für Gründer 30",
+    "url": "http://heidelberg-startup-partners.de/event/zuender-fuer-gruender-30/",
     "class": "event-info",
     "start": "1512604800000",
     "end": "1512604800000"
@@ -635,9 +635,9 @@
     "end": "1512604800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 79,
-    "usergroup": "startuphd",
-    "title": "Heidelberg Startup Partners: Zünder für Gründer 30",
-    "url": "http://heidelberg-startup-partners.de/event/zuender-fuer-gruender-30/",
+    "usergroup": "jugda",
+    "title": "Java User Group Darmstadt: 2. Kunterbunter Abend mit 3 Vorträgen (Niko Köbler, Ralf D. Müller, Alexander Schwartz, Falk Sippach)",
+    "url": "https://www.jug-da.de/2017/12/Zweiter-Kunterbunter-Abend/",
     "class": "event-info",
     "start": "1512604800000",
     "end": "1512604800000"
@@ -651,17 +651,17 @@
     "end": "1512604800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 81,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywqblb/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Fantasy and Horror",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586830/",
     "class": "event-info",
     "start": "1512691200000",
     "end": "1512691200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 82,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Fantasy and Horror",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586830/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywqblb/",
     "class": "event-info",
     "start": "1512691200000",
     "end": "1512691200000"
@@ -707,9 +707,9 @@
     "end": "1513036800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 88,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/17",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/237289204/",
     "class": "event-info",
     "start": "1513209600000",
     "end": "1513209600000"
@@ -723,17 +723,17 @@
     "end": "1513209600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 90,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/17",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/237289204/",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywqbsb/",
     "class": "event-info",
     "start": "1513209600000",
     "end": "1513209600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 91,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnywqbsb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1513209600000",
     "end": "1513209600000"
@@ -787,17 +787,17 @@
     "end": "1513814400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 98,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywqbdc/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Trade and Commerce",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586972/",
     "class": "event-info",
     "start": "1513900800000",
     "end": "1513900800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 99,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Trade and Commerce",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/243586972/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlywqbdc/",
     "class": "event-info",
     "start": "1513900800000",
     "end": "1513900800000"
@@ -851,17 +851,17 @@
     "end": "1514851200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 106,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbgb/",
     "class": "event-info",
     "start": "1515024000000",
     "end": "1515024000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 107,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbgb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1515024000000",
     "end": "1515024000000"
@@ -891,17 +891,17 @@
     "end": "1515456000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 111,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbpb/",
     "class": "event-info",
     "start": "1515628800000",
     "end": "1515628800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 112,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbpb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1515628800000",
     "end": "1515628800000"
@@ -971,17 +971,17 @@
     "end": "1516665600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 121,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbhc/",
     "class": "event-info",
     "start": "1516838400000",
     "end": "1516838400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 122,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxcbhc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1516838400000",
     "end": "1516838400000"
@@ -1003,17 +1003,17 @@
     "end": "1517011200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 125,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlyxcbnc/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: Seminar: Der Stufenplanbeauftragte Rechtliche Bestimmungen, Verantwortlichkeiten und Schnittstellen im GMP-Umfeld",
+    "url": "http://biorn.org/event/der-stufenplanbeauftragte-rechtliche-bestimmungen-verantwortlichkeiten-und-schnittstellen-im-gmp-umfeld/",
     "class": "event-info",
     "start": "1517270400000",
     "end": "1517270400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 126,
-    "usergroup": "biorn",
-    "title": "BioRN Network: Seminar: Der Stufenplanbeauftragte Rechtliche Bestimmungen, Verantwortlichkeiten und Schnittstellen im GMP-Umfeld",
-    "url": "http://biorn.org/event/der-stufenplanbeauftragte-rechtliche-bestimmungen-verantwortlichkeiten-und-schnittstellen-im-gmp-umfeld/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlyxcbnc/",
     "class": "event-info",
     "start": "1517270400000",
     "end": "1517270400000"
@@ -1059,17 +1059,17 @@
     "end": "1517875200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 132,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxdblb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1518048000000",
     "end": "1518048000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 133,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxdblb/",
     "class": "event-info",
     "start": "1518048000000",
     "end": "1518048000000"
@@ -1139,17 +1139,17 @@
     "end": "1519171200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 142,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxdbdc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1519257600000",
     "end": "1519257600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 143,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxdbdc/",
     "class": "event-info",
     "start": "1519257600000",
     "end": "1519257600000"
@@ -1171,17 +1171,17 @@
     "end": "1519689600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 146,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Stammtisch",
-    "url": "https://www.noname-ev.de/yarpnarp.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbcb/",
     "class": "event-info",
     "start": "1519862400000",
     "end": "1519862400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 147,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbcb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Stammtisch",
+    "url": "https://www.noname-ev.de/yarpnarp.html",
     "class": "event-info",
     "start": "1519862400000",
     "end": "1519862400000"
@@ -1209,12 +1209,12 @@
     "class": "event-info",
     "start": "1520294400000",
     "end": "1520294400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 151,
-    "usergroup": "",
-    "title": "LeanAroundTheClock",
-    "url": "http://www.leanaroundtheclock.de",
-    "class": "event-important",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfblb/",
+    "class": "event-info",
     "start": "1520467200000",
     "end": "1520467200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1225,28 +1225,28 @@
     "class": "event-info",
     "start": "1520467200000",
     "end": "1520467200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 153,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfblb/",
-    "class": "event-info",
-    "start": "1520467200000",
-    "end": "1520467200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
-    "id": 154,
+    "id": 153,
     "usergroup": "",
     "title": "LeanAroundTheClock",
     "url": "http://www.leanaroundtheclock.de",
     "class": "event-important",
-    "start": "1520553600000",
-    "end": "1520553600000"
+    "start": "1520467200000",
+    "end": "1520467200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 155,
+    "id": 154,
     "usergroup": "smalltalkrn",
     "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
     "url": "https://www.meetup.com/back-to-the-future/events/xvgdrlyxfbmb/",
     "class": "event-info",
+    "start": "1520553600000",
+    "end": "1520553600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            {
+    "id": 155,
+    "usergroup": "",
+    "title": "LeanAroundTheClock",
+    "url": "http://www.leanaroundtheclock.de",
+    "class": "event-important",
     "start": "1520553600000",
     "end": "1520553600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1307,17 +1307,17 @@
     "end": "1521590400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 163,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbdc/",
     "class": "event-info",
     "start": "1521676800000",
     "end": "1521676800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 164,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbdc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1521676800000",
     "end": "1521676800000"
@@ -1339,17 +1339,17 @@
     "end": "1522108800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 167,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbmc/",
     "class": "event-info",
     "start": "1522281600000",
     "end": "1522281600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 168,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxfbmc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1522281600000",
     "end": "1522281600000"
@@ -1411,17 +1411,17 @@
     "end": "1523318400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 176,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbqb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 177,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbqb/",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
@@ -1459,17 +1459,17 @@
     "end": "1524009600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 182,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbzb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1524096000000",
     "end": "1524096000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 183,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbzb/",
     "class": "event-info",
     "start": "1524096000000",
     "end": "1524096000000"
@@ -1563,17 +1563,17 @@
     "end": "1525737600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 195,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxhbnb/",
     "class": "event-info",
     "start": "1525910400000",
     "end": "1525910400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 196,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxhbnb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1525910400000",
     "end": "1525910400000"
