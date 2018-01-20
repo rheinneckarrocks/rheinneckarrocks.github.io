@@ -125,27 +125,27 @@
     "id": 15,
     "usergroup": "aihd",
     "title": "Heidelberg Artificial Intelligence Meetup: 
-Notice: Array to string conversion in /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/twig/twig/lib/Twig/Environment.php(403) : eval()'d code on line 76
+Notice: Array to string conversion in /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/twig/twig/lib/Twig/Environment.php(403) : eval()'d code on line 76
 
 Call Stack:
-    0.0001    3005480   1. {main}() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/bin/sculpin:0
-    0.0062    3986104   2. include('/home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/bin/sculpin.php') /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/bin/sculpin:21
-    0.0452    7960568   3. Sculpin\Bundle\SculpinBundle\Console\Application->run() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/bin/sculpin.php:75
-    0.0468    8183688   4. Symfony\Component\Console\Application->run() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Console/Application.php:93
-    0.0469    8184920   5. Sculpin\Bundle\SculpinBundle\Console\Application->doRun() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/symfony/console/Application.php:123
-    0.1415   13492744   6. Symfony\Component\Console\Application->doRun() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Console/Application.php:118
-    0.1416   13493728   7. Symfony\Component\Console\Application->doRunCommand() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/symfony/console/Application.php:192
-    0.1416   13494304   8. Symfony\Component\Console\Command\Command->run() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/symfony/console/Application.php:844
-    0.1420   13500560   9. Sculpin\Bundle\SculpinBundle\Command\GenerateCommand->execute() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/symfony/console/Command/Command.php:259
-    0.1751   17682768  10. Sculpin\Core\Sculpin->run() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Command/GenerateCommand.php:104
-   28.6400   55056776  11. Sculpin\Core\Formatter\FormatterManager->formatSourcePage() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Sculpin.php:214
-   28.6440   57361408  12. Sculpin\Core\Formatter\FormatterManager->formatPage() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Formatter/FormatterManager.php:200
-   28.6479   59676568  13. Sculpin\Bundle\TwigBundle\TwigFormatter->formatPage() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Formatter/FormatterManager.php:182
-   28.6515   61986616  14. Twig_Environment->render() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/TwigBundle/TwigFormatter.php:96
-   28.6515   61986616  15. Twig_Template->render() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/twig/twig/lib/Twig/Environment.php:347
-   28.6515   62003240  16. Twig_Template->display() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/twig/twig/lib/Twig/Template.php:366
-   28.6515   62003528  17. Twig_Template->displayWithErrorHandling() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/twig/twig/lib/Twig/Template.php:355
-   28.6515   62003528  18. __TwigTemplate_52d7d49328db88c08881ae8fb44660244bb047912e347476bb9cb00d4561b24b->doDisplay() /home/cphp/data/container/55d5e3a5-84c7-4565-be07-9a625d358ebf/workspace/vendor/twig/twig/lib/Twig/Template.php:381
+    0.0001    3005480   1. {main}() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/bin/sculpin:0
+    0.0077    3986104   2. include('/home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/bin/sculpin.php') /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/bin/sculpin:21
+    0.0606    7960568   3. Sculpin\Bundle\SculpinBundle\Console\Application->run() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/bin/sculpin.php:75
+    0.0622    8183688   4. Symfony\Component\Console\Application->run() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Console/Application.php:93
+    0.0623    8184920   5. Sculpin\Bundle\SculpinBundle\Console\Application->doRun() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/symfony/console/Application.php:123
+    0.1632   13492744   6. Symfony\Component\Console\Application->doRun() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Console/Application.php:118
+    0.1633   13493728   7. Symfony\Component\Console\Application->doRunCommand() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/symfony/console/Application.php:192
+    0.1633   13494304   8. Symfony\Component\Console\Command\Command->run() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/symfony/console/Application.php:844
+    0.1636   13500560   9. Sculpin\Bundle\SculpinBundle\Command\GenerateCommand->execute() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/symfony/console/Command/Command.php:259
+    0.1961   17682784  10. Sculpin\Core\Sculpin->run() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/SculpinBundle/Command/GenerateCommand.php:104
+   27.6633   55053552  11. Sculpin\Core\Formatter\FormatterManager->formatSourcePage() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Sculpin.php:214
+   27.6673   57358312  12. Sculpin\Core\Formatter\FormatterManager->formatPage() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Formatter/FormatterManager.php:200
+   27.6711   59673488  13. Sculpin\Bundle\TwigBundle\TwigFormatter->formatPage() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Core/Formatter/FormatterManager.php:182
+   27.6746   61983640  14. Twig_Environment->render() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/sculpin/sculpin/src/Sculpin/Bundle/TwigBundle/TwigFormatter.php:96
+   27.6747   61983640  15. Twig_Template->render() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/twig/twig/lib/Twig/Environment.php:347
+   27.6747   62000272  16. Twig_Template->display() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/twig/twig/lib/Twig/Template.php:366
+   27.6747   62000568  17. Twig_Template->displayWithErrorHandling() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/twig/twig/lib/Twig/Template.php:355
+   27.6747   62000568  18. __TwigTemplate_52d7d49328db88c08881ae8fb44660244bb047912e347476bb9cb00d4561b24b->doDisplay() /home/cphp/data/container/fe20bccf-cbc8-4ccc-a2db-46bc451e1b71/workspace/vendor/twig/twig/lib/Twig/Template.php:381
 
 Array",
     "url": "https://www.meetup.com/Heidelberg-Artificial-Intelligence-Meetup/events/246745024/",
@@ -268,7 +268,7 @@ Array",
     "id": 30,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Play some games",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/nddbtmyxdbgb/",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/246992799/",
     "class": "event-info",
     "start": "1517702400000",
     "end": "1517702400000"
@@ -483,7 +483,7 @@ Array",
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 57,
     "usergroup": "wordpressma",
-    "title": "WordPress Mannheim: 2. WP Meetup Mannheim",
+    "title": "WordPress Mannheim: 2. WP Meetup Mannheim // Thema Sicherheit",
     "url": "https://www.meetup.com/WordPress-Mannheim/events/246817333/",
     "class": "event-info",
     "start": "1519084800000",
