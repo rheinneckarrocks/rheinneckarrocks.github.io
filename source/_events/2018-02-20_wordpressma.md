@@ -1,5 +1,5 @@
 ---
-title: 2. WP Meetup Mannheim
+title: 2. WP Meetup Mannheim // Thema Sicherheit
 date: 2018-02-20
 location: beilerei , Mannheim
 link: https://www.meetup.com/WordPress-Mannheim/events/246817333/
