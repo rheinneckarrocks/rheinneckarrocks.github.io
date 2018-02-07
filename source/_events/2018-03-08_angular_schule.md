@@ -1,5 +1,5 @@
 ---
-title: Angular.Schule: Angular Intensiv-Schulung (3 Tage)
+title: Angular.Schule Angular Intensiv-Schulung (3 Tage)
 date: 2018-03-08
 location: ARTHOTEL HEIDELBERG, Grabengasse 7, 69117 Heidelberg
 link: https://angular.schule/schulungen/heidelberg
