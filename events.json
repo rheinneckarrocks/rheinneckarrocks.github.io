@@ -43,20 +43,20 @@
     "end": "1519344000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 5,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Spieleabend in Weinheim",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248768995/",
-    "class": "event-info",
-    "start": "1521763200000",
-    "end": "1521763200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 6,
     "usergroup": "makershd",
     "title": "Heidelberg Makers Meetup: Fusion 360 for Beginners @ CoMakingSpace",
     "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/248858832/",
     "class": "event-info",
     "start": "1521849600000",
     "end": "1521849600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 6,
+    "usergroup": "tomama",
+    "title": "Mannheim International Toastmasters Club: A test for the best: Mannheim International Toastmasters Public Speaking Contest",
+    "url": "https://www.meetup.com/Mannheim-Toastmasters/events/249039018/",
+    "class": "event-info",
+    "start": "1522108800000",
+    "end": "1522108800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 7,
     "usergroup": "makershd",
@@ -67,17 +67,17 @@
     "end": "1522108800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 8,
-    "usergroup": "aihd",
-    "title": "Heidelberg Artificial Intelligence Meetup: Advanced Deep Learning for Medical Image Analysis (2/2)",
-    "url": "https://www.meetup.com/Heidelberg-Artificial-Intelligence-Meetup/events/248464918/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: Lunch Talk: “Molecular systems engineering with DNA”, Prof. Dr. Hendrik Dietz",
+    "url": "http://biorn.org/event/lunch-talk-molecular-systems-engineering-with-dna-prof-dr-hendrik-dietz/",
     "class": "event-info",
     "start": "1522108800000",
     "end": "1522108800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 9,
-    "usergroup": "biorn",
-    "title": "BioRN Network: Lunch Talk: “Molecular systems engineering with DNA”, Prof. Dr. Hendrik Dietz",
-    "url": "http://biorn.org/event/lunch-talk-molecular-systems-engineering-with-dna-prof-dr-hendrik-dietz/",
+    "usergroup": "aihd",
+    "title": "Heidelberg Artificial Intelligence Meetup: Advanced Deep Learning for Medical Image Analysis (2/2)",
+    "url": "https://www.meetup.com/Heidelberg-Artificial-Intelligence-Meetup/events/248464918/",
     "class": "event-info",
     "start": "1522108800000",
     "end": "1522108800000"
@@ -163,9 +163,9 @@
     "end": "1522800000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 20,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbhb/",
+    "usergroup": "iotrn",
+    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
+    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/248800669/",
     "class": "event-info",
     "start": "1522886400000",
     "end": "1522886400000"
@@ -179,25 +179,25 @@
     "end": "1522886400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 22,
-    "usergroup": "iotrn",
-    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
-    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/248800669/",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbhb/",
     "class": "event-info",
     "start": "1522886400000",
     "end": "1522886400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 23,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Railways of the World",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248483588/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxgbjb/",
     "class": "event-info",
     "start": "1522972800000",
     "end": "1522972800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 24,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxgbjb/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Railways of the World",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248483588/",
     "class": "event-info",
     "start": "1522972800000",
     "end": "1522972800000"
@@ -235,17 +235,17 @@
     "end": "1523318400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 29,
-    "usergroup": "biorn",
-    "title": "BioRN Network: Zukunftsweisende Technologien und ihre rechtlichen Fallstricke - RITTERSHAUS",
-    "url": "http://biorn.org/event/zukunftsweisende-technologien-und-ihre-rechtlichen-fallstricke-rittershaus/",
+    "usergroup": "lux",
+    "title": "Lean UX: How to constantly design better products, faster with SCRUM teams",
+    "url": "https://www.meetup.com/The-UX-BURNER/events/248989708/",
     "class": "event-info",
     "start": "1523318400000",
     "end": "1523318400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 30,
-    "usergroup": "lux",
-    "title": "Lean UX: How to constantly design better products, faster with SCRUM teams",
-    "url": "https://www.meetup.com/The-UX-BURNER/events/248989708/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: Zukunftsweisende Technologien und ihre rechtlichen Fallstricke - RITTERSHAUS",
+    "url": "http://biorn.org/event/zukunftsweisende-technologien-und-ihre-rechtlichen-fallstricke-rittershaus/",
     "class": "event-info",
     "start": "1523318400000",
     "end": "1523318400000"
@@ -259,14 +259,6 @@
     "end": "1523318400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 32,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbpb/",
-    "class": "event-info",
-    "start": "1523404800000",
-    "end": "1523404800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 33,
     "usergroup": "startuphd",
     "title": "Heidelberg Startup Partners: DSGVO - die neue europäische Datenschutzverordnung",
     "url": "http://heidelberg-startup-partners.de/event/dsgvo-die-neue-europaeische-datenschutzverordnung/",
@@ -274,10 +266,18 @@
     "start": "1523404800000",
     "end": "1523404800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 34,
+    "id": 33,
     "usergroup": "hipwf",
     "title": "Heidelberg International Professional Womens Forum: HIP night out: April",
     "url": "http://www.hipwf.com/event/hip-night-april-2/",
+    "class": "event-info",
+    "start": "1523404800000",
+    "end": "1523404800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 34,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbpb/",
     "class": "event-info",
     "start": "1523404800000",
     "end": "1523404800000"
@@ -291,17 +291,17 @@
     "end": "1523404800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 36,
-    "usergroup": "iotrn",
-    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
-    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/wgskdpyxgbqb/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 37,
-    "usergroup": "startuphd",
-    "title": "Heidelberg Startup Partners: Zünder für Gründer 32",
-    "url": "http://heidelberg-startup-partners.de/event/32-zuender-fuer-gruender/",
+    "usergroup": "pythonhd",
+    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
+    "url": "https://www.meetup.com/HeidelbergPython/events/249005352/",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
@@ -315,17 +315,17 @@
     "end": "1523491200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 39,
-    "usergroup": "pythonhd",
-    "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
-    "url": "https://www.meetup.com/HeidelbergPython/events/249005352/",
+    "usergroup": "iotrn",
+    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
+    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/wgskdpyxgbqb/",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 40,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "startuphd",
+    "title": "Heidelberg Startup Partners: Zünder für Gründer 32",
+    "url": "http://heidelberg-startup-partners.de/event/32-zuender-fuer-gruender/",
     "class": "event-info",
     "start": "1523491200000",
     "end": "1523491200000"
@@ -355,14 +355,6 @@
     "end": "1523750400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 44,
-    "usergroup": "invxka",
-    "title": "inovex Meetup Karlsruhe: Let’s talk about Kubernetes – Security, Deployment and Operations!",
-    "url": "https://www.meetup.com/inovex-karlsruhe/events/248799104/",
-    "class": "event-info",
-    "start": "1523923200000",
-    "end": "1523923200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 45,
     "usergroup": "biorn",
     "title": "BioRN Network: 2. M²Aind Talk",
     "url": "http://biorn.org/event/2-m%c2%b2aind-talk/",
@@ -370,10 +362,18 @@
     "start": "1523923200000",
     "end": "1523923200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 46,
+    "id": 45,
     "usergroup": "wordpressma",
     "title": "WordPress Mannheim: 4. WP Meetup Mannheim",
     "url": "https://www.meetup.com/WordPress-Mannheim/events/246898683/",
+    "class": "event-info",
+    "start": "1523923200000",
+    "end": "1523923200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 46,
+    "usergroup": "azka",
+    "title": "Azure Meetup Karlsruhe: Blockchain für Entwickler - Was steckt wirklich dahinter?",
+    "url": "https://www.meetup.com/Azure-Meetup-Karlsruhe/events/248234062/",
     "class": "event-info",
     "start": "1523923200000",
     "end": "1523923200000"
@@ -387,17 +387,17 @@
     "end": "1523923200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 48,
-    "usergroup": "azka",
-    "title": "Azure Meetup Karlsruhe: Blockchain für Entwickler - Was steckt wirklich dahinter?",
-    "url": "https://www.meetup.com/Azure-Meetup-Karlsruhe/events/248234062/",
+    "usergroup": "invxka",
+    "title": "inovex Meetup Karlsruhe: Let’s talk about Kubernetes – Security, Deployment and Operations!",
+    "url": "https://www.meetup.com/inovex-karlsruhe/events/248799104/",
     "class": "event-info",
     "start": "1523923200000",
     "end": "1523923200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 49,
-    "usergroup": "cocohd",
-    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
-    "url": "https://www.meetup.com/CocoaHeads-Heidelberg/events/248547810/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbxb/",
     "class": "event-info",
     "start": "1524009600000",
     "end": "1524009600000"
@@ -419,9 +419,9 @@
     "end": "1524009600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 52,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbxb/",
+    "usergroup": "cocohd",
+    "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
+    "url": "https://www.meetup.com/CocoaHeads-Heidelberg/events/248547810/",
     "class": "event-info",
     "start": "1524009600000",
     "end": "1524009600000"
@@ -435,14 +435,6 @@
     "end": "1524009600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 54,
-    "usergroup": "majug",
-    "title": "majug: Property-Based Testing mit Java",
-    "url": "http://majug.de/2018/04/19/Property-Based-Testing/",
-    "class": "event-info",
-    "start": "1524096000000",
-    "end": "1524096000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 55,
     "usergroup": "pythonhd",
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxgbzb/",
@@ -450,7 +442,7 @@
     "start": "1524096000000",
     "end": "1524096000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 56,
+    "id": 55,
     "usergroup": "biorn",
     "title": "BioRN Network: 2nd European Conference of Life Science Funders and Foundations",
     "url": "http://biorn.org/event/2nd-european-conference-of-life-science-funders-and-foundations/",
@@ -458,10 +450,18 @@
     "start": "1524096000000",
     "end": "1524096000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 57,
+    "id": 56,
     "usergroup": "jugda",
     "title": "Java User Group Darmstadt: inspectIT - Open Source Application Performance Monitoring (Dr.-Ing. Christoph Heger, Mario Mann)",
     "url": "https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/",
+    "class": "event-info",
+    "start": "1524096000000",
+    "end": "1524096000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 57,
+    "usergroup": "majug",
+    "title": "majug: Property-Based Testing mit Java",
+    "url": "http://majug.de/2018/04/19/Property-Based-Testing/",
     "class": "event-info",
     "start": "1524096000000",
     "end": "1524096000000"
@@ -475,22 +475,6 @@
     "end": "1524096000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 59,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Twilight Struggle",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248483692/",
-    "class": "event-info",
-    "start": "1524182400000",
-    "end": "1524182400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 60,
-    "usergroup": "startuphd",
-    "title": "Heidelberg Startup Partners: Startup Weekend Rhein Neckar",
-    "url": "http://heidelberg-startup-partners.de/event/startup-weekend-rhein-neckar-2/",
-    "class": "event-info",
-    "start": "1524182400000",
-    "end": "1524182400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 61,
     "usergroup": "smalltalkrn",
     "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
     "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxgbbc/",
@@ -498,17 +482,33 @@
     "start": "1524182400000",
     "end": "1524182400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 60,
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Twilight Struggle",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248483692/",
+    "class": "event-info",
+    "start": "1524182400000",
+    "end": "1524182400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 61,
+    "usergroup": "startuphd",
+    "title": "Heidelberg Startup Partners: Startup Weekend Rhein Neckar",
+    "url": "http://heidelberg-startup-partners.de/event/startup-weekend-rhein-neckar-2/",
+    "class": "event-info",
+    "start": "1524182400000",
+    "end": "1524182400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 62,
-    "usergroup": "nodehd",
-    "title": "Nodeschool Heidelberg / Mannheim: Arduino Beginners Workshop",
+    "usergroup": "hackschool",
+    "title": "Hackschool: Arduino Beginners Workshop",
     "url": "https://www.meetup.com/Hackschool-Mannheim/events/248995578/",
     "class": "event-info",
     "start": "1524268800000",
     "end": "1524268800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 63,
-    "usergroup": "hackschool",
-    "title": "Hackschool: Arduino Beginners Workshop",
+    "usergroup": "nodehd",
+    "title": "Nodeschool Heidelberg / Mannheim: Arduino Beginners Workshop",
     "url": "https://www.meetup.com/Hackschool-Mannheim/events/248995578/",
     "class": "event-info",
     "start": "1524268800000",
@@ -547,14 +547,6 @@
     "end": "1524528000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 68,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbhc/",
-    "class": "event-info",
-    "start": "1524614400000",
-    "end": "1524614400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 69,
     "usergroup": "phpugmrn",
     "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 02/18",
     "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/246347965/",
@@ -562,10 +554,18 @@
     "start": "1524614400000",
     "end": "1524614400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 70,
+    "id": 69,
     "usergroup": "biorn",
     "title": "BioRN Network: CONTACT2018",
     "url": "http://biorn.org/event/contact2018/",
+    "class": "event-info",
+    "start": "1524614400000",
+    "end": "1524614400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 70,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Workshop Tours &amp; Introductions @ CoMakingSpace",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/rdbrhpyxgbhc/",
     "class": "event-info",
     "start": "1524614400000",
     "end": "1524614400000"
@@ -643,17 +643,17 @@
     "end": "1525305600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 80,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: Railways of the World",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248962299/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxhbgb/",
     "class": "event-info",
     "start": "1525392000000",
     "end": "1525392000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 81,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxhbgb/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: Railways of the World",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/248962299/",
     "class": "event-info",
     "start": "1525392000000",
     "end": "1525392000000"
@@ -683,17 +683,17 @@
     "end": "1525737600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 85,
-    "usergroup": "lux",
-    "title": "Lean UX: How to constantly design better products, faster with SCRUM teams",
-    "url": "https://www.meetup.com/The-UX-BURNER/events/rxcmmpyxhbmb/",
+    "usergroup": "hipwf",
+    "title": "Heidelberg International Professional Womens Forum: HIP night out: May",
+    "url": "http://www.hipwf.com/event/hip-night-may/",
     "class": "event-info",
     "start": "1525824000000",
     "end": "1525824000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 86,
-    "usergroup": "hipwf",
-    "title": "Heidelberg International Professional Womens Forum: HIP night out: May",
-    "url": "http://www.hipwf.com/event/hip-night-may/",
+    "usergroup": "lux",
+    "title": "Lean UX: How to constantly design better products, faster with SCRUM teams",
+    "url": "https://www.meetup.com/The-UX-BURNER/events/rxcmmpyxhbmb/",
     "class": "event-info",
     "start": "1525824000000",
     "end": "1525824000000"
@@ -707,22 +707,6 @@
     "end": "1525824000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 88,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
-    "class": "event-info",
-    "start": "1525910400000",
-    "end": "1525910400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 89,
-    "usergroup": "iotrn",
-    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
-    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/wgskdpyxhbnb/",
-    "class": "event-info",
-    "start": "1525910400000",
-    "end": "1525910400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
-    "id": 90,
     "usergroup": "pythonhd",
     "title": "Heidelberg Python Meetup Group: Python Peer Mentoring",
     "url": "https://www.meetup.com/HeidelbergPython/events/khqjcnyxhbnb/",
@@ -730,18 +714,34 @@
     "start": "1525910400000",
     "end": "1525910400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 89,
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
+    "class": "event-info",
+    "start": "1525910400000",
+    "end": "1525910400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
+    "id": 90,
+    "usergroup": "iotrn",
+    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
+    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/wgskdpyxhbnb/",
+    "class": "event-info",
+    "start": "1525910400000",
+    "end": "1525910400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 91,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxhbpb/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: SciFi-Day",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/rgxcdpyxhbpb/",
     "class": "event-info",
     "start": "1525996800000",
     "end": "1525996800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 92,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: SciFi-Day",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/rgxcdpyxhbpb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyxhbpb/",
     "class": "event-info",
     "start": "1525996800000",
     "end": "1525996800000"
@@ -755,9 +755,9 @@
     "end": "1526169600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 94,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlyxhbtb/",
+    "usergroup": "biorn",
+    "title": "BioRN Network: BioRN Lounge: Steffen Rupp, Fraunhofer IGB",
+    "url": "http://biorn.org/event/biorn-lounge-steffen-rupp-fraunhofer-igb/",
     "class": "event-info",
     "start": "1526342400000",
     "end": "1526342400000"
@@ -771,9 +771,9 @@
     "end": "1526342400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {
     "id": 96,
-    "usergroup": "biorn",
-    "title": "BioRN Network: BioRN Lounge: Steffen Rupp, Fraunhofer IGB",
-    "url": "http://biorn.org/event/biorn-lounge-steffen-rupp-fraunhofer-igb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: International Sewing Workshop",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/lkntvlyxhbtb/",
     "class": "event-info",
     "start": "1526342400000",
     "end": "1526342400000"
