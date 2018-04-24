@@ -1,5 +1,5 @@
 ---
-title: 5. WP Meetup Mannheim // Thema Gutenberg // Special Guest
+title: 5. WP Meetup Mannheim // Thema Gutenberg // Niels Lange
 date: 2018-05-15
 location: beilerei , Mannheim
 link: https://www.meetup.com/WordPress-Mannheim/events/246898690/
