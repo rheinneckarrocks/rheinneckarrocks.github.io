@@ -1,7 +1,7 @@
 ---
-title: Save the date: Tuesday, 17th July 2018 - First Angular Heidelberg Meetup
+title: Angular Heidelberg: ngHeidelberg v1 with Ferdinand Malcher at Fensterplatz HD
 date: 2018-07-17
-location: 
+location: Fensterplatz Heidelberg, Heidelberg
 link: https://www.meetup.com/angular-heidelberg/events/251227997/
 usergroup: angularhd
 type: usergroup
