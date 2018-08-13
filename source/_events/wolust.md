@@ -1,0 +1,9 @@
+## Wormser Linux User Stammtisch
+Es ist keine besondere Einladung notwendig.
+Wer sich für Linux oder unixoides interessiert soll kommen
+
+https://linux.wormser-region.de
+
+Wir treffen uns am 1. Dienstag jeden Monats.
+
+Nächster Stammtisch: **04.09.2018**
