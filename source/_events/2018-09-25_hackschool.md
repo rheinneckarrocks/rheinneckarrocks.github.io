@@ -1,0 +1,8 @@
+---
+title: Hackschool: Workshop Android Development
+date: 2018-09-25
+location: Stocard GmbH, Mannheim
+link: https://www.meetup.com/Hackschool-Rhein-Neckar/events/254353845/
+usergroup: hackschool
+type: usergroup
+---
