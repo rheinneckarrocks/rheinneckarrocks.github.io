@@ -22,8 +22,8 @@ permalink: hootsuite.xml
                 {% endif %}
             {% endfor %}
 
-            <title>{{ event.date | date('d.m.Y') }}: {{ ugname }} {{ event.title }} #rheinneckarrocks</title>
-            <description>{{ ugname }} {{ event.title }} #rheinneckarrocks</description>
+            <title>{{ event.date | date('d.m.Y') }}: {{ ugname }} "{{ event.title }}" #rheinneckarrocks</title>
+            <description>{{ ugname }} "{{ event.title }}" #rheinneckarrocks</description>
             <pubDate>{{ event.date | date_modify("-1 week") | date('c') }}</pubDate>
             <link>{{ event.link }}</link>
             <guid>{{ event.link }}</guid>
