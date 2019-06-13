@@ -2923,14 +2923,6 @@
     "end": "1583280000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 365,
-    "usergroup": "iotrn",
-    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
-    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqybcfbhb/",
-    "class": "event-info",
-    "start": "1583366400000",
-    "end": "1583366400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 366,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
@@ -2938,10 +2930,18 @@
     "start": "1583366400000",
     "end": "1583366400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 366,
+    "usergroup": "iotrn",
+    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
+    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqybcfbhb/",
+    "class": "event-info",
+    "start": "1583366400000",
+    "end": "1583366400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 367,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcfbjb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcfbjb/",
     "class": "event-info",
     "start": "1583452800000",
     "end": "1583452800000"
@@ -2955,9 +2955,9 @@
     "end": "1583452800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 369,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcfbjb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcfbjb/",
     "class": "event-info",
     "start": "1583452800000",
     "end": "1583452800000"
@@ -3051,6 +3051,14 @@
     "end": "1584403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 381,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Weekly DIYbio with Biotop Community Lab e.V.",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/qrztwpybcfbxb/",
+    "class": "event-info",
+    "start": "1584489600000",
+    "end": "1584489600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 382,
     "usergroup": "cocohd",
     "title": "CocoaHeads Heidelberg: CocoaHeads Heidelberg",
     "url": "https://www.meetup.com/CocoaHeads-Heidelberg/events/ntrnjqybcfbxb/",
@@ -3058,19 +3066,11 @@
     "start": "1584489600000",
     "end": "1584489600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
-    "id": 382,
+    "id": 383,
     "usergroup": "",
     "title": "TROOPERS Conference 2020",
     "url": "https://www.troopers.de",
     "class": "event-important",
-    "start": "1584489600000",
-    "end": "1584489600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 383,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Weekly DIYbio with Biotop Community Lab e.V.",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/qrztwpybcfbxb/",
-    "class": "event-info",
     "start": "1584489600000",
     "end": "1584489600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
@@ -3139,17 +3139,17 @@
     "end": "1585094400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 392,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "extjska",
+    "title": "Karlsruhe Sencha Ext JS Meetup: Sencha Ext Js",
+    "url": "https://www.meetup.com/Karlsruhe-Sencha-Ext-JS-Meetup/events/zbdwcpybcfbjc/",
     "class": "event-info",
     "start": "1585180800000",
     "end": "1585180800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 393,
-    "usergroup": "extjska",
-    "title": "Karlsruhe Sencha Ext JS Meetup: Sencha Ext Js",
-    "url": "https://www.meetup.com/Karlsruhe-Sencha-Ext-JS-Meetup/events/zbdwcpybcfbjc/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1585180800000",
     "end": "1585180800000"
@@ -3179,17 +3179,17 @@
     "end": "1585612800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 397,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: 18XX für Einsteiger / 18XX for Beginners",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/kjrfwqybcgbcb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Weekly DIYbio with Biotop Community Lab e.V.",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/qrztwpybcgbcb/",
     "class": "event-info",
     "start": "1585699200000",
     "end": "1585699200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 398,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Weekly DIYbio with Biotop Community Lab e.V.",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/qrztwpybcgbcb/",
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: 18XX für Einsteiger / 18XX for Beginners",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/kjrfwqybcgbcb/",
     "class": "event-info",
     "start": "1585699200000",
     "end": "1585699200000"
@@ -3211,14 +3211,6 @@
     "end": "1585785600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 401,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcgbfb/",
-    "class": "event-info",
-    "start": "1585872000000",
-    "end": "1585872000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 402,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Railways of the World + 18Lilliput",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/chrfwqybcgbfb/",
@@ -3226,10 +3218,18 @@
     "start": "1585872000000",
     "end": "1585872000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 403,
+    "id": 402,
     "usergroup": "smalltalkrn",
     "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
     "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcgbfb/",
+    "class": "event-info",
+    "start": "1585872000000",
+    "end": "1585872000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 403,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcgbfb/",
     "class": "event-info",
     "start": "1585872000000",
     "end": "1585872000000"
@@ -3267,17 +3267,17 @@
     "end": "1586390400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 408,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcgbnb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcgbnb/",
     "class": "event-info",
     "start": "1586476800000",
     "end": "1586476800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 409,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcgbnb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybcgbnb/",
     "class": "event-info",
     "start": "1586476800000",
     "end": "1586476800000"
@@ -3411,17 +3411,17 @@
     "end": "1588204800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 426,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbcb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbcb/",
     "class": "event-info",
     "start": "1588291200000",
     "end": "1588291200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 427,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbcb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbcb/",
     "class": "event-info",
     "start": "1588291200000",
     "end": "1588291200000"
@@ -3451,17 +3451,17 @@
     "end": "1588809600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 431,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchblb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchblb/",
     "class": "event-info",
     "start": "1588896000000",
     "end": "1588896000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 432,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchblb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchblb/",
     "class": "event-info",
     "start": "1588896000000",
     "end": "1588896000000"
@@ -3491,17 +3491,17 @@
     "end": "1589414400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 436,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbtb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbtb/",
     "class": "event-info",
     "start": "1589500800000",
     "end": "1589500800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 437,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbtb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbtb/",
     "class": "event-info",
     "start": "1589500800000",
     "end": "1589500800000"
@@ -3539,17 +3539,17 @@
     "end": "1590019200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 442,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday Making Hours",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbdc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbdc/",
     "class": "event-info",
     "start": "1590105600000",
     "end": "1590105600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 443,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybchbdc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday Making Hours",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/bjqtxqybchbdc/",
     "class": "event-info",
     "start": "1590105600000",
     "end": "1590105600000"
@@ -3563,6 +3563,14 @@
     "end": "1590451200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
     "id": 445,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Woodworking Wednesday",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/dfjhvqybchbkc/",
+    "class": "event-info",
+    "start": "1590537600000",
+    "end": "1590537600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+    "id": 446,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
@@ -3570,7 +3578,7 @@
     "start": "1590624000000",
     "end": "1590624000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 446,
+    "id": 447,
     "usergroup": "extjska",
     "title": "Karlsruhe Sencha Ext JS Meetup: Sencha Ext Js",
     "url": "https://www.meetup.com/Karlsruhe-Sencha-Ext-JS-Meetup/events/zbdwcpybchblc/",
@@ -3578,7 +3586,7 @@
     "start": "1590624000000",
     "end": "1590624000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 447,
+    "id": 448,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Stammtisch",
     "url": "https://www.noname-ev.de/yarpnarp.html",
@@ -3586,7 +3594,7 @@
     "start": "1591228800000",
     "end": "1591228800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
-    "id": 448,
+    "id": 449,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
