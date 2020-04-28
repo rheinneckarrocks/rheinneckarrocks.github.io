@@ -705,20 +705,20 @@
     "class": "event-info",
     "start": "1571270400000",
     "end": "1571270400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 88,
-    "usergroup": "",
-    "title": "UX-DAY Mannheim 2019",
-    "url": "https://ux-day.de/ux-day-2019/",
-    "class": "event-important",
-    "start": "1571356800000",
-    "end": "1571356800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 89,
+    "id": 88,
     "usergroup": "techhubda",
     "title": "tech_hub Darmstadt: Campus Hackathon Darmstadt 2019",
     "url": "https://www.meetup.com/Tech_Hub-Darmstadt/events/256775773/",
     "class": "event-info",
+    "start": "1571356800000",
+    "end": "1571356800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 89,
+    "usergroup": "",
+    "title": "UX-DAY Mannheim 2019",
+    "url": "https://ux-day.de/ux-day-2019/",
+    "class": "event-important",
     "start": "1571356800000",
     "end": "1571356800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
@@ -804,16 +804,16 @@
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 100,
     "usergroup": "",
-    "title": "Continuous Lifecycle 2019",
-    "url": "https://www.continuouslifecycle.de",
+    "title": "ContainerConf 2019",
+    "url": "https://www.containerconf.de",
     "class": "event-important",
     "start": "1573516800000",
     "end": "1573516800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 101,
     "usergroup": "",
-    "title": "ContainerConf 2019",
-    "url": "https://www.containerconf.de",
+    "title": "Continuous Lifecycle 2019",
+    "url": "https://www.continuouslifecycle.de",
     "class": "event-important",
     "start": "1573516800000",
     "end": "1573516800000"
@@ -835,9 +835,9 @@
     "end": "1573603200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 104,
-    "usergroup": "iotrn",
-    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
-    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqyzpbsb/",
+    "usergroup": "majug",
+    "title": "majug: Testen von und mit Infrastruktur - Integration Testing done right",
+    "url": "http://majug.de/2019/11/14/testen-von-infrastruktur/",
     "class": "event-info",
     "start": "1573689600000",
     "end": "1573689600000"
@@ -849,35 +849,35 @@
     "class": "event-important",
     "start": "1573689600000",
     "end": "1573689600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 106,
+    "usergroup": "iotrn",
+    "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
+    "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqyzpbsb/",
+    "class": "event-info",
+    "start": "1573689600000",
+    "end": "1573689600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 107,
     "usergroup": "",
     "title": "Continuous Lifecycle 2019",
     "url": "https://www.continuouslifecycle.de",
     "class": "event-important",
     "start": "1573689600000",
     "end": "1573689600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 107,
-    "usergroup": "majug",
-    "title": "majug: Testen von und mit Infrastruktur - Integration Testing done right",
-    "url": "http://majug.de/2019/11/14/testen-von-infrastruktur/",
-    "class": "event-info",
-    "start": "1573689600000",
-    "end": "1573689600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 108,
     "usergroup": "",
-    "title": "Continuous Lifecycle 2019",
-    "url": "https://www.continuouslifecycle.de",
+    "title": "ContainerConf 2019",
+    "url": "https://www.containerconf.de",
     "class": "event-important",
     "start": "1573776000000",
     "end": "1573776000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 109,
     "usergroup": "",
-    "title": "ContainerConf 2019",
-    "url": "https://www.containerconf.de",
+    "title": "Continuous Lifecycle 2019",
+    "url": "https://www.continuouslifecycle.de",
     "class": "event-important",
     "start": "1573776000000",
     "end": "1573776000000"
@@ -937,20 +937,20 @@
     "class": "event-important",
     "start": "1575331200000",
     "end": "1575331200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 117,
-    "usergroup": "bogama",
-    "title": "Mannheim Boardgames Meetup: 18XX für Einsteiger / 18XX for Beginners",
-    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/260417246/",
-    "class": "event-info",
-    "start": "1575417600000",
-    "end": "1575417600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 118,
+    "id": 117,
     "usergroup": "",
     "title": "heise MacDev 2019",
     "url": "https://heise-macdev.de",
     "class": "event-important",
+    "start": "1575417600000",
+    "end": "1575417600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 118,
+    "usergroup": "bogama",
+    "title": "Mannheim Boardgames Meetup: 18XX für Einsteiger / 18XX for Beginners",
+    "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/260417246/",
+    "class": "event-info",
     "start": "1575417600000",
     "end": "1575417600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1201,20 +1201,20 @@
     "class": "event-important",
     "start": "1584316800000",
     "end": "1584316800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 150,
-    "usergroup": "wordpressma",
-    "title": "WordPress Mannheim: WP Meetup Mannheim",
-    "url": "https://www.meetup.com/WordPress-Mannheim/events/zpjxvpybcfbwb/",
-    "class": "event-info",
-    "start": "1584403200000",
-    "end": "1584403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 151,
+    "id": 150,
     "usergroup": "",
     "title": "TROOPERS Conference 2020",
     "url": "https://www.troopers.de",
     "class": "event-important",
+    "start": "1584403200000",
+    "end": "1584403200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 151,
+    "usergroup": "wordpressma",
+    "title": "WordPress Mannheim: WP Meetup Mannheim",
+    "url": "https://www.meetup.com/WordPress-Mannheim/events/zpjxvpybcfbwb/",
+    "class": "event-info",
     "start": "1584403200000",
     "end": "1584403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1339,17 +1339,17 @@
     "end": "1589328000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 167,
-    "usergroup": "jugda",
-    "title": "Java User Group Darmstadt: JUG DA: Change-Driven Testing - Effektiv und effizient Testen trotz immer kürzerer Release-Zyklen (Sven Amann)",
-    "url": "https://www.jug-da.de/2020/05/Change-Driven-Testing/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: NoName e.V.: Online-Treff: https://www.noname-ev.de/w/Online-Treff",
+    "url": "",
     "class": "event-info",
     "start": "1589414400000",
     "end": "1589414400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 168,
-    "usergroup": "noname",
-    "title": "NoName e.V.: NoName e.V.: Online-Treff: https://www.noname-ev.de/w/Online-Treff",
-    "url": "",
+    "usergroup": "jugda",
+    "title": "Java User Group Darmstadt: JUG DA: Change-Driven Testing - Effektiv und effizient Testen trotz immer kürzerer Release-Zyklen (Sven Amann)",
+    "url": "https://www.jug-da.de/2020/05/Change-Driven-Testing/",
     "class": "event-info",
     "start": "1589414400000",
     "end": "1589414400000"
@@ -1497,20 +1497,20 @@
     "class": "event-info",
     "start": "1593043200000",
     "end": "1593043200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 187,
-    "usergroup": "",
-    "title": "enterJS 2020",
-    "url": "https://www.enterjs.de",
-    "class": "event-important",
-    "start": "1593129600000",
-    "end": "1593129600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 188,
+    "id": 187,
     "usergroup": "smalltalkrn",
     "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
     "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpybcjbjc/",
     "class": "event-info",
+    "start": "1593129600000",
+    "end": "1593129600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 188,
+    "usergroup": "",
+    "title": "enterJS 2020",
+    "url": "https://www.enterjs.de",
+    "class": "event-important",
     "start": "1593129600000",
     "end": "1593129600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
@@ -1667,17 +1667,17 @@
     "end": "1597968000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 208,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 04/20",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837675/",
     "class": "event-info",
     "start": "1598486400000",
     "end": "1598486400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 209,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 04/20",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837675/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1598486400000",
     "end": "1598486400000"
@@ -1819,17 +1819,17 @@
     "end": "1603238400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 227,
-    "usergroup": "jugda",
-    "title": "Java User Group Darmstadt: JUG DA: Java by Comparison (Simon Harrer)",
-    "url": "https://www.jug-da.de/2020/10/Java-by-Comparison/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1603324800000",
     "end": "1603324800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 228,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "jugda",
+    "title": "Java User Group Darmstadt: JUG DA: Java by Comparison (Simon Harrer)",
+    "url": "https://www.jug-da.de/2020/10/Java-by-Comparison/",
     "class": "event-info",
     "start": "1603324800000",
     "end": "1603324800000"
@@ -1843,17 +1843,17 @@
     "end": "1603411200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 230,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 05/20",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837680/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1603929600000",
     "end": "1603929600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 231,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 05/20",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837680/",
     "class": "event-info",
     "start": "1603929600000",
     "end": "1603929600000"
@@ -1995,17 +1995,17 @@
     "end": "1607040000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 249,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/20",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837688/",
     "class": "event-info",
     "start": "1607558400000",
     "end": "1607558400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 250,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/20",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/267837688/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1607558400000",
     "end": "1607558400000"
@@ -2345,5 +2345,13 @@
     "class": "event-info",
     "start": "1619049600000",
     "end": "1619049600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 293,
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
+    "class": "event-info",
+    "start": "1619654400000",
+    "end": "1619654400000"
     }      ]
 }
