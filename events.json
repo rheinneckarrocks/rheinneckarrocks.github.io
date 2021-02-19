@@ -20,17 +20,17 @@
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 2,
     "usergroup": "",
-    "title": "Karlsruher Entwicklertag 2019",
-    "url": "https://entwicklertag.de/karlsruhe/2019/",
-    "class": "event-important",
+    "title": "Shopware User Group Rhein-Neckar",
+    "url": "https://www.xing.com/events/shopware-user-group-rhein-neckar-2085937",
+    "class": "event-info",
     "start": "1559606400000",
     "end": "1559606400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 3,
     "usergroup": "",
-    "title": "Shopware User Group Rhein-Neckar",
-    "url": "https://www.xing.com/events/shopware-user-group-rhein-neckar-2085937",
-    "class": "event-info",
+    "title": "Karlsruher Entwicklertag 2019",
+    "url": "https://entwicklertag.de/karlsruhe/2019/",
+    "class": "event-important",
     "start": "1559606400000",
     "end": "1559606400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
@@ -321,20 +321,20 @@
     "class": "event-important",
     "start": "1564617600000",
     "end": "1564617600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 40,
-    "usergroup": "",
-    "title": "TYPO3 Developer Days 2020 Karlsruhe",
-    "url": "https://www.eventbrite.com/e/typo3-developer-days-2020-karlsruhe-tickets-86793968095",
-    "class": "event-important",
-    "start": "1564704000000",
-    "end": "1564704000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 41,
+    "id": 40,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Railways of the World und 18Lilliput",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/251315593/",
     "class": "event-info",
+    "start": "1564704000000",
+    "end": "1564704000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 41,
+    "usergroup": "",
+    "title": "TYPO3 Developer Days 2020 Karlsruhe",
+    "url": "https://www.eventbrite.com/e/typo3-developer-days-2020-karlsruhe-tickets-86793968095",
+    "class": "event-important",
     "start": "1564704000000",
     "end": "1564704000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
@@ -425,8 +425,16 @@
     "class": "event-info",
     "start": "1567641600000",
     "end": "1567641600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 53,
+    "usergroup": "",
+    "title": "Code Sprint for PHPUnit",
+    "url": "https://phpunit.de/code-sprints/september-2019.html",
+    "class": "event-warning",
+    "start": "1567728000000",
+    "end": "1567728000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 54,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: Boardgames Night in Heidelberg",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/pjvdtpyzmbjb/",
@@ -434,43 +442,35 @@
     "start": "1567728000000",
     "end": "1567728000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 54,
-    "usergroup": "",
-    "title": "Code Sprint for PHPUnit",
-    "url": "https://phpunit.de/code-sprints/september-2019.html",
-    "class": "event-warning",
-    "start": "1567728000000",
-    "end": "1567728000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 55,
     "usergroup": "",
-    "title": "Code Sprint for PHPUnit",
-    "url": "https://phpunit.de/code-sprints/september-2019.html",
-    "class": "event-warning",
+    "title": "Rhein-Neckar-Camp 2019",
+    "url": "https://barcamp-rhein-neckar.de",
+    "class": "event-success",
     "start": "1567814400000",
     "end": "1567814400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 56,
     "usergroup": "",
-    "title": "Rhein-Neckar-Camp 2019",
-    "url": "https://barcamp-rhein-neckar.de",
-    "class": "event-success",
+    "title": "Code Sprint for PHPUnit",
+    "url": "https://phpunit.de/code-sprints/september-2019.html",
+    "class": "event-warning",
     "start": "1567814400000",
     "end": "1567814400000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 57,
-    "usergroup": "",
-    "title": "Rhein-Neckar-Camp 2019",
-    "url": "https://barcamp-rhein-neckar.de",
-    "class": "event-success",
-    "start": "1567900800000",
-    "end": "1567900800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 58,
+    "id": 57,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: 4X in space - Twilight Imperium 4th Edition",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/254126457/",
     "class": "event-info",
+    "start": "1567900800000",
+    "end": "1567900800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 58,
+    "usergroup": "",
+    "title": "Rhein-Neckar-Camp 2019",
+    "url": "https://barcamp-rhein-neckar.de",
+    "class": "event-success",
     "start": "1567900800000",
     "end": "1567900800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
@@ -564,16 +564,16 @@
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 70,
     "usergroup": "",
-    "title": "Accento - Dev/Java/JavaScript",
-    "url": "https://accento.dev",
+    "title": "heise devSec 2019",
+    "url": "https://www.heise-devsec.de",
     "class": "event-important",
     "start": "1569283200000",
     "end": "1569283200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 71,
     "usergroup": "",
-    "title": "heise devSec 2019",
-    "url": "https://www.heise-devsec.de",
+    "title": "Accento - Dev/Java/JavaScript",
+    "url": "https://accento.dev",
     "class": "event-important",
     "start": "1569283200000",
     "end": "1569283200000"
@@ -689,20 +689,20 @@
     "class": "event-important",
     "start": "1571184000000",
     "end": "1571184000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 86,
-    "usergroup": "",
-    "title": "UX-DAY Mannheim 2019",
-    "url": "https://ux-day.de/ux-day-2019/",
-    "class": "event-important",
-    "start": "1571270400000",
-    "end": "1571270400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 87,
+    "id": 86,
     "usergroup": "iotrn",
     "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
     "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqyznbwb/",
     "class": "event-info",
+    "start": "1571270400000",
+    "end": "1571270400000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 87,
+    "usergroup": "",
+    "title": "UX-DAY Mannheim 2019",
+    "url": "https://ux-day.de/ux-day-2019/",
+    "class": "event-important",
     "start": "1571270400000",
     "end": "1571270400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -820,21 +820,29 @@
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 102,
     "usergroup": "",
-    "title": "ContainerConf 2019",
-    "url": "https://www.containerconf.de",
+    "title": "Continuous Lifecycle 2019",
+    "url": "https://www.continuouslifecycle.de",
     "class": "event-important",
     "start": "1573603200000",
     "end": "1573603200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 103,
     "usergroup": "",
-    "title": "Continuous Lifecycle 2019",
-    "url": "https://www.continuouslifecycle.de",
+    "title": "ContainerConf 2019",
+    "url": "https://www.containerconf.de",
     "class": "event-important",
     "start": "1573603200000",
     "end": "1573603200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
     "id": 104,
+    "usergroup": "",
+    "title": "Continuous Lifecycle 2019",
+    "url": "https://www.continuouslifecycle.de",
+    "class": "event-important",
+    "start": "1573689600000",
+    "end": "1573689600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 105,
     "usergroup": "iotrn",
     "title": "Internet of Things RheinNeckar: 2-Wöchentliche IoT-Bastelstunde",
     "url": "https://www.meetup.com/Internet-of-Things-IoT-LoRaWan-Infrastruktur-4-RheinNeckar/events/cmbzlqyzpbsb/",
@@ -842,7 +850,7 @@
     "start": "1573689600000",
     "end": "1573689600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 105,
+    "id": 106,
     "usergroup": "",
     "title": "ContainerConf 2019",
     "url": "https://www.containerconf.de",
@@ -850,19 +858,11 @@
     "start": "1573689600000",
     "end": "1573689600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 106,
+    "id": 107,
     "usergroup": "majug",
     "title": "majug: Testen von und mit Infrastruktur - Integration Testing done right",
     "url": "http://majug.de/2019/11/14/testen-von-infrastruktur/",
     "class": "event-info",
-    "start": "1573689600000",
-    "end": "1573689600000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 107,
-    "usergroup": "",
-    "title": "Continuous Lifecycle 2019",
-    "url": "https://www.continuouslifecycle.de",
-    "class": "event-important",
     "start": "1573689600000",
     "end": "1573689600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -937,20 +937,20 @@
     "class": "event-important",
     "start": "1575331200000",
     "end": "1575331200000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 117,
-    "usergroup": "",
-    "title": "heise MacDev 2019",
-    "url": "https://heise-macdev.de",
-    "class": "event-important",
-    "start": "1575417600000",
-    "end": "1575417600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 118,
+    "id": 117,
     "usergroup": "bogama",
     "title": "Mannheim Boardgames Meetup: 18XX für Einsteiger / 18XX for Beginners",
     "url": "https://www.meetup.com/Mannheim-Boardgames-Meetup/events/260417246/",
     "class": "event-info",
+    "start": "1575417600000",
+    "end": "1575417600000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 118,
+    "usergroup": "",
+    "title": "heise MacDev 2019",
+    "url": "https://heise-macdev.de",
+    "class": "event-important",
     "start": "1575417600000",
     "end": "1575417600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1201,20 +1201,20 @@
     "class": "event-important",
     "start": "1584316800000",
     "end": "1584316800000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
-    "id": 150,
-    "usergroup": "",
-    "title": "TROOPERS Conference 2020",
-    "url": "https://www.troopers.de",
-    "class": "event-important",
-    "start": "1584403200000",
-    "end": "1584403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 151,
+    "id": 150,
     "usergroup": "wordpressma",
     "title": "WordPress Mannheim: WP Meetup Mannheim",
     "url": "https://www.meetup.com/WordPress-Mannheim/events/zpjxvpybcfbwb/",
     "class": "event-info",
+    "start": "1584403200000",
+    "end": "1584403200000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
+    "id": 151,
+    "usergroup": "",
+    "title": "TROOPERS Conference 2020",
+    "url": "https://www.troopers.de",
+    "class": "event-important",
     "start": "1584403200000",
     "end": "1584403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          {
@@ -1443,17 +1443,17 @@
     "end": "1614038400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 180,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 01/21",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304484/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: NoName e.V.: Online-Treff: https://www.noname-ev.de/w/Online-Treff",
+    "url": "",
     "class": "event-info",
     "start": "1614211200000",
     "end": "1614211200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 181,
-    "usergroup": "noname",
-    "title": "NoName e.V.: NoName e.V.: Online-Treff: https://www.noname-ev.de/w/Online-Treff",
-    "url": "",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 01/21",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304484/",
     "class": "event-info",
     "start": "1614211200000",
     "end": "1614211200000"
@@ -1715,17 +1715,17 @@
     "end": "1618444800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 214,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccgbvb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccgbvb/",
     "class": "event-info",
     "start": "1618531200000",
     "end": "1618531200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 215,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccgbvb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccgbvb/",
     "class": "event-info",
     "start": "1618531200000",
     "end": "1618531200000"
@@ -1827,17 +1827,17 @@
     "end": "1620259200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 228,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchbkb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchbkb/",
     "class": "event-info",
     "start": "1620345600000",
     "end": "1620345600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 229,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchbkb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchbkb/",
     "class": "event-info",
     "start": "1620345600000",
     "end": "1620345600000"
@@ -1899,17 +1899,17 @@
     "end": "1621468800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 237,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchbcc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchbcc/",
     "class": "event-info",
     "start": "1621555200000",
     "end": "1621555200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 238,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchbcc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchbcc/",
     "class": "event-info",
     "start": "1621555200000",
     "end": "1621555200000"
@@ -1931,17 +1931,17 @@
     "end": "1622073600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 241,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchblc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchblc/",
     "class": "event-info",
     "start": "1622160000000",
     "end": "1622160000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 242,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycchblc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycchblc/",
     "class": "event-info",
     "start": "1622160000000",
     "end": "1622160000000"
@@ -1971,17 +1971,17 @@
     "end": "1622678400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 246,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccjbgb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccjbgb/",
     "class": "event-info",
     "start": "1622764800000",
     "end": "1622764800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 247,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccjbgb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccjbgb/",
     "class": "event-info",
     "start": "1622764800000",
     "end": "1622764800000"
@@ -2003,17 +2003,17 @@
     "end": "1623283200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 250,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccjbpb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccjbpb/",
     "class": "event-info",
     "start": "1623369600000",
     "end": "1623369600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 251,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccjbpb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccjbpb/",
     "class": "event-info",
     "start": "1623369600000",
     "end": "1623369600000"
@@ -2027,17 +2027,17 @@
     "end": "1623801600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 253,
-    "usergroup": "jugda",
-    "title": "Java User Group Darmstadt: JUG DA: Hibernate in complex projects – Can we be a little faster? (Thorben Janssen)",
-    "url": "https://www.jug-da.de/2021/06/Hibernate/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1623888000000",
     "end": "1623888000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 254,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "jugda",
+    "title": "Java User Group Darmstadt: JUG DA: Hibernate in complex projects – Can we be a little faster? (Thorben Janssen)",
+    "url": "https://www.jug-da.de/2021/06/Hibernate/",
     "class": "event-info",
     "start": "1623888000000",
     "end": "1623888000000"
@@ -2067,17 +2067,17 @@
     "end": "1624406400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 258,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 03/21",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304495/",
     "class": "event-info",
     "start": "1624492800000",
     "end": "1624492800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 259,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 03/21",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304495/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1624492800000",
     "end": "1624492800000"
@@ -2147,17 +2147,17 @@
     "end": "1625702400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 268,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycckbmb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycckbmb/",
     "class": "event-info",
     "start": "1625788800000",
     "end": "1625788800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 269,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycckbmb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycckbmb/",
     "class": "event-info",
     "start": "1625788800000",
     "end": "1625788800000"
@@ -2179,17 +2179,17 @@
     "end": "1626307200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 272,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycckbvb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycckbvb/",
     "class": "event-info",
     "start": "1626393600000",
     "end": "1626393600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 273,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycckbvb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycckbvb/",
     "class": "event-info",
     "start": "1626393600000",
     "end": "1626393600000"
@@ -2307,17 +2307,17 @@
     "end": "1628726400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 288,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycclbrb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycclbrb/",
     "class": "event-info",
     "start": "1628812800000",
     "end": "1628812800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 289,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpycclbrb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrycclbrb/",
     "class": "event-info",
     "start": "1628812800000",
     "end": "1628812800000"
@@ -2363,17 +2363,17 @@
     "end": "1629849600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 295,
-    "usergroup": "noname",
-    "title": "NoName e.V.: Chaos-Treff",
-    "url": "https://www.noname-ev.de/anfahrt.html",
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 04/21",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304499/",
     "class": "event-info",
     "start": "1629936000000",
     "end": "1629936000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 296,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 04/21",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304499/",
+    "usergroup": "noname",
+    "title": "NoName e.V.: Chaos-Treff",
+    "url": "https://www.noname-ev.de/anfahrt.html",
     "class": "event-info",
     "start": "1629936000000",
     "end": "1629936000000"
@@ -2443,17 +2443,17 @@
     "end": "1631145600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 305,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccmbnb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccmbnb/",
     "class": "event-info",
     "start": "1631232000000",
     "end": "1631232000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 306,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccmbnb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccmbnb/",
     "class": "event-info",
     "start": "1631232000000",
     "end": "1631232000000"
@@ -2571,17 +2571,17 @@
     "end": "1633564800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 321,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnblb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnblb/",
     "class": "event-info",
     "start": "1633651200000",
     "end": "1633651200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 322,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnblb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnblb/",
     "class": "event-info",
     "start": "1633651200000",
     "end": "1633651200000"
@@ -2635,17 +2635,17 @@
     "end": "1634774400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 329,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnbdc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnbdc/",
     "class": "event-info",
     "start": "1634860800000",
     "end": "1634860800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 330,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnbdc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnbdc/",
     "class": "event-info",
     "start": "1634860800000",
     "end": "1634860800000"
@@ -2675,17 +2675,17 @@
     "end": "1635379200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 334,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnbmc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnbmc/",
     "class": "event-info",
     "start": "1635465600000",
     "end": "1635465600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 335,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccnbmc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccnbmc/",
     "class": "event-info",
     "start": "1635465600000",
     "end": "1635465600000"
@@ -2771,17 +2771,17 @@
     "end": "1637193600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 346,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccpbzb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccpbzb/",
     "class": "event-info",
     "start": "1637280000000",
     "end": "1637280000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 347,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccpbzb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccpbzb/",
     "class": "event-info",
     "start": "1637280000000",
     "end": "1637280000000"
@@ -2803,17 +2803,17 @@
     "end": "1637798400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 350,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccpbjc/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccpbjc/",
     "class": "event-info",
     "start": "1637884800000",
     "end": "1637884800000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 351,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccpbjc/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccpbjc/",
     "class": "event-info",
     "start": "1637884800000",
     "end": "1637884800000"
@@ -2835,17 +2835,17 @@
     "end": "1638403200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 354,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccqbfb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccqbfb/",
     "class": "event-info",
     "start": "1638489600000",
     "end": "1638489600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 355,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccqbfb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccqbfb/",
     "class": "event-info",
     "start": "1638489600000",
     "end": "1638489600000"
@@ -2859,14 +2859,6 @@
     "end": "1638921600000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 357,
-    "usergroup": "phpugmrn",
-    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/21",
-    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304515/",
-    "class": "event-info",
-    "start": "1639008000000",
-    "end": "1639008000000"
-    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 358,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
@@ -2874,18 +2866,26 @@
     "start": "1639008000000",
     "end": "1639008000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 358,
+    "usergroup": "phpugmrn",
+    "title": "PHP Usergroup Metropolregion Rhein-Neckar: PHPUGMRN 06/21",
+    "url": "https://www.meetup.com/PHPUG-Rhein-Neckar/events/275304515/",
+    "class": "event-info",
+    "start": "1639008000000",
+    "end": "1639008000000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 359,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccqbnb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccqbnb/",
     "class": "event-info",
     "start": "1639094400000",
     "end": "1639094400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 360,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwryccqbnb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpyccqbnb/",
     "class": "event-info",
     "start": "1639094400000",
     "end": "1639094400000"
@@ -3035,17 +3035,17 @@
     "end": "1642032000000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 379,
-    "usergroup": "smalltalkrn",
-    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
-    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpydccbsb/",
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrydccbsb/",
     "class": "event-info",
     "start": "1642118400000",
     "end": "1642118400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 380,
-    "usergroup": "makershd",
-    "title": "Heidelberg Makers Meetup: Friday PiDay",
-    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrydccbsb/",
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpydccbsb/",
     "class": "event-info",
     "start": "1642118400000",
     "end": "1642118400000"
@@ -3131,6 +3131,22 @@
     "end": "1643846400000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
     "id": 391,
+    "usergroup": "smalltalkrn",
+    "title": "Smalltalk User Group Rhein-Neckar: Meet on a regular basis",
+    "url": "https://www.meetup.com/back-to-the-future/events/hmcmfpydcdbgb/",
+    "class": "event-info",
+    "start": "1643932800000",
+    "end": "1643932800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 392,
+    "usergroup": "makershd",
+    "title": "Heidelberg Makers Meetup: Friday PiDay",
+    "url": "https://www.meetup.com/Heidelberg-Makers-Meetup/events/pksqwrydcdbgb/",
+    "class": "event-info",
+    "start": "1643932800000",
+    "end": "1643932800000"
+    },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
+    "id": 393,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
@@ -3138,7 +3154,7 @@
     "start": "1644451200000",
     "end": "1644451200000"
     },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {
-    "id": 392,
+    "id": 394,
     "usergroup": "noname",
     "title": "NoName e.V.: Chaos-Treff",
     "url": "https://www.noname-ev.de/anfahrt.html",
